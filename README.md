@@ -43,3 +43,7 @@ pdf 21: https://cbright.myweb.cs.uwindsor.ca/reports/cs662-problem12.pdf
 pdf 22: https://www.ams.org/journals/mcom/1989-53-188/S0025-5718-1989-0982368-4/S0025-5718-1989-0982368-4.pdf
 
 pdf 23: https://www.ams.org/journals/mcom/1975-29-130/S0025-5718-1975-0384673-1/S0025-5718-1975-0384673-1.pdf
+
+pdf 24: https://cs.uwaterloo.ca/journals/JIS/VOL15/Caldwell2/cald6.pdf
+
+pdf 25: https://oeis.org/A005165/a005165.pdf
