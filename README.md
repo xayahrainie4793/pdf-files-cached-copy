@@ -17,3 +17,9 @@ pdf 8: http://www.iakovlev.org/zip/riesel2.pdf
 pdf 9: http://matwbn.icm.edu.pl/ksiazki/aa/aa39/aa3912.pdf
 
 pdf 10: https://www.ams.org/journals/mcom/2000-69-232/S0025-5718-00-01212-6/S0025-5718-00-01212-6.pdf
+
+pdf 11: http://www.cs.uwaterloo.ca/~shallit/Papers/minimal5.pdf
+
+pdf 12: http://www.wiskundemeisjes.nl/wp-content/uploads/2007/02/minimal.pdf
+
+pdf 13: https://oeis.org/A071071/a071071.pdf
