@@ -39,3 +39,5 @@ pdf 19: https://cs.uwaterloo.ca/~cbright/talks/minimal-slides.pdf
 pdf 20: https://www.tandfonline.com/doi/abs/10.1080/10586458.2015.1064048?journalCode=uexm20
 
 pdf 21: https://cbright.myweb.cs.uwindsor.ca/reports/cs662-problem12.pdf
+
+pdf 22: https://www.ams.org/journals/mcom/1989-53-188/S0025-5718-1989-0982368-4/S0025-5718-1989-0982368-4.pdf
