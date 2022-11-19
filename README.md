@@ -1,22 +1,22 @@
-pdf 1: http://www.kurims.kyoto-u.ac.jp/EMIS/journals/INTEGERS/papers/i61/i61.pdf
+pdf 1: http://www.kurims.kyoto-u.ac.jp/EMIS/journals/INTEGERS/papers/i61/i61.pdf (Resolution of the Mixed Sierpinski Problem)
 
-pdf 2: https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1165&context=rhumj
+pdf 2: https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1165&context=rhumj (A Reverse Sierpinski Number Problem)
 
-pdf 3: https://www.utm.edu/staff/caldwell/preprints/2to100.pdf
+pdf 3: https://www.utm.edu/staff/caldwell/preprints/2to100.pdf (Generalized Sierpinski Numbers Base *b*)
 
-pdf 4: https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1185243-9/S0025-5718-1993-1185243-9.pdf
+pdf 4: https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1185243-9/S0025-5718-1993-1185243-9.pdf (Generalized Repunit Primes)
 
-pdf 5: https://cs.uwaterloo.ca/journals/JIS/VOL3/DUBNER/dubner.pdf
+pdf 5: https://cs.uwaterloo.ca/journals/JIS/VOL3/DUBNER/dubner.pdf (Primes of the Form (*b*<sup>*n*</sup>+1)/(*b*+1))
 
-pdf 6: https://homes.cerias.purdue.edu/~ssw/cun/mine.pdf
+pdf 6: https://homes.cerias.purdue.edu/~ssw/cun/mine.pdf (The Search for Aurifeuillian-Like Factorizations)
 
-pdf 7: https://www.mersenneforum.org/attachment.php?attachmentid=7727&d=1330555980
+pdf 7: https://doi.org/10.1090/conm/022 (Factorizations of *b*<sup>*n*</sup>±1, *b* = 2, 3, 5, 6, 7, 10, 11, 12, up to High Powers)
 
-pdf 8: http://www.iakovlev.org/zip/riesel2.pdf
+pdf 8: http://www.iakovlev.org/zip/riesel2.pdf (Study on the Sierpinski and Riesel Numbers)
 
-pdf 9: http://matwbn.icm.edu.pl/ksiazki/aa/aa39/aa3912.pdf
+pdf 9: http://matwbn.icm.edu.pl/ksiazki/aa/aa39/aa3912.pdf (The primality of certain integers of the form 2×*A*×*r*<sup>*n*</sup>−1)
 
-pdf 10: https://www.ams.org/journals/mcom/2000-69-232/S0025-5718-00-01212-6/S0025-5718-00-01212-6.pdf
+pdf 10: https://www.ams.org/journals/mcom/2000-69-232/S0025-5718-00-01212-6/S0025-5718-00-01212-6.pdf (Explicit primality criteria for (*p*−1)×*p*<sup>*n*</sup>−1)
 
 pdf 11: http://www.cs.uwaterloo.ca/~shallit/Papers/minimal5.pdf
 
