@@ -27,3 +27,11 @@ pdf 13: https://oeis.org/A071071/a071071.pdf
 pdf 14: https://arxiv.org/pdf/1607.01548.pdf
 
 pdf 15: https://nntdm.net/papers/nntdm-25/NNTDM-25-1-036-047.pdf
+
+pdf 16: https://scholar.colorado.edu/downloads/hh63sw661
+
+pdf 17: https://cs.uwaterloo.ca/~cbright/reports/mepn.pdf
+
+pdf 18: https://cs.uwaterloo.ca/~shallit/Papers/br10.pdf
+
+pdf 19: https://cs.uwaterloo.ca/~cbright/talks/minimal-slides.pdf
