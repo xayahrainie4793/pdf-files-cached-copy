@@ -23,3 +23,7 @@ pdf 11: http://www.cs.uwaterloo.ca/~shallit/Papers/minimal5.pdf
 pdf 12: http://www.wiskundemeisjes.nl/wp-content/uploads/2007/02/minimal.pdf
 
 pdf 13: https://oeis.org/A071071/a071071.pdf
+
+pdf 14: https://arxiv.org/pdf/1607.01548.pdf
+
+pdf 15: https://nntdm.net/papers/nntdm-25/NNTDM-25-1-036-047.pdf
