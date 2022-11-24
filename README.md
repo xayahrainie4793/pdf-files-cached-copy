@@ -48,4 +48,6 @@ pdf 24: https://cs.uwaterloo.ca/journals/JIS/VOL15/Caldwell2/cald6.pdf (The Hist
 
 pdf 25: https://oeis.org/A005165/a005165.pdf (The Strong Law of Small Numbers)
 
-pdf 26: https://repunit-koide.jimdofree.com/app/download/10034950550/Repunit100-20220928.pdf?t=1664381531 
+pdf 26: https://repunit-koide.jimdofree.com/app/download/10034950550/Repunit100-20220928.pdf?t=1664381531
+
+pdf 27: https://www.ams.org/journals/mcom/1975-29-129/S0025-5718-1975-0376583-0/S0025-5718-1975-0376583-0.pdf
