@@ -52,4 +52,4 @@ pdf 26: https://repunit-koide.jimdofree.com/app/download/10034950550/Repunit100-
 
 pdf 27: https://www.ams.org/journals/mcom/1975-29-129/S0025-5718-1975-0376583-0/S0025-5718-1975-0376583-0.pdf (Not every number is the sum or difference of two prime powers)
 
-pdf 28: https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf
+pdf 28: https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (On Truncatable Primes)
