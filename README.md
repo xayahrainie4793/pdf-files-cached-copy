@@ -48,7 +48,7 @@ pdf 24: https://cs.uwaterloo.ca/journals/JIS/VOL15/Caldwell2/cald6.pdf (The Hist
 
 pdf 25: https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Guy697-712.pdf (The Strong Law of Small Numbers)
 
-pdf 26: https://repunit-koide.jimdofree.com/app/download/10034950550/Repunit100-20221222.pdf?t=1671715731
+pdf 26: https://repunit-koide.jimdofree.com/app/download/10034950550/Repunit100-20221222.pdf?t=1671715731 (Factor of Repunit Numbers)
 
 pdf 27: https://www.ams.org/journals/mcom/1975-29-129/S0025-5718-1975-0376583-0/S0025-5718-1975-0376583-0.pdf (Not every number is the sum or difference of two prime powers)
 
