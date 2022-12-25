@@ -46,7 +46,7 @@ pdf 23: https://www.ams.org/journals/mcom/1975-29-130/S0025-5718-1975-0384673-1/
 
 pdf 24: https://cs.uwaterloo.ca/journals/JIS/VOL15/Caldwell2/cald6.pdf (The History of the Primality of One: A Selection of Sources)
 
-pdf 25: https://oeis.org/A005165/a005165.pdf (The Strong Law of Small Numbers)
+pdf 25: https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Guy697-712.pdf (The Strong Law of Small Numbers)
 
 pdf 26: https://repunit-koide.jimdofree.com/app/download/10034950550/Repunit100-20220928.pdf?t=1664381531
 
