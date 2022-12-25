@@ -55,3 +55,5 @@ pdf 27: https://www.ams.org/journals/mcom/1975-29-129/S0025-5718-1975-0376583-0/
 pdf 28: https://www.ams.org/journals/mcom/1977-31-137/S0025-5718-1977-0427213-2/S0025-5718-1977-0427213-2.pdf (On Truncatable Primes)
 
 pdf 29: https://arxiv.org/pdf/1605.01371.pdf (Expect at most one billionth of a new Fermat Prime!)
+
+pdf 30: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.13&rep=rep1&type=pdf (Absolute Primes)
