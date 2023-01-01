@@ -67,3 +67,5 @@ pdf 33: https://arxiv.org/pdf/0802.3361.pdf (A Remark on Primality Testing and D
 pdf 34: https://oeis.org/A007013/a007013.pdf (A Selection of Problems in the Theory of Numbers)
 
 pdf 35: https://arxiv.org/pdf/math/0405056.pdf (Almost All Palindromes Are Composite)
+
+pdf 36: https://oeis.org/A125134/a125134.pdf (Les nombres brésiliens)
