@@ -81,3 +81,5 @@ pdf 40: https://www.ams.org/journals/mcom/1983-40-161/S0025-5718-1983-0679453-8/
 pdf 41: https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1192971-8/S0025-5718-1993-1192971-8.pdf (On strong pseudoprimes to several bases)
 
 pdf 42: https://arxiv.org/pdf/1207.0063.pdf (Strong pseudoprimes to the first 9 prime bases)
+
+pdf 43: https://arxiv.org/pdf/1509.00864.pdf (Strong Pseudoprimes to Twelve Prime Bases)
