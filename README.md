@@ -77,3 +77,7 @@ pdf 38: https://people.math.sc.edu/filaseta/ConsecutiveDigitallyDelicatePrimes20
 pdf 39: https://www.cristal.univ-lille.fr/~jdelahay/dnalor/ChasseursNbPr.pdf (Les chasseurs de nombres premiers)
 
 pdf 40: https://www.ams.org/journals/mcom/1983-40-161/S0025-5718-1983-0679453-8/S0025-5718-1983-0679453-8.pdf (On the Smallest *k* Such That All *k*×2<sup>*N*</sup> + 1 Are Composite)
+
+pdf 41: https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1192971-8/S0025-5718-1993-1192971-8.pdf (On strong pseudoprimes to several bases)
+
+pdf 42: https://arxiv.org/pdf/1207.0063.pdf (Strong pseudoprimes to the first 9 prime bases)
