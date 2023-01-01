@@ -65,3 +65,5 @@ pdf 32: https://arxiv.org/pdf/2101.08898.pdf (Consecutive primes which are widel
 pdf 33: https://arxiv.org/pdf/0802.3361.pdf (A Remark on Primality Testing and Decimal Expansions)
 
 pdf 34: https://oeis.org/A007013/a007013.pdf (A Selection of Problems in the Theory of Numbers)
+
+pdf 35: https://arxiv.org/pdf/math/0405056.pdf (Almost All Palindromes Are Composite)
