@@ -73,3 +73,5 @@ pdf 36: https://oeis.org/A125134/a125134.pdf (Les nombres brésiliens)
 pdf 37: https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society/article/remark-on-primality-testing-and-decimal-expansions/AFC833FBCF093EB85B5432734E9A87FD (A Remark on Primality Testing and Decimal Expansions)
 
 pdf 38: https://people.math.sc.edu/filaseta/ConsecutiveDigitallyDelicatePrimes2021.pdf (Consecutive primes which are widely digitally delicate)
+
+pdf 39: https://www.cristal.univ-lille.fr/~jdelahay/dnalor/ChasseursNbPr.pdf (Les chasseurs de nombres premiers)
