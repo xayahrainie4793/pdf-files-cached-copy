@@ -85,3 +85,5 @@ pdf 42: https://arxiv.org/pdf/1207.0063.pdf (Strong pseudoprimes to the first 9 
 pdf 43: https://arxiv.org/pdf/1509.00864.pdf (Strong Pseudoprimes to Twelve Prime Bases)
 
 pdf 44: https://www.sciencedirect.com/science/article/pii/S0747717185710425?via%3Dihub (Constructing Carmichael Numbers which are Strong Pseudoprimes to Several Bases)
+
+pdf 45: https://www.ams.org/journals/mcom/1980-35-151/S0025-5718-1980-0572872-7/S0025-5718-1980-0572872-7.pdf (The Pseudoprimes to 25×10<sup>9</sup>)
