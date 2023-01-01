@@ -63,3 +63,5 @@ pdf 31: https://arxiv.org/pdf/1510.03401.pdf (Digitally delicate primes)
 pdf 32: https://arxiv.org/pdf/2101.08898.pdf (Consecutive primes which are widely digitally delicate)
 
 pdf 33: https://arxiv.org/pdf/0802.3361.pdf (A Remark on Primality Testing and Decimal Expansions)
+
+pdf 34: https://oeis.org/A007013/a007013.pdf (A Selection of Problems in the Theory of Numbers)
