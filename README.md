@@ -75,3 +75,5 @@ pdf 37: https://www.cambridge.org/core/journals/journal-of-the-australian-mathem
 pdf 38: https://people.math.sc.edu/filaseta/ConsecutiveDigitallyDelicatePrimes2021.pdf (Consecutive primes which are widely digitally delicate)
 
 pdf 39: https://www.cristal.univ-lille.fr/~jdelahay/dnalor/ChasseursNbPr.pdf (Les chasseurs de nombres premiers)
+
+pdf 40: https://www.ams.org/journals/mcom/1983-40-161/S0025-5718-1983-0679453-8/S0025-5718-1983-0679453-8.pdf (On the Smallest *k* Such That All *k*×2<sup>*N*</sup> + 1 Are Composite)
