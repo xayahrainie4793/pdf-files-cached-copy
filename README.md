@@ -91,3 +91,5 @@ pdf 45: https://www.ams.org/journals/mcom/1980-35-151/S0025-5718-1980-0572872-7/
 pdf 46: https://www.fq.math.ca/Scanned/33-3/izotov.pdf (A Note on Sierpinski Numbers)
 
 pdf 47: https://doi.org/10.1016/j.jnt.2008.02.004 (On powers associated with Sierpiński numbers, Riesel numbers and Polignac's conjecture)
+
+pdf 48: http://yves.gallot.pagesperso-orange.fr/papers/smallbrier.pdf (A search for some small Brier numbers)
