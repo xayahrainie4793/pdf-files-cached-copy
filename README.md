@@ -97,3 +97,7 @@ pdf 48: http://yves.gallot.pagesperso-orange.fr/papers/smallbrier.pdf (A search 
 pdf 49: http://www.ams.org/journals/mcom/2003-72-243/S0025-5718-02-01479-5/S0025-5718-02-01479-5.pdf (The twenty-fourth Fermat number is composite)
 
 pdf 50: http://www.ams.org/journals/mcom/1988-50-181/S0025-5718-1988-0917833-8/S0025-5718-1988-0917833-8.pdf (The twentieth Fermat number is composite)
+
+pdf 51: https://cs.uwaterloo.ca/journals/JIS/VOL16/Ismailescu/ismailescu3.pdf (On Pairwise Intersections of the Fibonacci, Sierpiński, and Riesel Sequences)
+
+pdf 52: https://arxiv.org/pdf/2209.10646.pdf (Consecutive primes which are widely digitally delicate and Brier numbers)
