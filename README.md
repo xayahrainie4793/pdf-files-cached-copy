@@ -93,3 +93,7 @@ pdf 46: https://www.fq.math.ca/Scanned/33-3/izotov.pdf (A Note on Sierpinski Num
 pdf 47: https://doi.org/10.1016/j.jnt.2008.02.004 (On powers associated with Sierpiński numbers, Riesel numbers and Polignac's conjecture)
 
 pdf 48: http://yves.gallot.pagesperso-orange.fr/papers/smallbrier.pdf (A search for some small Brier numbers)
+
+pdf 49: http://www.ams.org/journals/mcom/2003-72-243/S0025-5718-02-01479-5/S0025-5718-02-01479-5.pdf (The twenty-fourth Fermat number is composite)
+
+pdf 50: http://www.ams.org/journals/mcom/1988-50-181/S0025-5718-1988-0917833-8/S0025-5718-1988-0917833-8.pdf (The twentieth Fermat number is composite)
