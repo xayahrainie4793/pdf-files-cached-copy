@@ -101,3 +101,7 @@ pdf 50: http://www.ams.org/journals/mcom/1988-50-181/S0025-5718-1988-0917833-8/S
 pdf 51: https://cs.uwaterloo.ca/journals/JIS/VOL16/Ismailescu/ismailescu3.pdf (On Pairwise Intersections of the Fibonacci, Sierpiński, and Riesel Sequences)
 
 pdf 52: https://arxiv.org/pdf/2209.10646.pdf (Consecutive primes which are widely digitally delicate and Brier numbers)
+
+pdf 53: https://www.ams.org/journals/mcom/1999-68-225/S0025-5718-99-00992-8/S0025-5718-99-00992-8.pdf (Factorization of the tenth Fermat number)
+
+pdf 54: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182953-4/S0025-5718-1993-1182953-4.pdf (The factorization of the ninth Fermat number)
