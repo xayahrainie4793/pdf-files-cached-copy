@@ -127,3 +127,13 @@ pdf 63: http://www.sci.kobe-u.ac.jp/old/seminar/pdf/2008_yamazaki.pdf (フェル
 pdf 64: http://go.helms-net.de/math/expdioph/fermatquotients.pdf (Fermat-/Euler-quotients)
 
 pdf 65: https://dozenal.org/drupal/sites_bck/default/files/MultiplicationSynopsis.pdf (Multiplication Tables of Various Bases)
+
+pdf 66: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.693.5325 
+
+pdf 67: http://math101.guru/wp-content/uploads/2018/09/01-A3-Presentation-v7.3EN-no.pdf (Testing Chebyshev's bias for Prime Numbers up to 10<sup>15</sup>)
+
+pdf 68: https://www.ams.org/journals/mcom/2009-78-266/S0025-5718-08-02154-6/S0025-5718-08-02154-6.pdf (A Covering System with Least Modulus 25)
+
+pdf 69: https://www.sciencedirect.com/science/article/pii/S0022314X08002199?ref=pdf_download&fr=RR-2&rr=785d5e58e902f248 (A covering system whose smallest modulus is 40)
+
+pdf 70: https://www.ams.org/journals/mcom/1983-40-161/S0025-5718-1983-0679454-X/S0025-5718-1983-0679454-X.pdf (Divisors of Mersenne Numbers)
