@@ -105,3 +105,5 @@ pdf 52: https://arxiv.org/pdf/2209.10646.pdf (Consecutive primes which are widel
 pdf 53: https://www.ams.org/journals/mcom/1999-68-225/S0025-5718-99-00992-8/S0025-5718-99-00992-8.pdf (Factorization of the tenth Fermat number)
 
 pdf 54: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182953-4/S0025-5718-1993-1182953-4.pdf (The factorization of the ninth Fermat number)
+
+pdf 55: http://yves.gallot.pagesperso-orange.fr/papers/cyclotomic.pdf (Cyclotomic polynomials and prime numbers)
