@@ -107,3 +107,21 @@ pdf 53: https://www.ams.org/journals/mcom/1999-68-225/S0025-5718-99-00992-8/S002
 pdf 54: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182953-4/S0025-5718-1993-1182953-4.pdf (The factorization of the ninth Fermat number)
 
 pdf 55: http://yves.gallot.pagesperso-orange.fr/papers/cyclotomic.pdf (Cyclotomic polynomials and prime numbers)
+
+pdf 56: https://cs.uwaterloo.ca/journals/JIS/VOL14/Oller/oller3.pdf (On the Base-*b* Expansion of the Number of Trailing Zeros of *b*<sup>*k*</sup>!)
+
+pdf 57: https://fellis.wescreates.wesleyan.edu/research/publications/JRM_30_177_2000.pdf (Prime Trees)
+
+pdf 58: https://hlma.hanglung.com/wp-content/uploads/2018/06/a90bcf7cf0e95d023687faea1b2408fa.pdf (Classification of Prime Numbers by Prime Number Trees)
+
+pdf 59: http://www.math.uiuc.edu/~ford/wwwpapers/lehman.pdf (Sign changes in pi q,a(x) - pi q,b(x))
+
+pdf 60: https://dms.umontreal.ca/~andrew/PDF/PrimeRace.pdf (Prime Number Races)
+
+pdf 61: https://cs.uwaterloo.ca/journals/JIS/VOL18/Baczkowski/bacz2.pdf (Polygonal, Sierpi´nski, and Riesel numbers)
+
+pdf 62: https://arxiv.org/pdf/1110.4671.pdf (Verifying Sierpinski and Riesel Numbers in ACL2)
+
+pdf 63: http://www.sci.kobe-u.ac.jp/old/seminar/pdf/2008_yamazaki.pdf (フェルマー商に関係する数論)
+
+pdf 64: http://go.helms-net.de/math/expdioph/fermatquotients.pdf (Fermat-/Euler-quotients)
