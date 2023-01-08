@@ -114,7 +114,7 @@ pdf 57: https://fellis.wescreates.wesleyan.edu/research/publications/JRM_30_177_
 
 pdf 58: https://hlma.hanglung.com/wp-content/uploads/2018/06/a90bcf7cf0e95d023687faea1b2408fa.pdf (Classification of Prime Numbers by Prime Number Trees)
 
-pdf 59: http://www.math.uiuc.edu/~ford/wwwpapers/lehman.pdf (Sign changes in pi q,a(x) - pi q,b(x))
+pdf 59: http://www.math.uiuc.edu/~ford/wwwpapers/lehman.pdf (Sign changes in *π*<sub>*q*,*a*</sub>(*x*) − *π*<sub>*q*,*b*</sub>(x))
 
 pdf 60: https://dms.umontreal.ca/~andrew/PDF/PrimeRace.pdf (Prime Number Races)
 
@@ -128,7 +128,7 @@ pdf 64: http://go.helms-net.de/math/expdioph/fermatquotients.pdf (Fermat-/Euler-
 
 pdf 65: https://dozenal.org/drupal/sites_bck/default/files/MultiplicationSynopsis.pdf (Multiplication Tables of Various Bases)
 
-pdf 66: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.693.5325 
+pdf 66: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.693.5325 (Unique-Period Primes)
 
 pdf 67: http://math101.guru/wp-content/uploads/2018/09/01-A3-Presentation-v7.3EN-no.pdf (Testing Chebyshev's bias for Prime Numbers up to 10<sup>15</sup>)
 
