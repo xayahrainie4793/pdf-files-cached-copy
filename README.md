@@ -136,4 +136,4 @@ pdf 68: https://www.ams.org/journals/mcom/2009-78-266/S0025-5718-08-02154-6/S002
 
 pdf 69: https://www.sciencedirect.com/science/article/pii/S0022314X08002199?ref=pdf_download&fr=RR-2&rr=785d5e58e902f248 (A covering system whose smallest modulus is 40)
 
-pdf 70: https://www.ams.org/journals/mcom/1983-40-161/S0025-5718-1983-0679454-X/S0025-5718-1983-0679454-X.pdf (Divisors of Mersenne Numbers)
+pdf 70: http://cr.yp.to/papers/aks-20030125-retypeset20220327.pdf (Proving Primality after Agrawal-Kayal-Saxena)
