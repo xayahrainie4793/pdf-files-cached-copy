@@ -139,3 +139,5 @@ pdf 69: https://www.sciencedirect.com/science/article/pii/S0022314X08002199?ref=
 pdf 70: http://cr.yp.to/papers/aks-20030125-retypeset20220327.pdf (Proving Primality after Agrawal-Kayal-Saxena)
 
 pdf 71: https://homes.cerias.purdue.edu/~ssw/cun1.pdf (The Cunningham Project)
+
+pdf 72: https://www.ams.org/journals/mcom/1983-40-161/S0025-5718-1983-0679454-X/S0025-5718-1983-0679454-X.pdf (Divisors of Mersenne Numbers)
