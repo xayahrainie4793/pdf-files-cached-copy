@@ -149,3 +149,5 @@ pdf 74: https://cbright.myweb.cs.uwindsor.ca/reports/writeup.pdf (Finding genera
 pdf 75: http://www.worldofnumbers.com/Largest-n-digit-prp.pdf (Following a packed list of all largest *n*-digit (probable) primes up to 29999 digits)
 
 pdf 76: http://www.worldofnumbers.com/Smallest-n-digit-prp.pdf (Following a packed list of all smallest (*n*+1)-digit (probable) primes up to 30000 digits)
+
+pdf 77: https://arxiv.org/pdf/1703.02133.pdf (Covering systems with restricted divisibility)
