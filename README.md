@@ -10,7 +10,7 @@ pdf 5: https://cs.uwaterloo.ca/journals/JIS/VOL3/DUBNER/dubner.pdf (Primes of th
 
 pdf 6: https://homes.cerias.purdue.edu/~ssw/cun/mine.pdf (The Search for Aurifeuillian-Like Factorizations)
 
-pdf 7: https://doi.org/10.1090/conm/022 (Factorizations of *b*<sup>*n*</sup>±1, *b* = 2, 3, 5, 6, 7, 10, 11, 12, up to High Powers)
+pdf 7: https://doi.org/10.1090/conm/022, https://www.mersenneforum.org/attachment.php?attachmentid=7727&d=1330555980 (Factorizations of *b*<sup>*n*</sup>±1, *b* = 2, 3, 5, 6, 7, 10, 11, 12, up to High Powers)
 
 pdf 8: http://www.iakovlev.org/zip/riesel2.pdf (Study on the Sierpinski and Riesel Numbers)
 
