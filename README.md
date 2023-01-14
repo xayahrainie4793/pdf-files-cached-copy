@@ -155,3 +155,5 @@ pdf 77: https://arxiv.org/pdf/1703.02133.pdf (Covering systems with restricted d
 pdf 78: https://www.ams.org/journals/mcom/1998-67-221/S0025-5718-98-00891-6/S0025-5718-98-00891-6.pdf (Factors of generalized Fermat numbers)
 
 pdf 79: https://arxiv.org/pdf/2112.00444.pdf (Squares with three digits)
+
+pdf 80: https://cs.uwaterloo.ca/journals/JIS/VOL14/Jones/jones12.pdf (Appending Digits to Generate an Infinite Sequence of Composite Numbers)
