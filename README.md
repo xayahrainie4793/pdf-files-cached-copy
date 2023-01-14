@@ -145,3 +145,7 @@ pdf 72: https://www.ams.org/journals/mcom/1983-40-161/S0025-5718-1983-0679454-X/
 pdf 73: https://www.ams.org/journals/mcom/2002-71-238/S0025-5718-01-01319-9/S0025-5718-01-01319-9.pdf (Repunit *R*<sub>49081</sub> is a Probable Prime)
 
 pdf 74: https://cbright.myweb.cs.uwindsor.ca/reports/writeup.pdf (Finding generalized near-repdigit squares)
+
+pdf 75: http://www.worldofnumbers.com/Largest-n-digit-prp.pdf (Following a packed list of all largest *n*-digit (probable) primes up to 29999 digits)
+
+pdf 76: http://www.worldofnumbers.com/Smallest-n-digit-prp.pdf (Following a packed list of all smallest (*n*+1)-digit (probable) primes up to 30000 digits)
