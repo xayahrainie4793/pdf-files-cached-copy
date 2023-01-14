@@ -153,3 +153,5 @@ pdf 76: http://www.worldofnumbers.com/Smallest-n-digit-prp.pdf (Following a pack
 pdf 77: https://arxiv.org/pdf/1703.02133.pdf (Covering systems with restricted divisibility)
 
 pdf 78: https://www.ams.org/journals/mcom/1998-67-221/S0025-5718-98-00891-6/S0025-5718-98-00891-6.pdf (Factors of generalized Fermat numbers)
+
+pdf 79: https://arxiv.org/pdf/2112.00444.pdf (Squares with three digits)
