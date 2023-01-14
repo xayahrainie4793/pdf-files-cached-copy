@@ -151,3 +151,5 @@ pdf 75: http://www.worldofnumbers.com/Largest-n-digit-prp.pdf (Following a packe
 pdf 76: http://www.worldofnumbers.com/Smallest-n-digit-prp.pdf (Following a packed list of all smallest (*n*+1)-digit (probable) primes up to 30000 digits)
 
 pdf 77: https://arxiv.org/pdf/1703.02133.pdf (Covering systems with restricted divisibility)
+
+pdf 78: https://www.ams.org/journals/mcom/1998-67-221/S0025-5718-98-00891-6/S0025-5718-98-00891-6.pdf (Factors of generalized Fermat numbers)
