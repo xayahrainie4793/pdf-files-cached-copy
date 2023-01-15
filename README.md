@@ -177,3 +177,7 @@ pdf 88: https://homes.cerias.purdue.edu/~ssw/bell/mcom2340.pdf (The period of th
 pdf 89: https://homes.cerias.purdue.edu/~ssw/bell/bell1.pdf (New Integer Divisibility Theorems and the Period of the Bell Numbers Modulo a Prime)
 
 pdf 90: https://homes.cerias.purdue.edu/~ssw/bell/bell2.pdf (How often does 2*kp* + 1 divide *p*<sup>*p*</sup> − 1?)
+
+pdf 91: https://www.ams.org/journals/mcom/1996-65-213/S0025-5718-96-00683-7/S0025-5718-96-00683-7.pdf (Aurifeuillian factorizations and the period of the Bell numbers modulo a prime)
+
+pdf 92: http://matwbn.icm.edu.pl/ksiazki/aa/aa35/aa3511.pdf (Arithmetic properties of Bell numbers to a composite modulus I)
