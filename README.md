@@ -181,3 +181,5 @@ pdf 90: https://homes.cerias.purdue.edu/~ssw/bell/bell2.pdf (How often does 2*kp
 pdf 91: https://www.ams.org/journals/mcom/1996-65-213/S0025-5718-96-00683-7/S0025-5718-96-00683-7.pdf (Aurifeuillian factorizations and the period of the Bell numbers modulo a prime)
 
 pdf 92: http://matwbn.icm.edu.pl/ksiazki/aa/aa35/aa3511.pdf (Arithmetic properties of Bell numbers to a composite modulus I)
+
+pdf 93: https://www.ams.org/journals/mcom/1973-27-124/S0025-5718-1973-0325507-9/S0025-5718-1973-0325507-9.pdf (A Lower Bound for the Set of Odd Perfect Numbers)
