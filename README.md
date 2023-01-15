@@ -157,3 +157,9 @@ pdf 78: https://www.ams.org/journals/mcom/1998-67-221/S0025-5718-98-00891-6/S002
 pdf 79: https://arxiv.org/pdf/2112.00444.pdf (Squares with three digits)
 
 pdf 80: https://cs.uwaterloo.ca/journals/JIS/VOL14/Jones/jones12.pdf (Appending Digits to Generate an Infinite Sequence of Composite Numbers)
+
+pdf 81: https://homes.cerias.purdue.edu/~ssw/bernoulli/full.pdf (Prime divisors of the Bernoulli and Euler numbers)
+
+pdf 82: https://media.proquest.com/media/hms/PFT/2/SXxDM?_s=T48dR6DOJh5sW%2FpBtLQHVP8Sz2k%3D (Component Interactions of the Prime Numbers)
+
+pdf 83: https://www.ams.org/journals/mcom/1990-55-191/S0025-5718-1990-1023756-8/S0025-5718-1990-1023756-8.pdf (Explicit bounds for primality testing and related problems)
