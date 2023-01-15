@@ -183,3 +183,5 @@ pdf 91: https://www.ams.org/journals/mcom/1996-65-213/S0025-5718-96-00683-7/S002
 pdf 92: http://matwbn.icm.edu.pl/ksiazki/aa/aa35/aa3511.pdf (Arithmetic properties of Bell numbers to a composite modulus I)
 
 pdf 93: https://www.ams.org/journals/mcom/1973-27-124/S0025-5718-1973-0325507-9/S0025-5718-1973-0325507-9.pdf (A Lower Bound for the Set of Odd Perfect Numbers)
+
+pdf 94: https://math.dartmouth.edu/~carlp/iterate.pdf (On the normal behavior of the iterates of some arithmetic functions)
