@@ -167,3 +167,13 @@ pdf 83: https://www.ams.org/journals/mcom/1990-55-191/S0025-5718-1990-1023756-8/
 pdf 84: https://www.ams.org/journals/mcom/2003-72-244/S0025-5718-03-01545-X/S0025-5718-03-01545-X.pdf (Finding strong pseudoprimes to several bases. II)
 
 pdf 85: http://mpqs.free.fr/LucasPseudoprimes.pdf (Lucas Pseudoprimes)
+
+pdf 86: https://homes.cerias.purdue.edu/~ssw/bell/bell4.pdf (The period of the Bell exponential integers modulo a prime)
+
+pdf 87: https://homes.cerias.purdue.edu/~ssw/bell/bell.pdf (Aurifeuillian factorizations and the period of the Bell numbers modulo a prime)
+
+pdf 88: https://homes.cerias.purdue.edu/~ssw/bell/mcom2340.pdf (The period of the Bell numbers modulo a prime)
+
+pdf 89: https://homes.cerias.purdue.edu/~ssw/bell/bell1.pdf (New Integer Divisibility Theorems and the Period of the Bell Numbers Modulo a Prime)
+
+pdf 90: https://homes.cerias.purdue.edu/~ssw/bell/bell2.pdf (How often does 2*kp* + 1 divide *p*<sup>*p*</sup> − 1?)
