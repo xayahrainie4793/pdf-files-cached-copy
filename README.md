@@ -165,3 +165,5 @@ pdf 82: https://media.proquest.com/media/hms/PFT/2/SXxDM?_s=T48dR6DOJh5sW%2FpBtL
 pdf 83: https://www.ams.org/journals/mcom/1990-55-191/S0025-5718-1990-1023756-8/S0025-5718-1990-1023756-8.pdf (Explicit bounds for primality testing and related problems)
 
 pdf 84: https://www.ams.org/journals/mcom/2003-72-244/S0025-5718-03-01545-X/S0025-5718-03-01545-X.pdf (Finding strong pseudoprimes to several bases. II)
+
+pdf 85: http://mpqs.free.fr/LucasPseudoprimes.pdf (Lucas Pseudoprimes)
