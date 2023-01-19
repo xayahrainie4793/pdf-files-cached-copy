@@ -189,3 +189,7 @@ pdf 94: https://math.dartmouth.edu/~carlp/iterate.pdf (On the normal behavior of
 pdf 95: https://math.dartmouth.edu/~carlp///sociabletalk2.pdf (Sociable numbers)
 
 pdf 96: https://arxiv.org/pdf/1610.07471.pdf (Finite Connected Components of the Aliquot Graph)
+
+pdf 97: https://maths-people.anu.edu.au/~brent/pd/rpb135.pdf (On computing factors of cyclotomic polynomials)
+
+pdf 98: https://cpsc.yale.edu/sites/default/files/files/tr345.pdf (Primality Tests)
