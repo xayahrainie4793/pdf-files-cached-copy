@@ -199,3 +199,7 @@ pdf 99: https://www.degruyter.com/document/doi/10.1515/JMC.2007.007/html (Optima
 pdf 100: https://www.cristal.univ-lille.fr/profil/jdelahay/pls:2002:094.pdf (Nombres premiers inévitables et pyramidaux)
 
 pdf 101: https://primes.utm.edu/curios/includes/glossary.pdf (A Brief Prime Curios! Glossary)
+
+doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
+
+doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
