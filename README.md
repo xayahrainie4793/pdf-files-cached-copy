@@ -200,6 +200,10 @@ pdf 100: https://www.cristal.univ-lille.fr/profil/jdelahay/pls:2002:094.pdf (Nom
 
 pdf 101: https://primes.utm.edu/curios/includes/glossary.pdf (A Brief Prime Curios! Glossary)
 
+pdf 102: http://math.crg4.com/a094076.pdf (Constructing a covering set for numbers 2<sup>*k*</sup> + *p*)
+
+pdf 103: http://www.renyi.hu/~p_erdos/1950-07.pdf (On integers of the form 2<sup>*k*</sup> + *p* and some related problems)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
