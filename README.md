@@ -204,6 +204,10 @@ pdf 102: http://math.crg4.com/a094076.pdf (Constructing a covering set for numbe
 
 pdf 103: http://www.renyi.hu/~p_erdos/1950-07.pdf (On integers of the form 2<sup>*k*</sup> + *p* and some related problems)
 
+pdf 104: https://www.ams.org/journals/bull/2000-37-03/S0273-0979-00-00867-3/S0273-0979-00-00867-3.pdf (Pioneers of Representation Theory)
+
+pdf 105: https://www.ams.org/journals/bull/1942-48-10/S0002-9904-1942-07767-6/S0002-9904-1942-07767-6.pdf (On the least primitive root of a prime)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
