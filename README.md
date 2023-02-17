@@ -210,6 +210,14 @@ pdf 105: https://www.ams.org/journals/bull/1942-48-10/S0002-9904-1942-07767-6/S0
 
 pdf 106: http://neilsloane.com/doc/Me213.pdf (The primary pretenders)
 
+pdf 107: https://www.primegrid.com/download/SOB-31172165.pdf (PrimeGrid's announcement of the prime 10223×2<sup>31172165</sup>+1)
+
+pdf 108: https://www.primegrid.com/download/TRP-9221.pdf (PrimeGrid's announcement of the prime 9221×2<sup>11392194</sup>−1)
+
+pdf 109: https://www.primegrid.com/download/PSP_168451.pdf (PrimeGrid's announcement of the prime 168451×2<sup>19375200</sup>+1)
+
+pdf 110: https://www.primegrid.com/download/GFN-919444_1048576.pdf (PrimeGrid's announcement of the prime 919444<sup>1048576</sup>+1)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
