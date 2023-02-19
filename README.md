@@ -222,6 +222,12 @@ pdf 111: https://primes.utm.edu/lists/top_ten/topten.pdf (The Top Ten Prime Numb
 
 pdf 112: http://www.utm.edu/~caldwell/preprints/Heuristics.pdf (An Amazing Prime Heuristic)
 
+pdf 113: https://arxiv.org/pdf/2103.04483.pdf (An Amazing Prime Heuristic)
+
+pdf 114: https://arxiv.org/pdf/math/0611940.pdf (On examples of difference operators for {0,1}-valued functions over finite sets)
+
+pdf 115: https://rxiv.org/pdf/1403.0524v1.pdf (On the Divisors of Smarandache Unary Sequence)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
