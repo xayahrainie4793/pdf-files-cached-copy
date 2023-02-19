@@ -218,6 +218,10 @@ pdf 109: https://www.primegrid.com/download/PSP_168451.pdf (PrimeGrid's announce
 
 pdf 110: https://www.primegrid.com/download/GFN-919444_1048576.pdf (PrimeGrid's announcement of the prime 919444<sup>1048576</sup>+1)
 
+pdf 111: https://primes.utm.edu/lists/top_ten/topten.pdf (The Top Ten Prime Numbers)
+
+pdf 112: http://www.utm.edu/~caldwell/preprints/Heuristics.pdf (An Amazing Prime Heuristic)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
