@@ -228,6 +228,10 @@ pdf 114: https://arxiv.org/pdf/math/0611940.pdf (On examples of difference opera
 
 pdf 115: https://rxiv.org/pdf/1403.0524v1.pdf (On the Divisors of Smarandache Unary Sequence)
 
+pdf 116: http://www.jstor.org/stable/2005337 (Properties of the sequence 3×2<sup>*n*</sup>+1)
+
+pdf 117: https://arxiv.org/pdf/1203.3969.pdf (Cantor Primes as Prime-Valued Cyclotomic Polynomials)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
