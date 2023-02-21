@@ -232,6 +232,12 @@ pdf 116: http://www.jstor.org/stable/2005337 (Properties of the sequence 3×2<su
 
 pdf 117: https://arxiv.org/pdf/1203.3969.pdf (Cantor Primes as Prime-Valued Cyclotomic Polynomials)
 
+pdf 118: https://eprint.iacr.org/2023/195.pdf (A simpler alternative to Lucas–Lehmer–Riesel primality test)
+
+pdf 119: https://www.ams.org/journals/mcom/1979-33-148/S0025-5718-1979-0537980-7/S0025-5718-1979-0537980-7.pdf (Some Primes of the Form (*a*<sup>*n*</sup>−1)/(*a*−1))
+
+pdf 120: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.7.5686&rep=rep1&type=pdf (Minimal Primes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
