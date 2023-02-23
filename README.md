@@ -238,6 +238,8 @@ pdf 119: https://www.ams.org/journals/mcom/1979-33-148/S0025-5718-1979-0537980-7
 
 pdf 120: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.7.5686&rep=rep1&type=pdf (Minimal Primes)
 
+pdf 121: https://math.dartmouth.edu/~carlp/PDF/reliable.pdf (On the difficulty of finding reliable witnesses)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
