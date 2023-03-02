@@ -244,6 +244,10 @@ pdf 122: https://math.dartmouth.edu/~carlp/PDF/paper25.pdf (The Pseudoprimes to 
 
 pdf 123: http://neilsloane.com/doc/guy.pdf (The primary pretenders)
 
+pdf 124: https://www.ams.org/journals/mcom/1972-26-120/S0025-5718-1972-0314747-X/S0025-5718-1972-0314747-X.pdf (Some prime numbers of the forms 2*A*3<sup>*n*</sup>+1 and 2*A*3<sup>*n*</sup>−1)
+
+pdf 125: https://cs.uwaterloo.ca/journals/JIS/VOL13/Hasler/hasler2.pdf (Variations on Euclid's Formula for Perfect Numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
