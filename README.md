@@ -248,6 +248,12 @@ pdf 124: https://www.ams.org/journals/mcom/1972-26-120/S0025-5718-1972-0314747-X
 
 pdf 125: https://cs.uwaterloo.ca/journals/JIS/VOL13/Hasler/hasler2.pdf (Variations on Euclid's Formula for Perfect Numbers)
 
+pdf 126: https://www.ams.org/journals/bull/1907-13-05/S0002-9904-1907-01453-2/S0002-9904-1907-01453-2.pdf (On Euler's phi-function)
+
+pdf 127: https://www.ams.org/journals/bull/1922-28-03/S0002-9904-1922-03504-5/S0002-9904-1922-03504-5.pdf (Note on Euler's phi-function)
+
+pdf 128: https://arxiv.org/pdf/math/9907204.pdf (The number of solutions of *phi*(*x*)=*m*)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
