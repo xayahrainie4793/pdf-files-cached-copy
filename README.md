@@ -260,6 +260,8 @@ pdf 130: https://cs.uwaterloo.ca/journals/JIS/VOL19/Alekseyev/alek5.pdf (Computi
 
 pdf 131: https://www.ams.org/journals/bull/1929-35-06/S0002-9904-1929-04799-2/S0002-9904-1929-04799-2.pdf (On some functions connected with *phi*(*n*))
 
+pdf 132: http://matwbn.icm.edu.pl/ksiazki/aa/aa49/aa4934.pdf (On the number of distinct values of Euler's phi-function)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
