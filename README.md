@@ -254,6 +254,12 @@ pdf 127: https://www.ams.org/journals/bull/1922-28-03/S0002-9904-1922-03504-5/S0
 
 pdf 128: https://arxiv.org/pdf/math/9907204.pdf (The number of solutions of *phi*(*x*)=*m*)
 
+pdf 129: https://math.dartmouth.edu/~carlp/popular.pdf (Popular values of Euler's function)
+
+pdf 130: https://cs.uwaterloo.ca/journals/JIS/VOL19/Alekseyev/alek5.pdf (Computing the Inverses, their Power Sums, and Extrema for Euler's Totient and Other Multiplicative Functions)
+
+pdf 131: https://www.ams.org/journals/bull/1929-35-06/S0002-9904-1929-04799-2/S0002-9904-1929-04799-2.pdf (On some functions connected with *phi*(*n*))
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
