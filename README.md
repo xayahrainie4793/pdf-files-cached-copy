@@ -262,6 +262,14 @@ pdf 131: https://www.ams.org/journals/bull/1929-35-06/S0002-9904-1929-04799-2/S0
 
 pdf 132: http://matwbn.icm.edu.pl/ksiazki/aa/aa49/aa4934.pdf (On the number of distinct values of Euler's phi-function)
 
+pdf 133: http://www.pme-math.org/journal/issues/PMEJ.Vol.6.No.3.pdf (Hyperperfect Numbers)
+
+pdf 134: https://www.fq.math.ca/Scanned/19-1/minoli.pdf (Structural Issues For Hyperperfect Numbers)
+
+pdf 135: https://www.ams.org/journals/mcom/1981-36-153/S0025-5718-1981-0595066-9/S0025-5718-1981-0595066-9.pdf (Hyperperfect numbers with three different prime factors)
+
+pdf 136: https://www.ams.org/journals/mcom/1980-34-150/S0025-5718-1980-0559206-9/S0025-5718-1980-0559206-9.pdf (Issues In Non-Linear Hyperperfect Numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
