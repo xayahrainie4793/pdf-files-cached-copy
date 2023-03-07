@@ -270,6 +270,10 @@ pdf 135: https://www.ams.org/journals/mcom/1981-36-153/S0025-5718-1981-0595066-9
 
 pdf 136: https://www.ams.org/journals/mcom/1980-34-150/S0025-5718-1980-0559206-9/S0025-5718-1980-0559206-9.pdf (Issues In Non-Linear Hyperperfect Numbers)
 
+pdf 137: https://www.fq.math.ca/Papers1/42-4/quartgarcia04_2004.pdf (Hyperperfect Numbers with Five and Six Different Prime Factors)
+
+pdf 138: https://www.ams.org/journals/mcom/2006-75-253/S0025-5718-05-01766-7/S0025-5718-05-01766-7.pdf (Aurifeuillean factorization)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
