@@ -274,6 +274,8 @@ pdf 137: https://www.fq.math.ca/Papers1/42-4/quartgarcia04_2004.pdf (Hyperperfec
 
 pdf 138: https://www.ams.org/journals/mcom/2006-75-253/S0025-5718-05-01766-7/S0025-5718-05-01766-7.pdf (Aurifeuillean factorization)
 
+pdf 139: https://www-users.mat.umk.pl//~anow/ps-dvi/prim-c06.pdf (Liczby pierwsze o szczególnym rozmieszczeniu cyfr)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
