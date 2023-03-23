@@ -276,6 +276,10 @@ pdf 138: https://www.ams.org/journals/mcom/2006-75-253/S0025-5718-05-01766-7/S00
 
 pdf 139: https://www-users.mat.umk.pl//~anow/ps-dvi/prim-c06.pdf (Liczby pierwsze o szczególnym rozmieszczeniu cyfr)
 
+pdf 140: http://www.expmath.org/expmath/volumes/11/11.2/3630finishes1.pdf (Aliquot Sequence 3630 Ends after Reaching 100 Digits)
+
+pdf 141: 
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
