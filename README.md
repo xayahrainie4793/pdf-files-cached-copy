@@ -278,9 +278,9 @@ pdf 139: https://www-users.mat.umk.pl//~anow/ps-dvi/prim-c06.pdf (Liczby pierwsz
 
 pdf 140: http://www.expmath.org/expmath/volumes/11/11.2/3630finishes1.pdf (Aliquot Sequence 3630 Ends after Reaching 100 Digits)
 
-pdf 141: https://primes.utm.edu/primes/lists/all.pdf (The Largest Known Primes, The 5000 largest known primes)
+pdf 141: https://web.archive.org/web/20211204021210/https://primes.utm.edu/primes/lists/all.pdf (The Largest Known Primes, The 5000 largest known primes)
 
-pdf 142: https://primes.utm.edu/primes/lists/short.pdf (The Largest Known Primes, Primes with 800000 or more digits)
+pdf 142: https://web.archive.org/web/20211214210128/https://primes.utm.edu/primes/lists/short.pdf (The Largest Known Primes, Primes with 800000 or more digits)
 
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
