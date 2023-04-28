@@ -198,7 +198,7 @@ pdf 99: https://www.degruyter.com/document/doi/10.1515/JMC.2007.007/html (Optima
 
 pdf 100: https://www.cristal.univ-lille.fr/profil/jdelahay/pls:2002:094.pdf (Nombres premiers inévitables et pyramidaux)
 
-pdf 101: https://primes.utm.edu/curios/includes/glossary.pdf (A Brief Prime Curios! Glossary)
+pdf 101: https://t5k.org/curios/includes/glossary.pdf (A Brief Prime Curios! Glossary)
 
 pdf 102: http://math.crg4.com/a094076.pdf (Constructing a covering set for numbers 2<sup>*k*</sup> + *p*)
 
@@ -218,7 +218,7 @@ pdf 109: https://www.primegrid.com/download/PSP_168451.pdf (PrimeGrid's announce
 
 pdf 110: https://www.primegrid.com/download/GFN-919444_1048576.pdf (PrimeGrid's announcement of the prime 919444<sup>1048576</sup>+1)
 
-pdf 111: https://primes.utm.edu/lists/top_ten/topten.pdf (The Top Ten Prime Numbers)
+pdf 111: https://t5k.org/lists/top_ten/topten.pdf (The Top Ten Prime Numbers)
 
 pdf 112: http://www.utm.edu/~caldwell/preprints/Heuristics.pdf (An Amazing Prime Heuristic)
 
