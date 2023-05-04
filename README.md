@@ -302,6 +302,12 @@ pdf 151: https://www.ams.org/journals/mcom/1980-35-152/S0025-5718-1980-0583518-6
 
 pdf 152: https://www.mdpi.com/2227-7390/9/8/838 (On Generalized Lucas Pseudoprimality of Level *k*)
 
+pdf 153: https://dx.doi.org/10.1016/j.ajmsc.2017.06.002 (On Fibonacci and Lucas sequences modulo a prime and primality testing)
+
+pdf 154: https://www.fq.math.ca/Scanned/2-3/lehmer.pdf (On the infinitude of Fibonacci pseudoprimes)
+
+pdf 155: https://dml.cz/bitstream/handle/10338.dmlcz/120560/ActaOstrav_08-2000-1_7.pdf (Arithmetic progressions formed by pseudoprimes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
