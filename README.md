@@ -308,6 +308,12 @@ pdf 154: https://www.fq.math.ca/Scanned/2-3/lehmer.pdf (On the infinitude of Fib
 
 pdf 155: https://dml.cz/bitstream/handle/10338.dmlcz/120560/ActaOstrav_08-2000-1_7.pdf (Arithmetic progressions formed by pseudoprimes)
 
+pdf 156: https://arxiv.org/pdf/1006.0824.pdf (The Fibonacci sequence modulo *p*<sup>2</sup> - An investigation by computer for *p* < 10<sup>14</sup>)
+
+pdf 157: https://www.fq.math.ca/Papers1/58-5/bouazzaoui.pdf (On Periods of Fibonacci Sequences and Real Quadratic p-rational Fields)
+
+pdf 158: https://www.ams.org/journals/mcom/2007-76-260/S0025-5718-07-01955-2/S0025-5718-07-01955-2.pdf (A search for Fibonacci−Wieferich and Wolstenholme primes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
