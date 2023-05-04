@@ -314,6 +314,10 @@ pdf 157: https://www.fq.math.ca/Papers1/58-5/bouazzaoui.pdf (On Periods of Fibon
 
 pdf 158: https://www.ams.org/journals/mcom/2007-76-260/S0025-5718-07-01955-2/S0025-5718-07-01955-2.pdf (A search for Fibonacci−Wieferich and Wolstenholme primes)
 
+pdf 159: https://www.ams.org/journals/mcom/1997-66-217/S0025-5718-97-00791-6/S0025-5718-97-00791-6.pdf (A search for Wieferich and Wilson primes)
+
+pdf 160: https://doi.org/10.13140/RG.2.2.31221.73449 (Fermat Numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
