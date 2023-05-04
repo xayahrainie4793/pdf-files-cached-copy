@@ -282,6 +282,10 @@ pdf 141: https://web.archive.org/web/20211204021210/https://primes.utm.edu/prime
 
 pdf 142: https://web.archive.org/web/20211214210128/https://primes.utm.edu/primes/lists/short.pdf (The Largest Known Primes, Primes with 800000 or more digits)
 
+pdf 143: https://arxiv.org/pdf/1903.02951.pdf (Cyclotomic ordering conjecture)
+
+pdf 144: https://arxiv.org/pdf/1903.01962.pdf (Cyclotomic Coincidences)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
