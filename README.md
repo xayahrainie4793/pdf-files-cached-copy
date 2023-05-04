@@ -294,6 +294,8 @@ pdf 147: https://www.ams.org/journals/mcom/1990-55-191/S0025-5718-1990-1023763-5
 
 pdf 148: http://math.eretrandre.org/tetrationforum/attachment.php?aid=208 (Hyperoperations Terminology)
 
+pdf 149: https://www.ams.org/journals/mcom/2001-70-234/S0025-5718-00-01197-2/S0025-5718-00-01197-2.pdf (Frobenius pseudoprimes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
