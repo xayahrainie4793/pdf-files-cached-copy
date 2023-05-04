@@ -286,6 +286,12 @@ pdf 143: https://arxiv.org/pdf/1903.02951.pdf (Cyclotomic ordering conjecture)
 
 pdf 144: https://arxiv.org/pdf/1903.01962.pdf (Cyclotomic Coincidences)
 
+pdf 145: https://arxiv.org/pdf/2106.00346.pdf (Groups of prime degree and the Bateman-Horn Conjecture)
+
+pdf 146: https://math.dartmouth.edu/~carlp/PDF/paper95.pdf (There are infinitely many Carmichael numbers)
+
+pdf 147: https://www.ams.org/journals/mcom/1990-55-191/S0025-5718-1990-1023763-5/S0025-5718-1990-1023763-5.pdf (The Carmichael numbers to 10<sup>12</sup>)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
