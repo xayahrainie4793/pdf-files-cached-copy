@@ -292,6 +292,8 @@ pdf 146: https://math.dartmouth.edu/~carlp/PDF/paper95.pdf (There are infinitely
 
 pdf 147: https://www.ams.org/journals/mcom/1990-55-191/S0025-5718-1990-1023763-5/S0025-5718-1990-1023763-5.pdf (The Carmichael numbers to 10<sup>12</sup>)
 
+pdf 148: http://math.eretrandre.org/tetrationforum/attachment.php?aid=208 (Hyperoperations Terminology)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
