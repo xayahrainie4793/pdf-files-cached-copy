@@ -296,6 +296,12 @@ pdf 148: http://math.eretrandre.org/tetrationforum/attachment.php?aid=208 (Hyper
 
 pdf 149: https://www.ams.org/journals/mcom/2001-70-234/S0025-5718-00-01197-2/S0025-5718-00-01197-2.pdf (Frobenius pseudoprimes)
 
+pdf 150: https://www.fq.math.ca/Scanned/32-2/bruckman2.pdf (Lucas Pseudoprimes are odd)
+
+pdf 151: https://www.ams.org/journals/mcom/1980-35-152/S0025-5718-1980-0583518-6/S0025-5718-1980-0583518-6.pdf (Lucas pseudoprimes)
+
+pdf 152: https://www.mdpi.com/2227-7390/9/8/838 (On Generalized Lucas Pseudoprimality of Level *k*)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
