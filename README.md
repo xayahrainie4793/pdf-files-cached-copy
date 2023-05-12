@@ -324,6 +324,10 @@ pdf 162: https://www.ams.org/journals/mcom/1982-38-158/S0025-5718-1982-0645679-1
 
 pdf 163: https://www.ams.org/journals/mcom/2002-71-237/S0025-5718-01-01315-1/S0025-5718-01-01315-1.pdf (On the primality of *n*!±1 and 2×3×5×...×*p*±1)
 
+pdf 164: https://maths-people.anu.edu.au/~brent/pd/rpb127.pdf (Computing Aurifeuillian factors)
+
+pdf 165: https://maths-people.anu.edu.au/~brent/pd/rpb135i.pdf (On computing factors of cyclotomic polynomials)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
