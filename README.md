@@ -328,6 +328,10 @@ pdf 164: https://maths-people.anu.edu.au/~brent/pd/rpb127.pdf (Computing Aurifeu
 
 pdf 165: https://maths-people.anu.edu.au/~brent/pd/rpb135i.pdf (On computing factors of cyclotomic polynomials)
 
+pdf 166: https://www.ams.org/journals/mcom/1988-50-181/S0025-5718-1988-0917832-6/S0025-5718-1988-0917832-6.pdf (Tables of Fibonacci and Lucas Factorizations)
+
+pdf 167: https://www.jams.jp/scm/contents/Vol-2-3/2-3-16.pdf (A New Class of Aurifeuillian Factorizations of *M*<sup>*n*</sup>±1)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
