@@ -318,6 +318,12 @@ pdf 159: https://www.ams.org/journals/mcom/1997-66-217/S0025-5718-97-00791-6/S00
 
 pdf 160: https://doi.org/10.13140/RG.2.2.31221.73449 (Fermat Numbers)
 
+pdf 161: https://www.ams.org/journals/mcom/1972-26-118/S0025-5718-1972-0308018-5/S0025-5718-1972-0308018-5.pdf (Some results for *k*!±1 and 2×3×5×...×*p*±1)
+
+pdf 162: https://www.ams.org/journals/mcom/1982-38-158/S0025-5718-1982-0645679-1/S0025-5718-1982-0645679-1.pdf (Primes of the Form *n*!±1 and 2×3×5×...×*p*±1)
+
+pdf 163: https://www.ams.org/journals/mcom/2002-71-237/S0025-5718-01-01315-1/S0025-5718-01-01315-1.pdf (On the primality of *n*!±1 and 2×3×5×...×*p*±1)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
