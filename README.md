@@ -332,6 +332,8 @@ pdf 166: https://www.ams.org/journals/mcom/1988-50-181/S0025-5718-1988-0917832-6
 
 pdf 167: https://www.jams.jp/scm/contents/Vol-2-3/2-3-16.pdf (A New Class of Aurifeuillian Factorizations of *M*<sup>*n*</sup>±1)
 
+pdf 168: https://arxiv.org/ftp/arxiv/papers/0911/0911.4975.pdf (Approximations of generating functions and a few conjectures)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
