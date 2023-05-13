@@ -334,6 +334,8 @@ pdf 167: https://www.jams.jp/scm/contents/Vol-2-3/2-3-16.pdf (A New Class of Aur
 
 pdf 168: https://arxiv.org/ftp/arxiv/papers/0911/0911.4975.pdf (Approximations of generating functions and a few conjectures)
 
+pdf 169: https://www.mersenneforum.org/attachment.php?attachmentid=12007&d=1416850814 (The Efficient Calculation of a Combined Fermat PRP and Lucas PRP Test)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
