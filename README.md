@@ -336,6 +336,8 @@ pdf 168: https://arxiv.org/ftp/arxiv/papers/0911/0911.4975.pdf (Approximations o
 
 pdf 169: https://www.mersenneforum.org/attachment.php?attachmentid=12007&d=1416850814 (The Efficient Calculation of a Combined Fermat PRP and Lucas PRP Test)
 
+pdf 170: https://maths-people.anu.edu.au/~brent/pd/rpb134.pdf (Factorizations of *a*<sup>*n*</sup> ± 1, 13 ≤ *a* < 100)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
