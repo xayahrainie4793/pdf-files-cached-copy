@@ -346,7 +346,7 @@ pdf 173: https://arxiv.org/pdf/math/0411587.pdf (An observation on the sums of d
 
 pdf 174: http://eulerarchive.maa.org//docs/originals/E542.pdf (De mirabilibus proprietatibus numerorum pentagonalium)
 
-pdf 175: http://eulerarchive.maa.org/docs/translations/E175en.pdf (Discovery of a Most Extraordimary Law of Numbers, Relating to the Sum of Their Divisors)
+pdf 175: https://arxiv.org/pdf/math/0510054.pdf (Euler and the pentagonal number theorem)
 
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
