@@ -338,6 +338,16 @@ pdf 169: https://www.mersenneforum.org/attachment.php?attachmentid=12007&d=14168
 
 pdf 170: https://maths-people.anu.edu.au/~brent/pd/rpb134.pdf (Factorizations of *a*<sup>*n*</sup> ± 1, 13 ≤ *a* < 100)
 
+pdf 171: https://scholarlycommons.pacific.edu/euler-works/175/ (Découverte d'une loi tout extraordinaire des nombres par rapport à la somme de leurs diviseurs)
+
+pdf 172: https://arxiv.org/pdf/math/0505373.pdf (On the remarkable properties of the pentagonal numbers)
+
+pdf 173: https://arxiv.org/pdf/math/0411587.pdf (An observation on the sums of divisors)
+
+pdf 174: http://eulerarchive.maa.org//docs/originals/E542.pdf (De mirabilibus proprietatibus numerorum pentagonalium)
+
+pdf 175: http://eulerarchive.maa.org/docs/translations/E175en.pdf (Discovery of a Most Extraordimary Law of Numbers, Relating to the Sum of Their Divisors)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
