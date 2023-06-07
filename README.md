@@ -348,6 +348,10 @@ pdf 174: http://eulerarchive.maa.org//docs/originals/E542.pdf (De mirabilibus pr
 
 pdf 175: https://arxiv.org/pdf/math/0510054 (Euler and the pentagonal number theorem)
 
+pdf 176: https://math.ucr.edu/home/baez/numbers/24.pdf (My Favorite Number: 24)
+
+pdf 177: https://arxiv.org/pdf/1104.5052.pdf (What is special about the divisors of 24?)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
