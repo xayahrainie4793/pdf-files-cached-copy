@@ -352,6 +352,12 @@ pdf 176: https://math.ucr.edu/home/baez/numbers/24.pdf (My Favorite Number: 24)
 
 pdf 177: https://arxiv.org/pdf/1104.5052.pdf (What is special about the divisors of 24?)
 
+pdf 178: http://math.colgate.edu/~integers/s3/s3.pdf (The largest known wieferich numbers)
+
+pdf 179: https://cs.uwaterloo.ca/~cbright/reports/ramanujans-square-equation.pdf (Solving Ramanujan's Square Equation Computationally)
+
+pdf 180: http://buzzard.ups.edu/courses/2013spring/projects/spencer-ant-ups-434-2013.pdf (The Ramanujan-Nagell Theorem: Understanding the Proof)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
