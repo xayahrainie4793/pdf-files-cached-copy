@@ -366,6 +366,8 @@ pdf 183: https://kconrad.math.uconn.edu/blurbs/gradnumthy/integersradical.pdf (T
 
 pdf 184: https://cs.uwaterloo.ca/journals/JIS/VOL13/Lygeros/lygeros5.pdf (A New Solution to the Equation *τ*(*p*) ≡ 0 (mod *p*))
 
+pdf 185: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182246-5/S0025-5718-1993-1182246-5.pdf (New Solutions of *a*<sup>*p*−1 ≡ 0 (mod *p*<sup>2</sup>))
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
