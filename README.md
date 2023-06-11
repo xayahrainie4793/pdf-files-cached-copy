@@ -358,6 +358,14 @@ pdf 179: https://cs.uwaterloo.ca/~cbright/reports/ramanujans-square-equation.pdf
 
 pdf 180: http://buzzard.ups.edu/courses/2013spring/projects/spencer-ant-ups-434-2013.pdf (The Ramanujan-Nagell Theorem: Understanding the Proof)
 
+pdf 181: https://web.archive.org/web/20220131204231/http://nzjm.math.auckland.ac.nz/images/d/d6/Relaxations_of_the_ABC_Conjecture_using_integer_k'th_roots.pdf (Relaxations of the ABC Conjecture using integer *k*-th roots)
+
+pdf 182: http://dx.doi.org/10.1006/jnth.1997.2162 (Fermat Quotients for Composite Moduli)
+
+pdf 183: https://kconrad.math.uconn.edu/blurbs/gradnumthy/integersradical.pdf (The ring of integers in a radical extension)
+
+pdf 184: https://cs.uwaterloo.ca/journals/JIS/VOL13/Lygeros/lygeros5.pdf (A New Solution to the Equation *τ*(*p*) ≡ 0 (mod *p*))
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
