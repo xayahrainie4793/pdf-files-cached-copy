@@ -370,6 +370,8 @@ pdf 185: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182246-5
 
 pdf 186: https://www.ams.org/journals/mcom/1995-64-210/S0025-5718-1995-1277765-9/S0025-5718-1995-1277765-9.pdf (The Twenty-Second Fermat Number is Composite)
 
+pdf 187: https://www.ams.org/journals/mcom/2009-78-266/S0025-5718-08-02090-5/S0025-5718-08-02090-5.pdf (A new prime *p* for which the least primitive root mod *p* and the least primitive root mod *p*<sup>2</sup> are not equal)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
