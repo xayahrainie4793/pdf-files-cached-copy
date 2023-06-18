@@ -372,6 +372,8 @@ pdf 186: https://www.ams.org/journals/mcom/1995-64-210/S0025-5718-1995-1277765-9
 
 pdf 187: https://www.ams.org/journals/mcom/2009-78-266/S0025-5718-08-02090-5/S0025-5718-08-02090-5.pdf (A new prime *p* for which the least primitive root mod *p* and the least primitive root mod *p*<sup>2</sup> are not equal)
 
+pdf 188: https://www.ams.org/journals/mcom/1969-23-106/S0025-5718-1969-0245507-6/S0025-5718-1969-0245507-6.pdf (Some Factors of the Numbers *G*<sub>*n*</sub> = 6<sup>2</sup>*n*</sup></sup>+1 and *H*<sub>*n*</sub> = 10<sup>2</sup>*n*</sup></sup>+1)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
