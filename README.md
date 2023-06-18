@@ -368,6 +368,8 @@ pdf 184: https://cs.uwaterloo.ca/journals/JIS/VOL13/Lygeros/lygeros5.pdf (A New 
 
 pdf 185: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182246-5/S0025-5718-1993-1182246-5.pdf (New Solutions of *a*<sup>*p*−1</sup> ≡ 0 (mod *p*<sup>2</sup>))
 
+pdf 186: https://www.ams.org/journals/mcom/1995-64-210/S0025-5718-1995-1277765-9/S0025-5718-1995-1277765-9.pdf (The Twenty-Second Fermat Number is Composite)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
