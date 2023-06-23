@@ -374,6 +374,10 @@ pdf 187: https://www.ams.org/journals/mcom/2009-78-266/S0025-5718-08-02090-5/S00
 
 pdf 188: https://www.ams.org/journals/mcom/1969-23-106/S0025-5718-1969-0245507-6/S0025-5718-1969-0245507-6.pdf (Some Factors of the Numbers *G*<sub>*n*</sub> = 6<sup>2</sup>*n*</sup></sup>+1 and *H*<sub>*n*</sub> = 10<sup>2</sup>*n*</sup></sup>+1)
 
+pdf 189: https://www.emis.de/journals/BMMSS/pdf/acceptedpapers/2009-12-013_R1.pdf (Simple Groups Which Are 2-fold OD-Characterizable)
+
+pdf 190: https://arxiv.org/pdf/1503.08883.pdf (On a conjecture regarding primality of numbers constructed from prepending and appending identical digits)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
