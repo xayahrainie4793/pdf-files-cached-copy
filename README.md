@@ -378,6 +378,10 @@ pdf 189: https://www.emis.de/journals/BMMSS/pdf/acceptedpapers/2009-12-013_R1.pd
 
 pdf 190: https://arxiv.org/pdf/1503.08883.pdf (On a conjecture regarding primality of numbers constructed from prepending and appending identical digits)
 
+pdf 191: https://www.ams.org/journals/notices/202209/rnoti-p1469.pdf (John Brillhart (1930–2022))
+
+pdf 192: https://www.ams.org/journals/mcom/1998-67-222/S0025-5718-98-00951-X/S0025-5718-98-00951-X.pdf (Wilson quotients for composite moduli)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
