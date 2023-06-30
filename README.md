@@ -382,6 +382,15 @@ pdf 191: https://www.ams.org/journals/notices/202209/rnoti-p1469.pdf (John Brill
 
 pdf 192: https://www.ams.org/journals/mcom/1998-67-222/S0025-5718-98-00951-X/S0025-5718-98-00951-X.pdf (Wilson quotients for composite moduli)
 
+pdf 193: https://www.ams.org/journals/mcom/1963-17-082/S0025-5718-1963-0159780-0/S0025-5718-1963-0159780-0.pdf (On the Congruences (p — 1 )! = — 1 and
+2"-1 = 1 (mod p2))
+
+pdf 194: https://arxiv.org/pdf/1110.3113.pdf (Lerch Quotients, Lerch Primes, Fermat-Wilson Quotients, and the Wieferich-non-Wilson Primes 2, 3, 14771)
+
+pdf 195: https://web.archive.org/web/20170202003812/http://www.dms.umontreal.ca/~andrew/PDF/BinCoeff.pdf (Binomial coefficients modulo prime powers)
+
+pdf 196: http://matwbn.icm.edu.pl/ksiazki/aa/aa71/aa7144.pdf (On the converse of Wolstenholme’s Theorem)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
