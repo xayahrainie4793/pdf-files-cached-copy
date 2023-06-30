@@ -389,7 +389,9 @@ pdf 194: https://arxiv.org/pdf/1110.3113.pdf (Lerch Quotients, Lerch Primes, Fer
 
 pdf 195: https://web.archive.org/web/20170202003812/http://www.dms.umontreal.ca/~andrew/PDF/BinCoeff.pdf (Binomial coefficients modulo prime powers)
 
-pdf 196: http://matwbn.icm.edu.pl/ksiazki/aa/aa71/aa7144.pdf (On the converse of Wolstenholme’s Theorem)
+pdf 196: http://matwbn.icm.edu.pl/ksiazki/aa/aa71/aa7144.pdf (On the converse of Wolstenholme's Theorem)
+
+pdf 197: https://people.seas.harvard.edu/~salil/pseudorandomness/pseudorandomness-Aug12.pdf (Pseudorandomness)
 
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
