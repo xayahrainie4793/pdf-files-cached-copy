@@ -382,8 +382,7 @@ pdf 191: https://www.ams.org/journals/notices/202209/rnoti-p1469.pdf (John Brill
 
 pdf 192: https://www.ams.org/journals/mcom/1998-67-222/S0025-5718-98-00951-X/S0025-5718-98-00951-X.pdf (Wilson quotients for composite moduli)
 
-pdf 193: https://www.ams.org/journals/mcom/1963-17-082/S0025-5718-1963-0159780-0/S0025-5718-1963-0159780-0.pdf (On the Congruences (p — 1 )! = — 1 and
-2"-1 = 1 (mod p2))
+pdf 193: https://www.ams.org/journals/mcom/1963-17-082/S0025-5718-1963-0159780-0/S0025-5718-1963-0159780-0.pdf (On the Congruences (*p*−1)! == 1 and 2<sup>*p*−1</sup> == 1 (mod *p*<sup>2</sup>))
 
 pdf 194: https://arxiv.org/pdf/1110.3113.pdf (Lerch Quotients, Lerch Primes, Fermat-Wilson Quotients, and the Wieferich-non-Wilson Primes 2, 3, 14771)
 
