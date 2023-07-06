@@ -372,7 +372,7 @@ pdf 186: https://www.ams.org/journals/mcom/1995-64-210/S0025-5718-1995-1277765-9
 
 pdf 187: https://www.ams.org/journals/mcom/2009-78-266/S0025-5718-08-02090-5/S0025-5718-08-02090-5.pdf (A new prime *p* for which the least primitive root mod *p* and the least primitive root mod *p*<sup>2</sup> are not equal)
 
-pdf 188: https://www.ams.org/journals/mcom/1969-23-106/S0025-5718-1969-0245507-6/S0025-5718-1969-0245507-6.pdf (Some Factors of the Numbers *G*<sub>*n*</sub> = 6<sup>2</sup>*n*</sup></sup>+1 and *H*<sub>*n*</sub> = 10<sup>2</sup>*n*</sup></sup>+1)
+pdf 188: https://www.ams.org/journals/mcom/1969-23-106/S0025-5718-1969-0245507-6/S0025-5718-1969-0245507-6.pdf (Some Factors of the Numbers *G*<sub>*n*</sub> = 6<sup>2<sup>*n*</sup></sup>+1 and *H*<sub>*n*</sub> = 10<sup>2<sup>*n*</sup></sup>+1)
 
 pdf 189: https://www.emis.de/journals/BMMSS/pdf/acceptedpapers/2009-12-013_R1.pdf (Simple Groups Which Are 2-fold OD-Characterizable)
 
