@@ -352,7 +352,7 @@ pdf 176: https://math.ucr.edu/home/baez/numbers/24.pdf (My Favorite Number: 24)
 
 pdf 177: https://arxiv.org/pdf/1104.5052.pdf (What is special about the divisors of 24?)
 
-pdf 178: http://math.colgate.edu/~integers/s3/s3.pdf (The largest known wieferich numbers)
+pdf 178: http://math.colgate.edu/~integers/s3/s3.pdf (The largest known Wieferich numbers)
 
 pdf 179: https://cs.uwaterloo.ca/~cbright/reports/ramanujans-square-equation.pdf (Solving Ramanujan's Square Equation Computationally)
 
