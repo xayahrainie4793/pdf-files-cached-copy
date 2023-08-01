@@ -392,6 +392,16 @@ pdf 196: http://matwbn.icm.edu.pl/ksiazki/aa/aa71/aa7144.pdf (On the converse of
 
 pdf 197: https://people.seas.harvard.edu/~salil/pseudorandomness/pseudorandomness-Aug12.pdf (Pseudorandomness)
 
+pdf 198: https://www.ams.org/journals/bull/1936-42-06/S0002-9904-1936-06309-3/S0002-9904-1936-06309-3.pdf (On the magnitude of the coefficients of the cyclotomic polynomial)
+
+pdf 199: https://www.renyi.hu/~p_erdos/1974-03.pdf (Bounds for the r-th coefficients of cyclotomic polynomials)
+
+pdf 200: http://matwbn.icm.edu.pl/ksiazki/aa/aa64/aa6432.pdf (Cyclotomic polynomials with large coefficients)
+
+pdf 201: https://www.cambridge.org/core/journals/glasgow-mathematical-journal/article/order-of-magnitude-of-the-mth-coefficients-of-cyclotomic-polynomials/25092CD9F5C853A2F5262447974D95B8 (The order of magnitude of the mth coefficients of cyclotomic polynomials)
+
+pdf 202: https://projecteuclid.org/journals/michigan-mathematical-journal/volume-21/issue-4/Bounds-for-the-coefficients-of-cyclotomic-polynomials/10.1307/mmj/1029001352.full (Bounds for the coefficients of cyclotomic polynomials)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
