@@ -402,6 +402,12 @@ pdf 201: https://www.cambridge.org/core/journals/glasgow-mathematical-journal/ar
 
 pdf 202: https://projecteuclid.org/journals/michigan-mathematical-journal/volume-21/issue-4/Bounds-for-the-coefficients-of-cyclotomic-polynomials/10.1307/mmj/1029001352.full (Bounds for the coefficients of cyclotomic polynomials)
 
+pdf 203: https://arxiv.org/pdf/2307.07894.pdf (Fibonacci primes, primes of the form 2<sup>*n*</sup>−*k* and beyond)
+
+pdf 204: https://kconrad.math.uconn.edu/blurbs/ugradnumthy/squaresandinfmanyprimes.pdf (Square patterns and infinitude of primes)
+
+pdf 205: https://www.rieselprime.de/z/images/c/c0/Cunningham_2minus.pdf (Cunningham 2minus)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
