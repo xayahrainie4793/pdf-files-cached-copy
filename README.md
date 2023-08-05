@@ -410,6 +410,10 @@ pdf 205: https://www.rieselprime.de/z/images/c/c0/Cunningham_2minus.pdf (Cunning
 
 pdf 206: https://arxiv.org/pdf/1004.3169.pdf (Factorizations of Cunningham numbers with bases 13 to 99)
 
+pdf 207: https://maths-people.anu.edu.au/~brent/pd/rpb117.pdf (Factor: An Integer Factorization Program for the IBM PC)
+
+pdf 208: https://maths-people.anu.edu.au/~brent/pd/rpb134t.pdf (Factorizations of *a*<sup>*n*</sup> ± 1, 13 ≤ *a* < 100)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
