@@ -408,6 +408,8 @@ pdf 204: https://kconrad.math.uconn.edu/blurbs/ugradnumthy/squaresandinfmanyprim
 
 pdf 205: https://www.rieselprime.de/z/images/c/c0/Cunningham_2minus.pdf (Cunningham 2minus)
 
+pdf 206: https://arxiv.org/pdf/1004.3169.pdf (Factorizations of Cunningham numbers with bases 13 to 99)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
