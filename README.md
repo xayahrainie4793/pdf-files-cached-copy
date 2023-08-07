@@ -430,6 +430,10 @@ pdf 215: https://www.ams.org/journals/mcom/1983-41-164/S0025-5718-1983-0717710-7
 
 pdf 216: http://yves.gallot.pagesperso-orange.fr/papers/weight.pdf (On the number of primes in a sequence)
 
+pdf 217: https://web.archive.org/web/20120612174638/http://mathdl.maa.org/images/upload_library/22/Ford/JonesSatoWadaWiens.pdf (Diophantine representation of the set of prime numbers)
+
+pdf 218: https://arxiv.org/pdf/1705.09741v3.pdf (Wright's Fourth Prime)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
