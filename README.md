@@ -414,6 +414,22 @@ pdf 207: https://maths-people.anu.edu.au/~brent/pd/rpb117.pdf (Factor: An Intege
 
 pdf 208: https://maths-people.anu.edu.au/~brent/pd/rpb134t.pdf (Factorizations of *a*<sup>*n*</sup> ± 1, 13 ≤ *a* < 100)
 
+pdf 209: https://maths-people.anu.edu.au/~brent/pd/rpb134a.pdf (Factorizations of *a*<sup>*n*</sup> ± 1, 13 ≤ *a* < 100)
+
+pdf 210: https://cs.uwaterloo.ca/journals/JIS/VOL8/Caldwell/caldwell78.pdf (Determining Mills' Constant and a Note on Honaker's Problem)
+
+pdf 211: https://cs.uwaterloo.ca/journals/JIS/VOL20/Toth2/toth32.pdf (A Variation on Mills-Like Prime-Representing Functions)
+
+pdf 212: https://arxiv.org/ftp/arxiv/papers/1901/1901.01849.pdf (A set of formulas for primes)
+
+pdf 213: http://www.digizeitschriften.de/download/PPN378850199_0015/PPN378850199_0015___log24.pdf (Sur un problème concernant les nombres *k*×2<sup>*n*</sup>+1)
+
+pdf 214: https://www.ams.org/journals/mcom/1981-37-155/S0025-5718-1981-0616376-2/S0025-5718-1981-0616376-2.pdf (The problem of Sierpiński concerning *k*×2<sup>*n*</sup>+1)
+
+pdf 215: https://www.ams.org/journals/mcom/1983-41-164/S0025-5718-1983-0717710-7/S0025-5718-1983-0717710-7.pdf Factors of Fermat numbers and large primes of the form *k*×2<sup>*n*</sup>+1)
+
+pdf 216: http://yves.gallot.pagesperso-orange.fr/papers/weight.pdf (On the number of primes in a sequence)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
