@@ -448,6 +448,16 @@ pdf 224: https://www.renyi.hu/~p_erdos/1976-28.pdf (On the greatest prime factor
 
 pdf 225: http://matwbn.icm.edu.pl/ksiazki/aa/aa26/aa2647.pdf (The greatest prime factor of *a*<sup>*n*</sup> − *b*<sup>*n*</sup>)
 
+pdf 226: https://cs.uwaterloo.ca/journals/JIS/VOL15/Castillo/castillo2.pdf (Overpseudoprimes, and Mersenne and Fermat Numbers as Primover Numbers)
+
+pdf 227: https://arxiv.org/pdf/1609.04391.pdf (When is *a*<sup>*n*</sup>+1 the sum of two squares?)
+
+pdf 228: http://eprint.iacr.org/2010/006.pdf (Factorization of a 768-bit RSA modulus)
+
+pdf 229: https://infoscience.epfl.ch/record/164491/files/nscan9.PDF (Fast and rigorous factorization under the generalized Riemann hypothesis)
+
+pdf 230: https://www.ams.org/journals/jams/1992-05-03/S0894-0347-1992-1137100-0/S0894-0347-1992-1137100-0.pdf (A Rigorous Time Bound for Factoring Integers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
