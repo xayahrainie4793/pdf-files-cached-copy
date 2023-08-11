@@ -458,6 +458,8 @@ pdf 229: https://infoscience.epfl.ch/record/164491/files/nscan9.PDF (Fast and ri
 
 pdf 230: https://www.ams.org/journals/jams/1992-05-03/S0894-0347-1992-1137100-0/S0894-0347-1992-1137100-0.pdf (A Rigorous Time Bound for Factoring Integers)
 
+pdf 231: http://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf (PRIMES is in P)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
