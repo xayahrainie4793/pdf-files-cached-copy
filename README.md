@@ -426,7 +426,7 @@ pdf 213: http://www.digizeitschriften.de/download/PPN378850199_0015/PPN378850199
 
 pdf 214: https://www.ams.org/journals/mcom/1981-37-155/S0025-5718-1981-0616376-2/S0025-5718-1981-0616376-2.pdf (The problem of Sierpiński concerning *k*×2<sup>*n*</sup>+1)
 
-pdf 215: https://www.ams.org/journals/mcom/1983-41-164/S0025-5718-1983-0717710-7/S0025-5718-1983-0717710-7.pdf Factors of Fermat numbers and large primes of the form *k*×2<sup>*n*</sup>+1)
+pdf 215: https://www.ams.org/journals/mcom/1983-41-164/S0025-5718-1983-0717710-7/S0025-5718-1983-0717710-7.pdf (Factors of Fermat numbers and large primes of the form *k*×2<sup>*n*</sup>+1)
 
 pdf 216: http://yves.gallot.pagesperso-orange.fr/papers/weight.pdf (On the number of primes in a sequence)
 
