@@ -434,6 +434,14 @@ pdf 217: https://web.archive.org/web/20120612174638/http://mathdl.maa.org/images
 
 pdf 218: https://arxiv.org/pdf/1705.09741v3.pdf (Wright's Fourth Prime)
 
+pdf 219: https://vixra.org/pdf/1304.0009v1.pdf (A new class of Fermat pseudoprimes and few remarks about Cipolla pseudoprimes)
+
+pdf 220: https://cs.uwaterloo.ca/journals/JIS/VOL10/Hamahata2/hamahata44.pdf (Cipolla Pseudoprimes)
+
+pdf 221: https://oeis.org/A210454/a210454.pdf (Pseudoprimi di Fermat e numeri di Carmichael)
+
+pdf 222: https://bibliotekanauki.pl/articles/968463.pdf (Sur les formules donnant des nombres pseudopremiers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
