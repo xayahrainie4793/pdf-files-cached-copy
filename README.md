@@ -442,6 +442,12 @@ pdf 221: https://oeis.org/A210454/a210454.pdf (Pseudoprimi di Fermat e numeri di
 
 pdf 222: https://bibliotekanauki.pl/articles/968463.pdf (Sur les formules donnant des nombres pseudopremiers)
 
+pdf 223: https://maths-people.anu.edu.au/~brent/pd/rpb067i.pdf (New factors of Mersenne numbers)
+
+pdf 224: https://www.renyi.hu/~p_erdos/1976-28.pdf (On the greatest prime factor of 2^p—1 for a prime p and other expressions)
+
+pdf 225: http://matwbn.icm.edu.pl/ksiazki/aa/aa26/aa2647.pdf (The greatest prime factor of *a*<sup>*n*</sup> − *b*<sup>*n*</sup>)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
