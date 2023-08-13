@@ -462,6 +462,14 @@ pdf 231: http://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf (PRIM
 
 pdf 232: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1122078-7/S0025-5718-1993-1122078-7.pdf (A Practical Analysis of the Elliptic Curve Factoring Algorithm)
 
+pdf 233: https://eprint.iacr.org/2008/016.pdf (ECM Using Edwards Curves)
+
+pdf 234: https://scholarlypublications.universiteitleiden.nl/handle/1887/2140 (Factoring integers with elliptic curves)
+
+pdf 235: https://www.ams.org/notices/199612/pomerance.pdf (A Tale of Two Sieves)
+
+pdf 236: https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866119-8/S0025-5718-1987-0866119-8.pdf (The Multiple Polynomial Quadratic Sieve)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
