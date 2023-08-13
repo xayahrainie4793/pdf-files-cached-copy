@@ -470,6 +470,14 @@ pdf 235: https://www.ams.org/notices/199612/pomerance.pdf (A Tale of Two Sieves)
 
 pdf 236: https://www.ams.org/journals/mcom/1987-48-177/S0025-5718-1987-0866119-8/S0025-5718-1987-0866119-8.pdf (The Multiple Polynomial Quadratic Sieve)
 
+pdf 237: https://arxiv.org/pdf/0912.2121.pdf (Irregular primes to 163 million)
+
+pdf 238: https://web.archive.org/web/20060901090038/http://www.math.uconn.edu/~kconrad/blurbs/fltreg.pdf (Fermat's Last Theorem for Regular Primes)
+
+pdf 239: https://math.dartmouth.edu/~carlp/irreg.pdf (On the counting function of irregular primes)
+
+pdf 240: https://www.ams.org/journals/mcom/1978-32-142/S0025-5718-1978-0491465-4/S0025-5718-1978-0491465-4.pdf (The Irregular Primes to 125000)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
