@@ -478,6 +478,8 @@ pdf 239: https://math.dartmouth.edu/~carlp/irreg.pdf (On the counting function o
 
 pdf 240: https://www.ams.org/journals/mcom/1978-32-142/S0025-5718-1978-0491465-4/S0025-5718-1978-0491465-4.pdf (The Irregular Primes to 125000)
 
+pdf 241: https://arxiv.org/pdf/1304.6937.pdf (Detecting squarefree numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
