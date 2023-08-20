@@ -482,6 +482,8 @@ pdf 241: https://arxiv.org/pdf/1304.6937.pdf (Detecting squarefree numbers)
 
 pdf 242: https://repunit-koide.jimdofree.com/app/download/10034950550/Repunit100-20230630.pdf?t=1688135997 (Factor of Repunit Numbers)
 
+pdf 243: https://arxiv.org/pdf/1108.3054.pdf (Generalised Mersenne Numbers Revisited)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
