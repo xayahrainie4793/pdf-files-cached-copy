@@ -480,6 +480,8 @@ pdf 240: https://www.ams.org/journals/mcom/1978-32-142/S0025-5718-1978-0491465-4
 
 pdf 241: https://arxiv.org/pdf/1304.6937.pdf (Detecting squarefree numbers)
 
+pdf 242: https://repunit-koide.jimdofree.com/app/download/10034950550/Repunit100-20230630.pdf?t=1688135997 (Factor of Repunit Numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
