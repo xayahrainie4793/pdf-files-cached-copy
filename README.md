@@ -444,7 +444,7 @@ pdf 222: https://bibliotekanauki.pl/articles/968463.pdf (Sur les formules donnan
 
 pdf 223: https://maths-people.anu.edu.au/~brent/pd/rpb067i.pdf (New factors of Mersenne numbers)
 
-pdf 224: https://www.renyi.hu/~p_erdos/1976-28.pdf (On the greatest prime factor of 2^p—1 for a prime p and other expressions)
+pdf 224: https://www.renyi.hu/~p_erdos/1976-28.pdf (On the greatest prime factor of 2<sup>*p*</sup>−1 for a prime *p* and other expressions)
 
 pdf 225: http://matwbn.icm.edu.pl/ksiazki/aa/aa26/aa2647.pdf (The greatest prime factor of *a*<sup>*n*</sup> − *b*<sup>*n*</sup>)
 
@@ -483,6 +483,10 @@ pdf 241: https://arxiv.org/pdf/1304.6937.pdf (Detecting squarefree numbers)
 pdf 242: https://repunit-koide.jimdofree.com/app/download/10034950550/Repunit100-20230630.pdf?t=1688135997 (Factor of Repunit Numbers)
 
 pdf 243: https://arxiv.org/pdf/1108.3054.pdf (Generalised Mersenne Numbers Revisited)
+
+pdf 244: https://www.ams.org/journals/mcom/1968-22-102/S0025-5718-1968-0227095-2/S0025-5718-1968-0227095-2.pdf (A report on prime numbers of the forms *M* = (6×*a*+1)×2<sup>2×*m*−1</sup>−1 and *M*' = (6×*a*−1)×2<sup>2×*m*</sup>−1)
+
+pdf 245: https://www.ams.org/journals/proc/1958-009-05/S0002-9939-1958-0096614-7/S0002-9939-1958-0096614-7.pdf (A report on primes of the form *k*×2<sup>*n*</sup>+1 and on factors of Fermat numbers)
 
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
