@@ -496,6 +496,12 @@ pdf 248: https://www.maa.org/sites/default/files/321929430448.pdf.bannered.pdf (
 
 pdf 249: https://core.ac.uk/download/pdf/230075348.pdf (*a*<sup>*p*−1</sup> ≡ 0 (mod *p*<sup>2</sup>) の新しい計算と解)
 
+pdf 250: https://web.archive.org/web/20220831134837/https://www.uni-math.gwdg.de/jahnel/Preprints/Fibams4.pdf (The Fibonacci sequence modulo *p*<sup>2</sup> – an investigation by computer for *p* < 10<sup>14</sup>)
+
+pdf 251: https://arxiv.org/pdf/1902.04795.pdf (Fibonacci sequences and real quadratic *p*-rational field)
+
+pdf 252: https://www.fq.math.ca/Papers1/58-5/bouazzaoui.pdf (On periods of Fibonacci sequences and real quadratic *p*-rational fields)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
