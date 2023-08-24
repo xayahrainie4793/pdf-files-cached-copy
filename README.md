@@ -502,6 +502,8 @@ pdf 251: https://arxiv.org/pdf/1902.04795.pdf (Fibonacci sequences and real quad
 
 pdf 252: https://www.fq.math.ca/Papers1/58-5/bouazzaoui.pdf (On periods of Fibonacci sequences and real quadratic *p*-rational fields)
 
+pdf 253: https://hal.archives-ouvertes.fr/hal-01062305/document (Etude probabiliste des *p*-quotients de Fermat)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
