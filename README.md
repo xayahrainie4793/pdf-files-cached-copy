@@ -488,6 +488,14 @@ pdf 244: https://www.ams.org/journals/mcom/1968-22-102/S0025-5718-1968-0227095-2
 
 pdf 245: https://www.ams.org/journals/proc/1958-009-05/S0002-9939-1958-0096614-7/S0002-9939-1958-0096614-7.pdf (A report on primes of the form *k*×2<sup>*n*</sup>+1 and on factors of Fermat numbers)
 
+pdf 246: https://www.ams.org/journals/mcom/2005-74-250/S0025-5718-04-01666-7/S0025-5718-04-01666-7.pdf (Solutions of the congruence *a*<sup>*p*−1</sup> ≡ 0 (mod *p*<sup>*r*</sup>))
+
+pdf 247: https://www.cs.uleth.ca/~akbary/Akbary-Siavashi-I.pdf (The largest known Wieferich numbers)
+
+pdf 248: https://www.maa.org/sites/default/files/321929430448.pdf.bannered.pdf (Wieferich Primes and Period Lengths for the Expansions of Fractions)
+
+pdf 249: https://core.ac.uk/download/pdf/230075348.pdf (*a*<sup>*p*−1</sup> ≡ 0 (mod *p*<sup>2</sup>) の新しい計算と解)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
