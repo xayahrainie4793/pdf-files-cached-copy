@@ -510,6 +510,8 @@ pdf 255: https://vixra.org/pdf/1005.0104v2.pdf (Factors and primes in two Smaran
 
 pdf 256: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1199989-X/S0025-5718-1993-1199989-X.pdf (Elliptic curves and primality proving)
 
+pdf 257: https://cs.uwaterloo.ca/journals/JIS/VOL17/Mestrovic/mes4.pdf (On a Congruence Modulo *n*<sup>3</sup> Involving Two Consecutive Sums of Powers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
