@@ -516,6 +516,8 @@ pdf 258: https://oeis.org/A215068/a215068.pdf (Proof of conjecture in A215068)
 
 pdf 259: https://doi.org/10.35834/2000/1203145 (The deceptive primes to 2×10<sup>7</sup>)
 
+pdf 260: https://arxiv.org/pdf/1504.04711.pdf (A remark on the conditional estimate for the sum of a prime and a square)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
