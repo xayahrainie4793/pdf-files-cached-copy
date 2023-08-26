@@ -508,6 +508,8 @@ pdf 254: https://web.archive.org/web/20210123080709/https://hlma.hanglung.com/wp
 
 pdf 255: https://vixra.org/pdf/1005.0104v2.pdf (Factors and primes in two Smarandache sequences)
 
+pdf 256: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1199989-X/S0025-5718-1993-1199989-X.pdf (Elliptic curves and primality proving)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
