@@ -512,6 +512,8 @@ pdf 256: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1199989-X
 
 pdf 257: https://cs.uwaterloo.ca/journals/JIS/VOL17/Mestrovic/mes4.pdf (On a Congruence Modulo *n*<sup>3</sup> Involving Two Consecutive Sums of Powers)
 
+pdf 258: https://oeis.org/A215068/a215068.pdf (Proof of conjecture in A215068)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
