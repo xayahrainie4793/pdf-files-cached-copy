@@ -346,7 +346,7 @@ pdf 173: https://arxiv.org/pdf/math/0411587.pdf (An observation on the sums of d
 
 pdf 174: http://eulerarchive.maa.org//docs/originals/E542.pdf (De mirabilibus proprietatibus numerorum pentagonalium)
 
-pdf 175: https://arxiv.org/pdf/math/0510054 (Euler and the pentagonal number theorem)
+pdf 175: https://arxiv.org/pdf/math/0510054.pdf (Euler and the pentagonal number theorem)
 
 pdf 176: https://math.ucr.edu/home/baez/numbers/24.pdf (My Favorite Number: 24)
 
