@@ -528,6 +528,12 @@ pdf 264: https://arxiv.org/pdf/math/0010086.pdf (Asymmetries in the Shanks-Renyi
 
 pdf 265: https://projecteuclid.org/euclid.em/1048515870 (Chebyshev's bias)
 
+pdf 266: https://www.ams.org/journals/mcom/2000-69-230/S0025-5718-99-01105-9/S0025-5718-99-01105-9.pdf (Zeroes of Dirichlet *L*-functions and irregularities in the distribution of primes)
+
+pdf 267: https://www.ams.org/journals/mcom/1978-32-142/S0025-5718-1978-0476616-X/S0025-5718-1978-0476616-X.pdf (Details of the first region of integers *x* with *pi*<sub>3,2</sub>(*x*) < *pi*<sub>3,1</sub>(*x*))
+
+pdf 268: https://link.springer.com/content/pdf/bbm:978-1-4684-0133-2/1.pdf (Introduction to Cyclotomic Fields)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
