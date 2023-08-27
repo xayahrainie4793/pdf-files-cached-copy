@@ -530,7 +530,7 @@ pdf 265: https://projecteuclid.org/euclid.em/1048515870 (Chebyshev's bias)
 
 pdf 266: https://www.ams.org/journals/mcom/2000-69-230/S0025-5718-99-01105-9/S0025-5718-99-01105-9.pdf (Zeroes of Dirichlet *L*-functions and irregularities in the distribution of primes)
 
-pdf 267: https://www.ams.org/journals/mcom/1978-32-142/S0025-5718-1978-0476616-X/S0025-5718-1978-0476616-X.pdf (Details of the first region of integers *x* with *pi*<sub>3,2</sub>(*x*) < *pi*<sub>3,1</sub>(*x*))
+pdf 267: https://www.ams.org/journals/mcom/1978-32-142/S0025-5718-1978-0476616-X/S0025-5718-1978-0476616-X.pdf (Details of the first region of integers *x* with *π*<sub>3,2</sub>(*x*) < *π*<sub>3,1</sub>(*x*))
 
 pdf 268: https://link.springer.com/content/pdf/bbm:978-1-4684-0133-2/1.pdf (Introduction to Cyclotomic Fields)
 
