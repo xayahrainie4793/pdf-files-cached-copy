@@ -518,6 +518,16 @@ pdf 259: https://doi.org/10.35834/2000/1203145 (The deceptive primes to 2×10<su
 
 pdf 260: http://dx.doi.org/10.1016/j.jcta.2012.05.001 (The truncated pentagonal number theorem)
 
+pdf 261: https://www.ams.org/publications/journals/notices/201702/rnoti-p132.pdf (What is Benford’s Law?)
+
+pdf 262: https://arxiv.org/pdf/1910.08983.pdf (Chebyshev's conjecture and the prime number race)
+
+pdf 263: https://www.ams.org/journals/mcom/2004-73-247/S0025-5718-04-01649-7/S0025-5718-04-01649-7.pdf (Counting Primes in Residue Classes)
+
+pdf 264: https://arxiv.org/pdf/math/0010086.pdf (Asymmetries in the Shanks-Renyi Prime Number Race)
+
+pdf 265: https://projecteuclid.org/euclid.em/1048515870 (Chebyshev's bias)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
