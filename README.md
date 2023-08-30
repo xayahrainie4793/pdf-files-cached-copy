@@ -546,6 +546,10 @@ pdf 273: https://arxiv.org/pdf/0903.4503.pdf (Every multiple of 4 except 212, 36
 
 pdf 274: https://www.ams.org/journals/mcom/1999-68-227/S0025-5718-99-01071-6/S0025-5718-99-01071-6.pdf (On sums of seven cubes)
 
+pdf 275: http://archive.numdam.org/article/JTNB_2000__12_2_411_0.pdf (Waring's Problem for sixteen biquadrates - numerical results)
+
+pdf 276: https://www.ams.org/journals/bull/1933-39-10/S0002-9904-1933-05719-1/S0002-9904-1933-05719-1.pdf (Recent progress on Waring's theorem and its generalizations)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
