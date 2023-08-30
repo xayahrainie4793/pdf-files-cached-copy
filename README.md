@@ -534,6 +534,18 @@ pdf 267: https://www.ams.org/journals/mcom/1978-32-142/S0025-5718-1978-0476616-X
 
 pdf 268: https://link.springer.com/content/pdf/bbm:978-1-4684-0133-2/1.pdf (Introduction to Cyclotomic Fields)
 
+pdf 269: http://dx.doi.org/10.1016/0022-314X(84)90100-8 (An effective seven-cube theorem)
+
+pdf 270: https://arxiv.org/pdf/1009.3983.pdf (Every even number greater than 454 is the sum of seven cubes)
+
+pdf 271: https://www.cs.uleth.ca/~kadiri/articles/Prime-04-09-07.pdf (Short effective intervals containing primes in arithmetic progressions and the seven cubes problem)
+
+pdf 272: https://arxiv.org/pdf/1505.00647.pdf (Every integer greater than 454 is the sum of at most seven positive cubes)
+
+pdf 273: https://arxiv.org/pdf/0903.4503.pdf (Every multiple of 4 except 212, 364, 420, and 428 is the sum of seven cubes)
+
+pdf 274: https://www.ams.org/journals/mcom/1999-68-227/S0025-5718-99-01071-6/S0025-5718-99-01071-6.pdf (On sums of seven cubes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
