@@ -550,6 +550,10 @@ pdf 275: http://archive.numdam.org/article/JTNB_2000__12_2_411_0.pdf (Waring's P
 
 pdf 276: https://www.ams.org/journals/bull/1933-39-10/S0002-9904-1933-05719-1/S0002-9904-1933-05719-1.pdf (Recent progress on Waring's theorem and its generalizations)
 
+pdf 277: https://www.ams.org/journals/bull/1910-16-05/S0002-9904-1910-01892-9/S0002-9904-1910-01892-9.pdf (Note on a new number theory function)
+
+pdf 278: https://arxiv.org/pdf/1810.13360.pdf (Irreducibility of Random Polynomials of Large Degree)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
