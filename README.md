@@ -554,6 +554,10 @@ pdf 277: https://www.ams.org/journals/bull/1910-16-05/S0002-9904-1910-01892-9/S0
 
 pdf 278: https://arxiv.org/pdf/1810.13360.pdf (Irreducibility of Random Polynomials of Large Degree)
 
+pdf 279: http://matwbn.icm.edu.pl/ksiazki/aa/aa12/aa12128.pdf (Solution of a problem on figurate numbers)
+
+pdf 280: http://dx.doi.org/10.1016/0022-314X(72)90036-4 (On triangular numbers which are sums of consecutive squares)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
