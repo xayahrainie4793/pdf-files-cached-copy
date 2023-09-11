@@ -558,6 +558,14 @@ pdf 279: http://matwbn.icm.edu.pl/ksiazki/aa/aa12/aa12128.pdf (Solution of a pro
 
 pdf 280: http://dx.doi.org/10.1016/0022-314X(72)90036-4 (On triangular numbers which are sums of consecutive squares)
 
+pdf 281: https://www.fq.math.ca/Scanned/13-4/webb.pdf (Distribution of the first digits of Fibonacci numbers)
+
+pdf 282: https://www.fq.math.ca/Scanned/9-1/wlodarski2.pdf (Fibonacci and Lucas Numbers Tend to Obey Benford's Law)
+
+pdf 283: https://arxiv.org/pdf/cond-mat/0412004.pdf (Power laws, Pareto distributions and Zipf's law)
+
+pdf 284: http://www.jaapspies.nl/bookb5.pdf (A Bit of Math, The Art of Problem Solving)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
