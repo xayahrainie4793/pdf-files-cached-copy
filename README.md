@@ -566,6 +566,8 @@ pdf 283: https://arxiv.org/pdf/cond-mat/0412004.pdf (Power laws, Pareto distribu
 
 pdf 284: http://www.jaapspies.nl/bookb5.pdf (A Bit of Math, The Art of Problem Solving)
 
+pdf 285: https://www.ams.org/journals/mcom/1999-68-225/S0025-5718-99-00990-4/S0025-5718-99-00990-4.pdf (The Number of Primes *Sigma*<sub>(*i*=1)</sub><sup>*n*</sup>((−1)<sup>*n*−*i*</sup>×(*i*!)) is finite)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
