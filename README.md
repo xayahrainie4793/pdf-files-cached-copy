@@ -588,6 +588,16 @@ pdf 294: https://www.ams.org/journals/mcom/1974-28-126/S0025-5718-1974-0347727-0
 
 pdf 295: https://www.ams.org/journals/mcom/1975-29-129/S0025-5718-1975-0376606-9/S0025-5718-1975-0376606-9.pdf (Irregular primes and cyclotomic invariants)
 
+pdf 296: http://web.archive.org/web/20051125023958/http://www.lacim.uqam.ca/~plouffe/OEIS/archive_in_pdf/HistoricalPell.pdf (Historical Overview of Pell Equations)
+
+pdf 297: http://web.archive.org/web/20141029065638/http://www.plouffe.fr/simon/OEIS/archive_in_pdf/pellequations.pdf (The Search For An Exhaustive Solution to Pell's Equation)
+
+pdf 298: http://www.ams.org/notices/200202/fea-lenstra.pdf (Solving the Pell Equation)
+
+pdf 299: https://arxiv.org/pdf/2106.07373.pdf (Triangle Sides for Congruent Numbers less than 10000)
+
+pdf 300: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1197511-5/S0025-5718-1993-1197511-5.pdf (Irregular Primes and Cyclotomic Invariants to Four Million)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
