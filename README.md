@@ -578,6 +578,16 @@ pdf 289: https://www.ams.org/journals/mcom/1986-46-174/S0025-5718-1986-0829639-7
 
 pdf 290: https://mersenneforum.org/attachment.php?attachmentid=28900&d=1694725800 (An Extension to Perrin's Pseudoprime Test)
 
+pdf 291: https://arxiv.org/pdf/1212.3602.pdf (A search for primes *p* such that Euler number *E*<sub>*p*−3</sub> is divisible by *p*)
+
+pdf 292: https://www.acadsci.fi/mathematica/Vol01/vol01pp195-198.pdf (On the distribution mod 8 of the *E*-irregular primes)
+
+pdf 293: https://www.ams.org/journals/mcom/1978-32-142/S0025-5718-1978-0482273-9/S0025-5718-1978-0482273-9.pdf (Cyclotomic invariants and *E*-irregular primes)
+
+pdf 294: https://www.ams.org/journals/mcom/1974-28-126/S0025-5718-1974-0347727-0/S0025-5718-1974-0347727-0.pdf (Irregular prime divisors of the Bernoulli numbers)
+
+pdf 295: https://www.ams.org/journals/mcom/1975-29-129/S0025-5718-1975-0376606-9/S0025-5718-1975-0376606-9.pdf (Irregular primes and cyclotomic invariants)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
