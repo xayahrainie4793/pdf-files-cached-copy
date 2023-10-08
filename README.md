@@ -606,6 +606,8 @@ pdf 303: http://matwbn.icm.edu.pl/ksiazki/aa/aa39/aa3926.pdf (On Linnik's Consta
 
 pdf 304: https://web.archive.org/web/20160317102203/http://eprints.maths.ox.ac.uk/166/1/linnik.pdf (Zero-free regions for Dirichlet *L*-functions, and the least prime in an arithmetic progression)
 
+pdf 305: https://math.dartmouth.edu/~carlp/least.pdf (On the least prime in certain arithmetic progressions)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
