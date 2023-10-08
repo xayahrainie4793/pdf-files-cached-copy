@@ -608,6 +608,8 @@ pdf 304: https://web.archive.org/web/20160317102203/http://eprints.maths.ox.ac.u
 
 pdf 305: https://math.dartmouth.edu/~carlp/least.pdf (On the least prime in certain arithmetic progressions)
 
+pdf 306: https://math.dartmouth.edu/~carlp/PDF/paper24.pdf (A note on the least prime in an arithmetic progression)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
