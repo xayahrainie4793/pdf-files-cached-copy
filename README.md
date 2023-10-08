@@ -600,6 +600,10 @@ pdf 300: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1197511-5
 
 pdf 301: https://dms.umontreal.ca/~andrew/PDF/laval.pdf (Least primes in arithmetic progressions)
 
+pdf 302: https://www.ams.org/journals/mcom/1996-65-216/S0025-5718-96-00763-6/S0025-5718-96-00763-6.pdf (Explicit bounds for primes in residue classes)
+
+pdf 303: http://matwbn.icm.edu.pl/ksiazki/aa/aa39/aa3926.pdf (On Linnik's Constant)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
