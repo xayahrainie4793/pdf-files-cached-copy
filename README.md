@@ -598,6 +598,8 @@ pdf 299: https://arxiv.org/pdf/2106.07373.pdf (Triangle Sides for Congruent Numb
 
 pdf 300: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1197511-5/S0025-5718-1993-1197511-5.pdf (Irregular Primes and Cyclotomic Invariants to Four Million)
 
+pdf 301: https://dms.umontreal.ca/~andrew/PDF/laval.pdf (Least primes in arithmetic progressions)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
