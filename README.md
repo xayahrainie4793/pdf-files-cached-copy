@@ -128,7 +128,7 @@ pdf 64: http://go.helms-net.de/math/expdioph/fermatquotients.pdf (Fermat-/Euler-
 
 pdf 65: https://dozenal.org/drupal/sites_bck/default/files/MultiplicationSynopsis.pdf (Multiplication Tables of Various Bases)
 
-pdf 66: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.693.5325 (Unique-Period Primes)
+pdf 66: https://www.utm.edu/staff/caldwell/preprints/unique.pdf (Unique-Period Primes)
 
 pdf 67: http://math101.guru/wp-content/uploads/2018/09/01-A3-Presentation-v7.3EN-no.pdf (Testing Chebyshev's bias for Prime Numbers up to 10<sup>15</sup>)
 
