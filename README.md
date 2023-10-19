@@ -92,7 +92,7 @@ pdf 46: https://www.fq.math.ca/Scanned/33-3/izotov.pdf (A Note on Sierpinski Num
 
 pdf 47: https://doi.org/10.1016/j.jnt.2008.02.004 (On powers associated with Sierpiński numbers, Riesel numbers and Polignac's conjecture)
 
-pdf 48: http://yves.gallot.pagesperso-orange.fr/papers/smallbrier.pdf (A search for some small Brier numbers)
+pdf 48: https://web.archive.org/web/20231002155518/http://yves.gallot.pagesperso-orange.fr/papers/smallbrier.pdf (A search for some small Brier numbers)
 
 pdf 49: http://www.ams.org/journals/mcom/2003-72-243/S0025-5718-02-01479-5/S0025-5718-02-01479-5.pdf (The twenty-fourth Fermat number is composite)
 
@@ -106,7 +106,7 @@ pdf 53: https://www.ams.org/journals/mcom/1999-68-225/S0025-5718-99-00992-8/S002
 
 pdf 54: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182953-4/S0025-5718-1993-1182953-4.pdf (The factorization of the ninth Fermat number)
 
-pdf 55: http://yves.gallot.pagesperso-orange.fr/papers/cyclotomic.pdf (Cyclotomic polynomials and prime numbers)
+pdf 55: https://web.archive.org/web/20231001175553/http://yves.gallot.pagesperso-orange.fr/papers/cyclotomic.pdf (Cyclotomic polynomials and prime numbers)
 
 pdf 56: https://cs.uwaterloo.ca/journals/JIS/VOL14/Oller/oller3.pdf (On the Base-*b* Expansion of the Number of Trailing Zeros of *b*<sup>*k*</sup>!)
 
@@ -428,7 +428,7 @@ pdf 214: https://www.ams.org/journals/mcom/1981-37-155/S0025-5718-1981-0616376-2
 
 pdf 215: https://www.ams.org/journals/mcom/1983-41-164/S0025-5718-1983-0717710-7/S0025-5718-1983-0717710-7.pdf (Factors of Fermat numbers and large primes of the form *k*×2<sup>*n*</sup>+1)
 
-pdf 216: http://yves.gallot.pagesperso-orange.fr/papers/weight.pdf (On the number of primes in a sequence)
+pdf 216: https://web.archive.org/web/20231002020455/http://yves.gallot.pagesperso-orange.fr/papers/weight.pdf (On the number of primes in a sequence)
 
 pdf 217: https://web.archive.org/web/20120612174638/http://mathdl.maa.org/images/upload_library/22/Ford/JonesSatoWadaWiens.pdf (Diophantine representation of the set of prime numbers)
 
