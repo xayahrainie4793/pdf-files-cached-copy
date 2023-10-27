@@ -614,6 +614,8 @@ pdf 307: https://eprint.iacr.org/2012/444.pdf (Factorization of a 1061-bit numbe
 
 pdf 308: https://eprint.iacr.org/2014/653.pdf (Mersenne Factorization Factory)
 
+pdf 309: https://eprint.iacr.org/2007/205.pdf (A kilobit special number field sieve factorization)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
