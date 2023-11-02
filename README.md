@@ -618,6 +618,10 @@ pdf 309: https://eprint.iacr.org/2007/205.pdf (A kilobit special number field si
 
 pdf 310: https://eprint.iacr.org/2020/697.pdf (Comparing the difficulty of factorization and discrete logarithm: a 240-digit experiment)
 
+pdf 311: https://arxiv.org/pdf/2004.01285.pdf (Unconditional Prime-representing Functions, Following Mills)
+
+pdf 312: https://www.ams.org/journals/bull/1947-53-06/S0002-9904-1947-08849-2/S0002-9904-1947-08849-2.pdf (A prime-representing function)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
