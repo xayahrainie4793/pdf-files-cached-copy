@@ -622,6 +622,12 @@ pdf 311: https://arxiv.org/pdf/2004.01285.pdf (Unconditional Prime-representing 
 
 pdf 312: https://www.ams.org/journals/bull/1947-53-06/S0002-9904-1947-08849-2/S0002-9904-1947-08849-2.pdf (A prime-representing function)
 
+pdf 313: http://www.gpgpgpu.com/gecco2009/6.pdf (Optimization of Primality Testing Methods by GPU Evolutionary Search)
+
+pdf 314: http://pseudoprime.com/talk0797.pdf (Recent Developments in Primality Testing)
+
+pdf 315: http://pseudoprime.com/talk0797a.pdf (Frobenius pseudoprimes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
