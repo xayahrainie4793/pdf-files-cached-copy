@@ -628,6 +628,12 @@ pdf 314: http://pseudoprime.com/talk0797.pdf (Recent Developments in Primality T
 
 pdf 315: http://pseudoprime.com/talk0797a.pdf (Frobenius pseudoprimes)
 
+pdf 316: http://pseudoprime.com/pseudo1.pdf (Frobenius Pseudoprimes)
+
+pdf 317: http://pseudoprime.com/pseudo3.pdf (There are Infinitely Many Perrin Pseudoprimes)
+
+pdf 318: http://pseudoprime.com/dopo.pdf (Are there counter-examples to the Baillie–PSW primality test?)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
