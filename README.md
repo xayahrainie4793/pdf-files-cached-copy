@@ -626,7 +626,7 @@ pdf 313: http://www.gpgpgpu.com/gecco2009/6.pdf (Optimization of Primality Testi
 
 pdf 314: http://pseudoprime.com/talk0797.pdf (Recent Developments in Primality Testing)
 
-pdf 315: http://pseudoprime.com/talk0797a.pdf (Frobenius pseudoprimes)
+pdf 315: http://pseudoprime.com/talk0797a.pdf (Frobenius Pseudoprimes / A Theorem in Analytic Number Theory)
 
 pdf 316: http://pseudoprime.com/pseudo1.pdf (Frobenius Pseudoprimes)
 
