@@ -634,6 +634,10 @@ pdf 317: http://pseudoprime.com/pseudo3.pdf (There are Infinitely Many Perrin Ps
 
 pdf 318: http://pseudoprime.com/dopo.pdf (Are there counter-examples to the Baillie–PSW primality test?)
 
+pdf 319: http://www.prothsearch.com/Tabulation.pdf (Tabulation of primes of the form *k*×2<sup>*n*</sup>+1)
+
+pdf 320: https://arxiv.org/pdf/1802.01793.pdf (On a family of sequences related to Chebyshev polynomials)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
