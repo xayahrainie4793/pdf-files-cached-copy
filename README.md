@@ -638,6 +638,10 @@ pdf 319: http://www.prothsearch.com/Tabulation.pdf (Tabulation of primes of the 
 
 pdf 320: https://arxiv.org/pdf/1802.01793.pdf (On a family of sequences related to Chebyshev polynomials)
 
+pdf 321: https://arxiv.org/pdf/1503.06365.pdf (Factorization in Formal Languages)
+
+pdf 322: https://www.sciencedirect.com/science/article/pii/S0012365X17300031?via%3Dihub (Counting the number of non-zero coefficients in rows of generalized Pascal triangles)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
