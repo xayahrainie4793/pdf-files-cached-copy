@@ -642,6 +642,12 @@ pdf 321: https://arxiv.org/pdf/1503.06365.pdf (Factorization in Formal Languages
 
 pdf 322: https://www.sciencedirect.com/science/article/pii/S0012365X17300031?via%3Dihub (Counting the number of non-zero coefficients in rows of generalized Pascal triangles)
 
+pdf 323: https://arxiv.org/pdf/2106.03335.pdf (Singmaster's conjecture in the interior of Pascal's triangle)
+
+pdf 324: https://www.emis.de/journals/INTEGERS/papers/e7/e7.pdf (New Bounds on the Number of Representations of t as a Binomial Coefficient)
+
+pdf 325: https://www.fq.math.ca/Scanned/13-4/singmaster.pdf (Repeated binomial coefficients and Fibonacci numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
