@@ -394,7 +394,7 @@ pdf 197: https://people.seas.harvard.edu/~salil/pseudorandomness/pseudorandomnes
 
 pdf 198: https://www.ams.org/journals/bull/1936-42-06/S0002-9904-1936-06309-3/S0002-9904-1936-06309-3.pdf (On the magnitude of the coefficients of the cyclotomic polynomial)
 
-pdf 199: https://www.renyi.hu/~p_erdos/1974-03.pdf (Bounds for the r-th coefficients of cyclotomic polynomials)
+pdf 199: https://www.renyi.hu/~p_erdos/1974-03.pdf (Bounds for the *r*-th coefficients of cyclotomic polynomials)
 
 pdf 200: http://matwbn.icm.edu.pl/ksiazki/aa/aa64/aa6432.pdf (Cyclotomic polynomials with large coefficients)
 
