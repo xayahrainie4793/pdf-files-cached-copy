@@ -648,6 +648,12 @@ pdf 324: https://www.emis.de/journals/INTEGERS/papers/e7/e7.pdf (New Bounds on t
 
 pdf 325: https://www.fq.math.ca/Scanned/13-4/singmaster.pdf (Repeated binomial coefficients and Fibonacci numbers)
 
+pdf 326: https://nntdm.net/papers/nntdm-29/NNTDM-29-4-705-712.pdf (Perfect numbers, Wieferich primes and the solutions of *binomial*(2×*n*,*n*) == 2<sup>*n*</sup> mod *n*)
+
+pdf 327: https://arxiv.org/pdf/1503.06365.pdf (Factorization in Formal Languages)
+
+pdf 328: https://cs.uwaterloo.ca/~shallit/Papers/ntfl.pdf (Number theory and formal languages)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
