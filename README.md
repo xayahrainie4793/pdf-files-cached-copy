@@ -656,7 +656,7 @@ pdf 328: https://cs.uwaterloo.ca/~shallit/Papers/ntfl.pdf (Number theory and for
 
 pdf 329: https://www.sciencedirect.com/science/article/pii/S0021980069801110 (On free monoids partially ordered by embedding)
 
-pdf 330: https://www.researchgate.net/publication/31596193_Combinatorics_of_Words (Combinatorics of Words)
+pdf 330: https://cs.uwaterloo.ca/~shallit/Talks/introcw.pdf (Combinatorics on Words: An Introduction)
 
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
