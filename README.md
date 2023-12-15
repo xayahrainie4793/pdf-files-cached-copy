@@ -654,6 +654,10 @@ pdf 327: https://arxiv.org/pdf/1503.06365.pdf (Factorization in Formal Languages
 
 pdf 328: https://cs.uwaterloo.ca/~shallit/Papers/ntfl.pdf (Number theory and formal languages)
 
+pdf 329: https://www.sciencedirect.com/science/article/pii/S0021980069801110 (On free monoids partially ordered by embedding)
+
+pdf 330: https://www.researchgate.net/publication/31596193_Combinatorics_of_Words (Combinatorics of Words)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
