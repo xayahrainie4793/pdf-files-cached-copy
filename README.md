@@ -660,6 +660,8 @@ pdf 330: https://cs.uwaterloo.ca/~shallit/Talks/introcw.pdf (Combinatorics on Wo
 
 pdf 331: http://www.fq.math.ca/Scanned/40-3/paulsen.pdf (The prime number maze)
 
+pdf 332: https://arxiv.org/pdf/1812.07650.pdf (Extending Babbage's (Non-)Primality Tests)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
