@@ -666,6 +666,8 @@ pdf 333: https://web.archive.org/web/20180721233527/http://gradelle.educanet2.ch
 
 pdf 334: https://oeis.org/A180000/a180000.pdf (Die schwingende Fakultät und Orbitalsysteme)
 
+pdf 335: https://www.fq.math.ca/Scanned/33-2/rotkiewicz.pdf (On Even Pseudoprimes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
