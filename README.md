@@ -658,6 +658,8 @@ pdf 329: https://www.sciencedirect.com/science/article/pii/S0021980069801110 (On
 
 pdf 330: https://cs.uwaterloo.ca/~shallit/Talks/introcw.pdf (Combinatorics on Words: An Introduction)
 
+pdf 331: http://www.fq.math.ca/Scanned/40-3/paulsen.pdf (The prime number maze)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
