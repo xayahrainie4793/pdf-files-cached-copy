@@ -692,6 +692,20 @@ pdf 346: https://arxiv.org/pdf/math/0506155.pdf (Perfect Skolem sets)
 
 pdf 347: https://web.archive.org/web/20171109081927/http://www.austms.org.au/Gazette/2007/Mar07/39PatsonPisano.pdf (Pisano period and permutations of *n* X *n* matrices)
 
+pdf 348: https://webspace.ship.edu/msrenault/fibonacci/FibThesis.pdf (The Fibonacci Sequence Under Various Moduli)
+
+pdf 349: https://webspace.ship.edu/msrenault/fibonacci/PowerFibonacciSequences.pdf (Power Fibonacci Sequences)
+
+pdf 350: https://webspace.ship.edu/msrenault/fibonacci/RenaultPeriodRankOrderMathMag.pdf (The Period, Rank, and Order of the (*a*, *b*)-Fibonacci Sequence Mod *m*)
+
+pdf 351: https://webspace.ship.edu/msrenault/fibonacci/Renault%20-%20Symmetries%20of%20Fibonacci%20Points%20Mod%20m.pdf (Symmetries of Fibonacci Points, Mod *m*)
+
+pdf 352: https://arxiv.org/pdf/1102.1636.pdf (A Few Equivalences of Wall-Sun-Sun Prime Conjecture)
+
+pdf 353: https://arxiv.org/pdf/1709.04582.pdf (Pisano period codes)
+
+pdf 354: https://www.ams.org/journals/mcom/1969-23-106/S0025-5718-69-99644-6/S0025-5718-69-99644-6.pdf (Review of B. H. Hannon and W. L. Morris tables)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
