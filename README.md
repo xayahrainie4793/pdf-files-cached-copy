@@ -668,6 +668,30 @@ pdf 334: https://oeis.org/A180000/a180000.pdf (Die schwingende Fakultät und Orb
 
 pdf 335: https://www.fq.math.ca/Scanned/33-2/rotkiewicz.pdf (On Even Pseudoprimes)
 
+pdf 336: https://arxiv.org/pdf/1403.4614.pdf (Free Fibonacci Sequences)
+
+pdf 337: https://arxiv.org/pdf/2202.08986.pdf (The Fibonacci Sequence is Normal Base 10)
+
+pdf 338: https://arxiv.org/pdf/1603.00534.pdf (Modular periodicity of exponential sums of symmetric Boolean functions and some of its consequences)
+
+pdf 339: https://www.fq.math.ca/Papers1/44-1/quartreiter01_2006.pdf (Periods of (*q*,*r*)-Fibonacci sequences and Elliptic Curves)
+
+pdf 340: https://www.ams.org/journals/tran/1931-033-01/S0002-9947-1931-1501585-5/S0002-9947-1931-1501585-5.pdf (On sequences defined by linear recurrence relations)
+
+pdf 341: http://matwbn.icm.edu.pl/ksiazki/aa/aa16/aa1621.pdf (On arithmetical functions related to the Fibonacci numbers)
+
+pdf 342: https://arxiv.org/pdf/1203.4066.pdf (On the last digit and the last non-zero digit of *n*<sup>*n*</sup> in base *b*)
+
+pdf 343: https://oeis.org/A001175/a001175.pdf (Tables of Arithmetical Functions Related to the Fibonacci Numbers)
+
+pdf 344: https://web.archive.org/web/20130514040647/http://www.math.ca/crux/v23/n4/CRUXv23n4.pdf (The Academy Corner)
+
+pdf 345: https://www.emis.de/journals/INTEGERS/papers/o65/o65.pdf (On numbers that cannot be expressed as a plus-minus weighted sum of a Fibonacci number and a prime)
+
+pdf 346: https://arxiv.org/pdf/math/0506155.pdf (Perfect Skolem sets)
+
+pdf 347: https://web.archive.org/web/20171109081927/http://www.austms.org.au/Gazette/2007/Mar07/39PatsonPisano.pdf (Pisano period and permutations of *n* X *n* matrices)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
