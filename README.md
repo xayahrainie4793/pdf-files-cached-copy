@@ -718,6 +718,16 @@ pdf 359: https://www.ams.org/journals/mcom/1970-24-109/S0025-5718-1970-0257029-5
 
 pdf 360: https://www.ams.org/journals/mcom/2003-72-242/S0025-5718-02-01432-1/S0025-5718-02-01432-1.pdf (Class numbers of real cyclotomic fields of prime conductor)
 
+pdf 361: https://link.springer.com/content/pdf/10.1007/PL00009418.pdf (On the Kissing Numbers of Some Special Convex Bodies)
+
+pdf 362: https://arxiv.org/pdf/1609.00231.pdf (There are infinitely many elliptic Carmichael numbers)
+
+pdf 363: https://web.archive.org/web/20210508022623/http://faculty.missouri.edu/~bankswd/papers/2008_Descartes_Final.pdf (Descartes Numbers)
+
+pdf 364: https://arxiv.org/pdf/2101.09718.pdf (On the Density of Spoof Odd Perfect Numbers)
+
+pdf 365: https://arxiv.org/pdf/1211.4570.pdf (A congruence modulo *n*<sup>3</sup> involving two consecutive sums of powers and its applications)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
