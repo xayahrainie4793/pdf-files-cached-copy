@@ -706,6 +706,18 @@ pdf 353: https://arxiv.org/pdf/1709.04582.pdf (Pisano period codes)
 
 pdf 354: https://www.ams.org/journals/mcom/1969-23-106/S0025-5718-69-99644-6/S0025-5718-69-99644-6.pdf (Review of B. H. Hannon and W. L. Morris tables)
 
+pdf 355: https://link.springer.com/content/pdf/bbm:978-1-4684-0133-2/1.pdf (Introduction to Cyclotomic Fields)
+
+pdf 356: https://www.fq.math.ca/Papers1/46_47-4/Klaska.pdf (On Tribonacci-Wieferich primes)
+
+pdf 357: https://dml.cz/bitstream/handle/10338.dmlcz/137497/ActaOstrav_16-2008-1_2.pdf (A search for Tribonacci-Wieferich primes)
+
+pdf 358: https://www.lehigh.edu/~dmd1/define3.pdf (For which *p*-adic integers *x* can *sum*_{*k*}*binomial*(*x*, *k*)<sup>−1</sup> be defined?)
+
+pdf 359: https://www.ams.org/journals/mcom/1970-24-109/S0025-5718-1970-0257029-5/S0025-5718-1970-0257029-5.pdf (A table of the first factor for prime cyclotomic fields)
+
+pdf 360: https://www.ams.org/journals/mcom/2003-72-242/S0025-5718-02-01432-1/S0025-5718-02-01432-1.pdf (Class numbers of real cyclotomic fields of prime conductor)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
