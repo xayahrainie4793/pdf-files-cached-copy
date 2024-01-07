@@ -736,6 +736,18 @@ pdf 368: https://eprint.iacr.org/2010/270.pdf (Factorization of *RSA*-180)
 
 pdf 369: https://web.archive.org/web/20110719004557/http://public.rz.fh-wolfenbuettel.de/~kronema/pdf/rsa170.pdf (Factorization of *RSA*-170)
 
+pdf 370: https://link.springer.com/content/pdf/10.1007/3-540-48329-2_15.pdf (On the factorization of *RSA*-120)
+
+pdf 371: https://people.csail.mit.edu/rivest/Rsapaper.pdf (A Method for Obtaining Digital Signatures and Public-Key Cryptosystems)
+
+pdf 372: https://link.springer.com/content/pdf/10.1007/3-540-48285-7_3.pdf (Factoring Integers Using SIMD Sieves)
+
+pdf 373: https://www.math.uchicago.edu/~may/VIGRE/VIGRE2007/REUPapers/FINALAPP/Calderbank.pdf (The *RSA* Cryptosystem: History, Algorithm, Primes)
+
+pdf 374: https://www.iacr.org/archive/eurocrypt2000/1807/18070001-new.pdf (Factorization of a 512–bit *RSA* Modulus)
+
+pdf 375: https://www.rambus.com/wp-content/uploads/2015/08/TimingAttacks.pdf (Timing Attacks on Implementations of Die-Hellman, *RSA*, *DSS*, and Other Systems)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
