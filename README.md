@@ -728,6 +728,14 @@ pdf 364: https://arxiv.org/pdf/2101.09718.pdf (On the Density of Spoof Odd Perfe
 
 pdf 365: https://arxiv.org/pdf/1211.4570.pdf (A congruence modulo *n*<sup>3</sup> involving two consecutive sums of powers and its applications)
 
+pdf 366: https://eprint.iacr.org/2004/095.pdf (GNFS Factoring Statistics of *RSA*-100, 110, ..., 150)
+
+pdf 367: https://web.archive.org/web/20120702130253/http://maths.anu.edu.au/~bai/paper/rsa704.pdf (Factorisation of *RSA*-704 with CADO-NFS)
+
+pdf 368: https://eprint.iacr.org/2010/270.pdf (Factorization of *RSA*-180)
+
+pdf 369: https://web.archive.org/web/20110719004557/http://public.rz.fh-wolfenbuettel.de/~kronema/pdf/rsa170.pdf (Factorization of *RSA*-170)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
