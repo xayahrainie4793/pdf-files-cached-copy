@@ -160,7 +160,7 @@ pdf 80: https://cs.uwaterloo.ca/journals/JIS/VOL14/Jones/jones12.pdf (Appending 
 
 pdf 81: https://homes.cerias.purdue.edu/~ssw/bernoulli/full.pdf (Prime divisors of the Bernoulli and Euler numbers)
 
-pdf 82: https://media.proquest.com/media/hms/PFT/2/SXxDM?_s=T48dR6DOJh5sW%2FpBtLQHVP8Sz2k%3D (Component Interactions of the Prime Numbers)
+pdf 82: https://www.proquest.com/openview/4012f0286b785cd732c78eb0fc6fce80 (Component Interactions of the Prime Numbers)
 
 pdf 83: https://www.ams.org/journals/mcom/1990-55-191/S0025-5718-1990-1023756-8/S0025-5718-1990-1023756-8.pdf (Explicit bounds for primality testing and related problems)
 
