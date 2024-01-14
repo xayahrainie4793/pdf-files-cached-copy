@@ -748,6 +748,10 @@ pdf 374: https://www.iacr.org/archive/eurocrypt2000/1807/18070001-new.pdf (Facto
 
 pdf 375: https://www.rambus.com/wp-content/uploads/2015/08/TimingAttacks.pdf (Timing Attacks on Implementations of Die-Hellman, *RSA*, *DSS*, and Other Systems)
 
+pdf 376: https://www.ams.org/journals/mcom/1997-66-219/S0025-5718-97-00843-0/S0025-5718-97-00843-0.pdf (On the *p*-divisibility of Fermat quotients)
+
+pdf 377: https://oeis.org/A076336/a076336.pdf (*OEIS* A076336, Proofs concerning S3 and S4)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
