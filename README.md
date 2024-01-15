@@ -786,6 +786,10 @@ pdf 393: https://arxiv.org/pdf/2006.06737.pdf (Every 7-Dimensional Abelian Varie
 
 pdf 394: https://arxiv.org/pdf/1801.04542.pdf (Geometric classification of 4*d* *N*=2 SCFTs)
 
+pdf 395: https://oeis.org/A007015/a007015.pdf (Letter to N. J. A. Sloane, Jul. 1992)
+
+pdf 396: https://oeis.org/A084740/a084740.pdf (Letter to N. J. A. Sloane, circa 1991)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
