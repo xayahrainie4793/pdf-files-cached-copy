@@ -770,6 +770,22 @@ pdf 385: https://math.dartmouth.edu/~carlp/uupaper3.pdf (On untouchable numbers 
 
 pdf 386: https://www.ams.org/journals/mcom/2014-83-288/S0025-5718-2013-02775-5/S0025-5718-2013-02775-5.pdf (Variant of a theorem of Erdős on the sum-of-proper-divisors function)
 
+pdf 387: https://arxiv.org/pdf/2005.01078.pdf (Residue classes free of values of Euler's function)
+
+pdf 388: https://www.impan.pl/shop/publication/transaction/download/product/87562 (Nonaliquots and Robbins numbers)
+
+pdf 389: https://publi.math.unideb.hu/load_doi.php?pdoi=10_5486_PMD_2011_4820 (Nonaliquot numbers)
+
+pdf 390: https://www.ams.org/journals/btran/2016-03-01/S2330-0000-2016-00010-2/S2330-0000-2016-00010-2.pdf (Some problems of Erdős on the sum-of-divisors function)
+
+pdf 391: https://pollack.uga.edu/NABDofficial.pdf (Not Always Buried Deep)
+
+pdf 392: https://ir.cwi.nl/pub/13093/13093D.pdf (A theoretical and computational study of generalized aliquot sequences)
+
+pdf 393: https://arxiv.org/pdf/2006.06737.pdf (Every 7-Dimensional Abelian Variety over the *p*-adic Numbers has a Reducible *L*-adic Galois Representation)
+
+pdf 394: https://arxiv.org/pdf/1801.04542.pdf (Geometric classification of 4*d* *N*=2 SCFTs)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
