@@ -752,6 +752,24 @@ pdf 376: https://www.ams.org/journals/mcom/1997-66-219/S0025-5718-97-00843-0/S00
 
 pdf 377: https://oeis.org/A076336/a076336.pdf (*OEIS* A076336, Proofs concerning S3 and S4)
 
+pdf 378: https://arxiv.org/pdf/math/0409231.pdf (Noncototients and Nonaliquots)
+
+pdf 379: http://matwbn.icm.edu.pl/ksiazki/cm/cm68/cm6817.pdf (On integers not of the form *n*−*phi*(*n*))
+
+pdf 380: https://users.renyi.hu/~p_erdos/1973-27.pdf (Über die Zahlen der form *sigma*(*n*)−*n* und *n*−*phi*(*n*))
+
+pdf 381: http://matwbn.icm.edu.pl/ksiazki/cm/cm86/cm8616.pdf (Infinite families of noncototients)
+
+pdf 382: https://projecteuclid.org/euclid.tkbjm/1496164969 (On a result of Flammenkamp-Luca concerning noncototient sequence)
+
+pdf 383: https://wcnt.files.wordpress.com/2013/09/wcnt-problems-2012.pdf (Western Number Theory Problems)
+
+pdf 384: https://timetravel-1.github.io/Website/files/beamer-tutorial.pdf (Introduction to Noncototients)
+
+pdf 385: https://math.dartmouth.edu/~carlp/uupaper3.pdf (On untouchable numbers and related problems)
+
+pdf 386: https://www.ams.org/journals/mcom/2014-83-288/S0025-5718-2013-02775-5/S0025-5718-2013-02775-5.pdf (Variant of a theorem of Erdős on the sum-of-proper-divisors function)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
