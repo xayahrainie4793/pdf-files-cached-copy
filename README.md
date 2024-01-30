@@ -792,6 +792,18 @@ pdf 396: https://oeis.org/A084740/a084740.pdf (Letter to N. J. A. Sloane, circa 
 
 pdf 397: https://www.maths.lancs.ac.uk/jameson/carpsp.pdf (Carmichael numbers and pseudoprimes)
 
+pdf 398: https://maths-people.anu.edu.au/~brent/pd/rpb116a.pdf (Improved techniques for lower bounds for odd perfect numbers)
+
+pdf 399: https://maths-people.anu.edu.au/~brent/pd/rpb116.pdf (Improved techniques for lower bounds for odd perfect numbers)
+
+pdf 400: https://maths-people.anu.edu.au/~brent/pd/rpb116p.pdf (Proof that there are no odd perfect numbers less than 10<sup>300</sup>)
+
+pdf 401: https://maths-people.anu.edu.au/~brent/pd/rpb100a.pdf (A new lower bound for odd perfect numbers)
+
+pdf 402: https://maths-people.anu.edu.au/~brent/pd/rpb100.pdf (A new lower bound for odd perfect numbers)
+
+pdf 403: https://maths-people.anu.edu.au/~brent/pd/rpb100s.pdf (Supplement to "A new lower bound for odd perfect numbers")
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
