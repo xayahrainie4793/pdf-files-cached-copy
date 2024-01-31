@@ -804,6 +804,10 @@ pdf 402: https://maths-people.anu.edu.au/~brent/pd/rpb100.pdf (A new lower bound
 
 pdf 403: https://maths-people.anu.edu.au/~brent/pd/rpb100s.pdf (Supplement to "A new lower bound for odd perfect numbers")
 
+pdf 404: https://www.lirmm.fr/~ochem/opn/opn.pdf (Odd Perfect Numbers are Greater than 10<sup>1500</sup>)
+
+pdf 405: https://maths-people.anu.edu.au/~brent/pd/rpb106i.pdf (A new approach to lower bounds for odd perfect numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
