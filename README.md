@@ -808,6 +808,16 @@ pdf 404: https://www.lirmm.fr/~ochem/opn/opn.pdf (Odd Perfect Numbers are Greate
 
 pdf 405: https://maths-people.anu.edu.au/~brent/pd/rpb106i.pdf (A new approach to lower bounds for odd perfect numbers)
 
+pdf 406: http://s369624816.websitehome.co.uk/rgep/p82p.pdf (The Carmichael numbers up to 10<sup>21</sup>)
+
+pdf 407: http://s369624816.websitehome.co.uk/rgep/p82.pdf (The Carmichael numbers up to 10<sup>21</sup>)
+
+pdf 408: https://cs.uwaterloo.ca/journals/JIS/VOL5/Dubner/dubner6.pdf (Carmichael Numbers of the form (6×*m*+1)×(12×*m*+1)×(18×*m*+1))
+
+pdf 409: https://arxiv.org/pdf/2111.06963.pdf (Bertrand's Postulate for Carmichael Numbers)
+
+pdf 410: http://math.colgate.edu/~integers/v52/v52.pdf (On Carmichael and polygonal numbers, Bernoulli polynomials, and sums of base-*p* digits)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
