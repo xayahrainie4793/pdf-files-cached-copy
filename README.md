@@ -808,9 +808,9 @@ pdf 404: https://www.lirmm.fr/~ochem/opn/opn.pdf (Odd Perfect Numbers are Greate
 
 pdf 405: https://maths-people.anu.edu.au/~brent/pd/rpb106i.pdf (A new approach to lower bounds for odd perfect numbers)
 
-pdf 406: http://s369624816.websitehome.co.uk/rgep/p82p.pdf (The Carmichael numbers up to 10<sup>21</sup>)
+pdf 406: http://www.s369624816.websitehome.co.uk/rgep/p82p.pdf (The Carmichael numbers up to 10<sup>21</sup>)
 
-pdf 407: http://s369624816.websitehome.co.uk/rgep/p82.pdf (The Carmichael numbers up to 10<sup>21</sup>)
+pdf 407: http://www.s369624816.websitehome.co.uk/rgep/p82.pdf (The Carmichael numbers up to 10<sup>21</sup>)
 
 pdf 408: https://cs.uwaterloo.ca/journals/JIS/VOL5/Dubner/dubner6.pdf (Carmichael Numbers of the form (6×*m*+1)×(12×*m*+1)×(18×*m*+1))
 
