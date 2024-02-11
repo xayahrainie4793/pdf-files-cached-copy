@@ -818,6 +818,8 @@ pdf 409: https://arxiv.org/pdf/2111.06963.pdf (Bertrand's Postulate for Carmicha
 
 pdf 410: http://math.colgate.edu/~integers/v52/v52.pdf (On Carmichael and polygonal numbers, Bernoulli polynomials, and sums of base-*p* digits)
 
+pdf 411: https://wydawnictwa.ptm.org.pl/index.php/wiadomosci-matematyczne/article/view/2458/2327 (A remark on composite numbers *m* which are factors of *a*<sup>*m*</sup>−*a*)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
