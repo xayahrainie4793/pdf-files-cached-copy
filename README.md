@@ -820,6 +820,12 @@ pdf 410: http://math.colgate.edu/~integers/v52/v52.pdf (On Carmichael and polygo
 
 pdf 411: https://wydawnictwa.ptm.org.pl/index.php/wiadomosci-matematyczne/article/view/2458/2327 (A remark on composite numbers *m* which are factors of *a*<sup>*m*</sup>−*a*)
 
+pdf 412: https://kconrad.math.uconn.edu/articles/hlconst.pdf (Hardy-Littlewood Constants)
+
+pdf 413: https://oeis.org/A221712/a221712.pdf (High precision computation of Hardy-Littlewood constants)
+
+pdf 414: https://www.ams.org/journals/mcom/2003-72-241/S0025-5718-02-01418-7/S0025-5718-02-01418-7.pdf (New Quadratic Polynomials With High Densities Of Prime Values)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
