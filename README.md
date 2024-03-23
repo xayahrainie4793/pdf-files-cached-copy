@@ -826,6 +826,10 @@ pdf 413: https://oeis.org/A221712/a221712.pdf (High precision computation of Har
 
 pdf 414: https://www.ams.org/journals/mcom/2003-72-241/S0025-5718-02-01418-7/S0025-5718-02-01418-7.pdf (New Quadratic Polynomials With High Densities Of Prime Values)
 
+pdf 415: http://math.colgate.edu/~integers/v53/v53.pdf (Carleman's inequality over prime numbers)
+
+pdf 416: https://arxiv.org/pdf/2401.08997.pdf (Five families of rapidly convergent evaluations of zeta values)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
