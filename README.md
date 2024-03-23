@@ -830,6 +830,8 @@ pdf 415: http://math.colgate.edu/~integers/v53/v53.pdf (Carleman's inequality ov
 
 pdf 416: https://arxiv.org/pdf/2401.08997.pdf (Five families of rapidly convergent evaluations of zeta values)
 
+pdf 417: https://oeis.org/A115350/a115350.pdf (Illustration of Aliquot Sequence Mergers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
