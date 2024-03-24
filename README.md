@@ -842,6 +842,8 @@ pdf 421: https://arxiv.org/pdf/2301.03149.pdf ("A Handbook of Integer Sequences"
 
 pdf 422: https://cs.uwaterloo.ca/journals/JIS/VOL26/Pongsriiam/pong43.pdf (Product of Some Polynomials and Arithmetic Functions)
 
+pdf 423: https://oeis.org/A000396/a000396.pdf (Amicable Pairs and Aliquot Sequences)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
