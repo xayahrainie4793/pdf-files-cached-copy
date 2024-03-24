@@ -832,6 +832,16 @@ pdf 416: https://arxiv.org/pdf/2401.08997.pdf (Five families of rapidly converge
 
 pdf 417: https://oeis.org/A115350/a115350.pdf (Illustration of Aliquot Sequence Mergers)
 
+pdf 418: https://www.ams.org/journals/bull/1944-50-12/S0002-9904-1944-08257-8/S0002-9904-1944-08257-8.pdf (A conjecture in elementary number theory)
+
+pdf 419: https://oeis.org/A003023/a003023.pdf (Interim report on aliquot series)
+
+pdf 420: https://math.dartmouth.edu/~carlp/iterate.pdf (Analytic number theory)
+
+pdf 421: https://arxiv.org/pdf/2301.03149.pdf ("A Handbook of Integer Sequences" Fifty Years Later)
+
+pdf 422: https://cs.uwaterloo.ca/journals/JIS/VOL26/Pongsriiam/pong43.pdf (Product of Some Polynomials and Arithmetic Functions)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
