@@ -852,6 +852,10 @@ pdf 426: https://www.cs.uleth.ca/~hadi/2016-09-29-aliquot_sequences.pdf (What do
 
 pdf 427: https://doi.org/10.13140%2FRG.2.1.1233.8640 (Distributed cycle detection in large-scale sparse graphs)
 
+pdf 428: https://arxiv.org/pdf/2404.05506.pdf (FastECPP over MPI)
+
+pdf 429: https://cr.yp.to/factorization/smoothparts-20040510.pdf (How to find smooth parts of integers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
