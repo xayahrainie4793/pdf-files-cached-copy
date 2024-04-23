@@ -856,6 +856,12 @@ pdf 428: https://arxiv.org/pdf/2404.05506.pdf (FastECPP over MPI)
 
 pdf 429: https://cr.yp.to/factorization/smoothparts-20040510.pdf (How to find smooth parts of integers)
 
+pdf 430: https://www.ams.org/journals/mcom/2000-69-232/S0025-5718-00-01225-4/S0025-5718-00-01225-4.pdf (Higher-order Carmichael numbers)
+
+pdf 431: https://arxiv.org/pdf/2010.02677.pdf (Chebyshev polynomials and higher order Lucas Lehmer algorithm)
+
+pdf 432: https://www.mathnet.ru/links/90a3a9e377dbfcee71e61270a6a972f3/adm159.pdf (Characterization of Chebyshev Numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
