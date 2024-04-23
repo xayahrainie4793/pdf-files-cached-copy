@@ -228,7 +228,7 @@ pdf 114: https://arxiv.org/pdf/math/0611940.pdf (On examples of difference opera
 
 pdf 115: https://rxiv.org/pdf/1403.0524v1.pdf (On the Divisors of Smarandache Unary Sequence)
 
-pdf 116: http://www.jstor.org/stable/2005337 (Properties of the sequence 3×2<sup>*n*</sup>+1)
+pdf 116: https://oeis.org/A004119/a004119.pdf (Properties of the sequence 3×2<sup>*n*</sup>+1)
 
 pdf 117: https://arxiv.org/pdf/1203.3969.pdf (Cantor Primes as Prime-Valued Cyclotomic Polynomials)
 
