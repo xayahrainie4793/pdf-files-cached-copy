@@ -236,7 +236,7 @@ pdf 118: https://eprint.iacr.org/2023/195.pdf (A simpler alternative to Lucas–
 
 pdf 119: https://www.ams.org/journals/mcom/1979-33-148/S0025-5718-1979-0537980-7/S0025-5718-1979-0537980-7.pdf (Some Primes of the Form (*a*<sup>*n*</sup>−1)/(*a*−1))
 
-pdf 120: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.7.5686&rep=rep1&type=pdf (Minimal Primes)
+pdf 120: https://web.archive.org/web/20230220073103/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.7.5686&rep=rep1&type=pdf (Minimal Primes)
 
 pdf 121: https://math.dartmouth.edu/~carlp/PDF/reliable.pdf (On the difficulty of finding reliable witnesses)
 
@@ -274,9 +274,9 @@ pdf 137: https://www.fq.math.ca/Papers1/42-4/quartgarcia04_2004.pdf (Hyperperfec
 
 pdf 138: https://www.ams.org/journals/mcom/2006-75-253/S0025-5718-05-01766-7/S0025-5718-05-01766-7.pdf (Aurifeuillean factorization)
 
-pdf 139: https://www-users.mat.umk.pl//~anow/ps-dvi/prim-c06.pdf (Liczby pierwsze o szczególnym rozmieszczeniu cyfr)
+pdf 139: https://web.archive.org/web/20221206203947/https://www-users.mat.umk.pl//~anow/ps-dvi/prim-c06.pdf (Liczby pierwsze o szczególnym rozmieszczeniu cyfr)
 
-pdf 140: http://www.expmath.org/expmath/volumes/11/11.2/3630finishes1.pdf (Aliquot Sequence 3630 Ends after Reaching 100 Digits)
+pdf 140: https://web.archive.org/web/20110611055642/http://www.expmath.org/expmath/volumes/11/11.2/3630finishes1.pdf (Aliquot Sequence 3630 Ends after Reaching 100 Digits)
 
 pdf 141: https://web.archive.org/web/20211204021210/https://primes.utm.edu/primes/lists/all.pdf (The Largest Known Primes, The 5000 largest known primes)
 
