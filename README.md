@@ -862,6 +862,10 @@ pdf 431: https://arxiv.org/pdf/2010.02677.pdf (Chebyshev polynomials and higher 
 
 pdf 432: https://www.mathnet.ru/links/90a3a9e377dbfcee71e61270a6a972f3/adm159.pdf (Characterization of Chebyshev Numbers)
 
+pdf 433: https://www.mersenneforum.org/attachment.php?attachmentid=19450&d=1545052246 (SNFS Poly)
+
+pdf 434: https://www.ijcst.org/Volume3/Issue1/p2_3_1.pdf (Realistic Approach of Strange Number System from Unodecimal to Vigesimal)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
