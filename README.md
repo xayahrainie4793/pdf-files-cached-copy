@@ -866,6 +866,8 @@ pdf 433: https://www.mersenneforum.org/attachment.php?attachmentid=19450&d=15450
 
 pdf 434: https://www.ijcst.org/Volume3/Issue1/p2_3_1.pdf (Realistic Approach of Strange Number System from Unodecimal to Vigesimal)
 
+pdf 435: https://www.unicode.org/L2/L2007/07206-n3284-phoenician.pdf (Proposal to add two numbers for the Phoenician script)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
