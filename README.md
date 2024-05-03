@@ -870,6 +870,14 @@ pdf 435: https://www.unicode.org/L2/L2007/07206-n3284-phoenician.pdf (Proposal t
 
 pdf 436: https://mathematikalpha.de/wp-content/uploads/2016/12/03-Primzahlen.pdf (Primzahlen)
 
+pdf 437: https://www.lirmm.fr/~ochem/opn/opnf.pdf (On the number of prime factors of an odd perfect number)
+
+pdf 438: https://math.colgate.edu/~integers/x79/x79.pdf (On Inequalities Involving Counts of the Prime Factors of an Odd Perfect Number)
+
+pdf 439: https://www.lirmm.fr/~ochem/opn/opn_slide.pdf (Lower bounds on odd perfect numbers)
+
+pdf 440: https://www.ams.org/journals/mcom/2007-76-260/S0025-5718-07-02033-9/S0025-5718-07-02033-9.pdf (New Techniques for Bounds on the Total Number of Prime Factors of an Odd Perfect Number)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
