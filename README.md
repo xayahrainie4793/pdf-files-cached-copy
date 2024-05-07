@@ -878,6 +878,10 @@ pdf 439: https://www.lirmm.fr/~ochem/opn/opn_slide.pdf (Lower bounds on odd perf
 
 pdf 440: https://www.ams.org/journals/mcom/2007-76-260/S0025-5718-07-02033-9/S0025-5718-07-02033-9.pdf (New Techniques for Bounds on the Total Number of Prime Factors of an Odd Perfect Number)
 
+pdf 441: https://arxiv.org/pdf/2403.20304.pdf (Pandigital and penholodigital numbers)
+
+pdf 442: https://arxiv.org/pdf/2004.06414.pdf (Look, Knave)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
