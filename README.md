@@ -882,6 +882,8 @@ pdf 441: https://arxiv.org/pdf/2403.20304.pdf (Pandigital and penholodigital num
 
 pdf 442: https://arxiv.org/pdf/2004.06414.pdf (Look, Knave)
 
+pdf 443: https://web.archive.org/web/20130702000532/http://xyyxf.at.tut.by/aurifeuillean.pdf (Aurifeuillean factorization)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
