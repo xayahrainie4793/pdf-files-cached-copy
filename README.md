@@ -884,6 +884,10 @@ pdf 442: https://arxiv.org/pdf/2004.06414.pdf (Look, Knave)
 
 pdf 443: https://web.archive.org/web/20130702000532/http://xyyxf.at.tut.by/aurifeuillean.pdf (Aurifeuillean factorization)
 
+pdf 444: https://pzktupel.de/SMPDF/SM01.pdf (Following a packed list of all smallest (*n*+1)-digit prime)
+
+pdf 445: https://pzktupel.de/SMPDF/SM02.pdf (Following a packed list of smallest (*n*+1)-digit prime twins)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
