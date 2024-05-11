@@ -888,6 +888,12 @@ pdf 444: https://pzktupel.de/SMPDF/SM01.pdf (Following a packed list of all smal
 
 pdf 445: https://pzktupel.de/SMPDF/SM02.pdf (Following a packed list of smallest (*n*+1)-digit prime twins)
 
+pdf 446: https://www.opertech.com/primes/permissiblepatterns.pdf (Permissible Patterns of Primes)
+
+pdf 447: https://web.archive.org/web/20120717000529/https://www.opertech.com/primes/fixedinterval.pdf (Primes in a Fixed Interval)
+
+pdf 448: https://web.archive.org/web/20120717000114/https://www.opertech.com/primes/entropy.pdf (Entropy of the Primes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
