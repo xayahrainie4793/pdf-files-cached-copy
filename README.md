@@ -894,6 +894,12 @@ pdf 447: https://web.archive.org/web/20120717000529/https://www.opertech.com/pri
 
 pdf 448: https://web.archive.org/web/20120717000114/https://www.opertech.com/primes/entropy.pdf (Entropy of the Primes)
 
+pdf 449: https://www.sciencedirect.com/science/article/pii/S0022314X08000243 (Elliptic curve primality tests for Fermat and related primes)
+
+pdf 450: https://arxiv.org/pdf/0912.2116.pdf (Primality Tests for Fermat Numbers and 2<sup>2×*k*+1</sup>±2<sup>*k*+1</sup>+1)
+
+pdf 451: http://tony.reix.free.fr/Mersenne/SummaryOfThe3Conjectures.pdf (Three conjectures about primality testing for Mersenne, Wagstaff and Fermat numbers based on cycles of the Digraph under *x*<sup>2</sup>−2 modulo a prime)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
