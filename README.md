@@ -900,6 +900,10 @@ pdf 450: https://arxiv.org/pdf/0912.2116.pdf (Primality Tests for Fermat Numbers
 
 pdf 451: http://tony.reix.free.fr/Mersenne/SummaryOfThe3Conjectures.pdf (Three conjectures about primality testing for Mersenne, Wagstaff and Fermat numbers based on cycles of the Digraph under *x*<sup>2</sup>−2 modulo a prime)
 
+pdf 452: https://sweet.ua.pt/tos/bib/5.4.pdf (Tables of values of *pi*(*x*) and of *pi2*(*x*))
+
+pdf 453: https://arxiv.org/pdf/1503.01839.pdf (The combinatorial algorithm for computing *pi*(*x*))
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
