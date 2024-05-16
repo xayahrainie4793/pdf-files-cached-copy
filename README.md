@@ -2,7 +2,7 @@ pdf 1: http://www.kurims.kyoto-u.ac.jp/EMIS/journals/INTEGERS/papers/i61/i61.pdf
 
 pdf 2: https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1165&context=rhumj (A Reverse Sierpinski Number Problem)
 
-pdf 3: https://www.utm.edu/staff/caldwell/preprints/2to100.pdf (Generalized Sierpinski Numbers Base *b*)
+pdf 3: https://web.archive.org/web/20231011144408/https://www.utm.edu/staff/caldwell/preprints/2to100.pdf (Generalized Sierpinski Numbers Base *b*)
 
 pdf 4: https://www.ams.org/journals/mcom/1993-61-204/S0025-5718-1993-1185243-9/S0025-5718-1993-1185243-9.pdf (Generalized Repunit Primes)
 
@@ -128,7 +128,7 @@ pdf 64: http://go.helms-net.de/math/expdioph/fermatquotients.pdf (Fermat-/Euler-
 
 pdf 65: https://dozenal.org/drupal/sites_bck/default/files/MultiplicationSynopsis.pdf (Multiplication Tables of Various Bases)
 
-pdf 66: https://www.utm.edu/staff/caldwell/preprints/unique.pdf (Unique-Period Primes)
+pdf 66: https://web.archive.org/web/20231015225027/https://www.utm.edu/staff/caldwell/preprints/unique.pdf (Unique-Period Primes)
 
 pdf 67: http://math101.guru/wp-content/uploads/2018/09/01-A3-Presentation-v7.3EN-no.pdf (Testing Chebyshev's bias for Prime Numbers up to 10<sup>15</sup>)
 
@@ -220,7 +220,7 @@ pdf 110: https://www.primegrid.com/download/GFN-919444_1048576.pdf (PrimeGrid's 
 
 pdf 111: https://t5k.org/lists/top_ten/topten.pdf (The Top Ten Prime Numbers)
 
-pdf 112: http://www.utm.edu/~caldwell/preprints/Heuristics.pdf (An Amazing Prime Heuristic)
+pdf 112: https://web.archive.org/web/20230911032453/https://www.utm.edu/staff/caldwell/preprints/Heuristics.pdf (An Amazing Prime Heuristic)
 
 pdf 113: https://arxiv.org/pdf/2103.04483.pdf (An Amazing Prime Heuristic)
 
