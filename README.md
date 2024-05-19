@@ -908,6 +908,14 @@ pdf 454: https://arxiv.org/pdf/math/0105211.pdf (Some Remarks on the Distributio
 
 pdf 455: https://arxiv.org/pdf/1301.2242.pdf (Maximal gaps between prime *k*-tuples: a statistical approach)
 
+pdf 456: http://dx.doi.org/10.1007/BF02403921 (Some problems of "partitio numerorum"; III: on the expression of a number as a sum of primes)
+
+pdf 457: https://arxiv.org/pdf/1309.4053.pdf (Tables of Record Gaps Between Prime Constellations)
+
+pdf 458: https://arxiv.org/pdf/1901.03785.pdf (Predicting Maximal Gaps in Sets of Primes)
+
+pdf 459: https://arxiv.org/pdf/1401.6959.pdf (The Distribution of Maximal Prime Gaps in Cramer's Probabilistic Model of Primes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
