@@ -906,6 +906,8 @@ pdf 453: https://arxiv.org/pdf/1503.01839.pdf (The combinatorial algorithm for c
 
 pdf 454: https://arxiv.org/pdf/math/0105211.pdf (Some Remarks on the Distribution of Twin Primes)
 
+pdf 455: https://arxiv.org/pdf/1301.2242.pdf (Maximal gaps between prime *k*-tuples: a statistical approach)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
