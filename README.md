@@ -916,6 +916,8 @@ pdf 458: https://arxiv.org/pdf/1901.03785.pdf (Predicting Maximal Gaps in Sets o
 
 pdf 459: https://arxiv.org/pdf/1401.6959.pdf (The Distribution of Maximal Prime Gaps in Cramer's Probabilistic Model of Primes)
 
+pdf 460: http://www.loria.fr/~zimmerma/papers/ecm-entry.pdf (The Elliptic Curve Method)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
