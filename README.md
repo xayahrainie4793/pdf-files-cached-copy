@@ -918,6 +918,14 @@ pdf 459: https://arxiv.org/pdf/1401.6959.pdf (The Distribution of Maximal Prime 
 
 pdf 460: http://www.loria.fr/~zimmerma/papers/ecm-entry.pdf (The Elliptic Curve Method)
 
+pdf 461: https://web.archive.org/web/20061207143529/http://www.ams.org/online_bks/conm22/conm22-chI.pdf (I. Introduction to the Short Tables)
+
+pdf 462: https://web.archive.org/web/20061008124653/http://www.ams.org/online_bks/conm22/conm22-chIII.pdf (III. Introduction to the Main Tables)
+
+pdf 463: https://web.archive.org/web/20061006063858/http://www.ams.org/online_bks/conm22/conm22-chIV.pdf (IV. Update to the Introduction for the Second Edition)
+
+pdf 464: https://web.archive.org/web/20061207143631/http://www.ams.org/online_bks/conm22/conm22-chV.pdf (V. Update to the Introduction for the Third Edition)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
