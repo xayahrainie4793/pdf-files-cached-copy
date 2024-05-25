@@ -932,6 +932,16 @@ pdf 466: https://oeis.org/A005165/a005165.pdf (The Strong Law of Small Numbers)
 
 pdf 467: https://oeis.org/A005347/a005347.pdf (The Second Strong Law of Small Numbers)
 
+pdf 468: https://www.fq.math.ca/Papers1/42-1/quartkarttunen01_2004.pdf (On Pascal's Triangle Modulo 2 in Fibonacci Representation)
+
+pdf 469: https://arxiv.org/pdf/2201.06636.pdf (On digital sequences associated with Pascal's triangle)
+
+pdf 470: http://neilsloane.com/doc/carry1.pdf (Carryless Arithmetic Mod 10)
+
+pdf 471: https://arxiv.org/pdf/1602.04149.pdf (On Binomial Identities in Arbitrary Bases)
+
+pdf 472: https://oeis.org/A275198/a275198.pdf (Triangle formed by reading Pascal's triangle mod *m*)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
