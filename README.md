@@ -928,6 +928,10 @@ pdf 464: https://web.archive.org/web/20061207143631/http://www.ams.org/online_bk
 
 pdf 465: https://web.archive.org/web/20160418084212/http://staff.spd.dcu.ie/johnbcos/download/Fermat%20material/Fermat%206/Fermat_6.pdf (Could there exist a sixth Fermat prime? I believe it is not impossible)
 
+pdf 466: https://oeis.org/A005165/a005165.pdf (The Strong Law of Small Numbers)
+
+pdf 467: https://oeis.org/A005347/a005347.pdf (The Second Strong Law of Small Numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
