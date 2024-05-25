@@ -942,6 +942,14 @@ pdf 471: https://arxiv.org/pdf/1602.04149.pdf (On Binomial Identities in Arbitra
 
 pdf 472: https://oeis.org/A275198/a275198.pdf (Triangle formed by reading Pascal's triangle mod *m*)
 
+pdf 473: https://arxiv.org/pdf/1011.6083.pdf (On Stephan's conjectures concerning Pascal triangle modulo 2)
+
+pdf 474: http://dx.doi.org/10.1016/S0022-314X(03)00103-3 (The density of 0's in recurrence double sequences)
+
+pdf 475: http://dx.doi.org/10.1016/j.disc.2005.03.022 (The distribution of elements in automatic double sequences)
+
+pdf 476: https://doi.org/10.1016/0166-218X(94)00132-W (Linear cellular automata, finite automata and Pascal's triangle)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
