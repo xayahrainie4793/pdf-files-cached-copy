@@ -194,7 +194,7 @@ pdf 97: https://maths-people.anu.edu.au/~brent/pd/rpb135.pdf (On computing facto
 
 pdf 98: https://cpsc.yale.edu/sites/default/files/files/tr345.pdf (Primality Tests)
 
-pdf 99: https://www.degruyter.com/document/doi/10.1515/JMC.2007.007/html (Optimal Parameterization of SNFS)
+pdf 99: https://www.degruyter.com/document/doi/10.1515/JMC.2007.007/pdf?licenseType=open-access (Optimal Parameterization of SNFS)
 
 pdf 100: https://www.cristal.univ-lille.fr/profil/jdelahay/pls:2002:094.pdf (Nombres premiers inévitables et pyramidaux)
 
