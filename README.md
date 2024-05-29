@@ -950,6 +950,10 @@ pdf 475: http://dx.doi.org/10.1016/j.disc.2005.03.022 (The distribution of eleme
 
 pdf 476: https://doi.org/10.1016/0166-218X(94)00132-W (Linear cellular automata, finite automata and Pascal's triangle)
 
+pdf 477: https://smc.math.ca/wp-content/uploads/crux-pdfs/CRUXv40n6.pdf (Crux Mathematicorum)
+
+pdf 478: https://www.theoremoftheday.org/Binomial/GermainId/TotDGermainIdentity.pdf (Sophie Germain’s Identity)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
