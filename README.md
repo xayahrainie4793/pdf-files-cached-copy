@@ -956,6 +956,8 @@ pdf 478: https://www.theoremoftheday.org/Binomial/GermainId/TotDGermainIdentity.
 
 pdf 479: https://www.ams.org/journals/bull/1906-12-09/S0002-9904-1906-01371-4/S0002-9904-1906-01371-4.pdf (Note on the factors of Fermat's numbers)
 
+pdf 480: https://repunit-koide.jimdofree.com/app/download/10317119350/Repunit100-20240610.pdf?t=1718031438 (Factor of Repunit Numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
