@@ -958,6 +958,12 @@ pdf 479: https://www.ams.org/journals/bull/1906-12-09/S0002-9904-1906-01371-4/S0
 
 pdf 480: https://repunit-koide.jimdofree.com/app/download/10317119350/Repunit100-20240610.pdf?t=1718031438 (Factor of Repunit Numbers)
 
+pdf 481: https://ceur-ws.org/Vol-1326/020-Forisek.pdf (Fast Primality Testing for Integers That Fit into a Machine Word)
+
+pdf 482: https://web.archive.org/web/20120506141716/http://www.sigevo.org/gecco-2009/docs/bp-winners-gecco09.pdf (Genetic and Evolutionary Computation Conference 2009 And the Winners are ...)
+
+pdf 483: http://www.gpgpgpu.com/gecco2009/GPU-GECCO2009.pdf (Evolutionary Computation)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
