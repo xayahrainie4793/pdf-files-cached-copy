@@ -964,6 +964,8 @@ pdf 482: https://web.archive.org/web/20120506141716/http://www.sigevo.org/gecco-
 
 pdf 483: http://www.gpgpgpu.com/gecco2009/GPU-GECCO2009.pdf (Evolutionary Computation)
 
+pdf 484: https://eprint.iacr.org/2018/749.pdf (Prime and Prejudice: Primality Testing Under Adversarial Conditions)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
