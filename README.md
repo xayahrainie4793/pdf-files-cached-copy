@@ -966,6 +966,8 @@ pdf 483: http://www.gpgpgpu.com/gecco2009/GPU-GECCO2009.pdf (Evolutionary Comput
 
 pdf 484: https://eprint.iacr.org/2018/749.pdf (Prime and Prejudice: Primality Testing Under Adversarial Conditions)
 
+pdf 485: https://repunit-koide.jimdofree.com/app/download/10317119350/Repunit100-20240612.pdf?t=1718186099 (Factor of Repunit Numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
