@@ -968,6 +968,8 @@ pdf 484: https://eprint.iacr.org/2018/749.pdf (Prime and Prejudice: Primality Te
 
 pdf 485: https://repunit-koide.jimdofree.com/app/download/10317119350/Repunit100-20240612.pdf?t=1718186099 (Factor of Repunit Numbers)
 
+pdf 486: http://primenumbers.net/Documents/TestNP.pdf (An Efficient Probable Prime Test for Numbers of the Form (2<sup>*n*</sup>+1)/3)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
