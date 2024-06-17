@@ -970,6 +970,8 @@ pdf 485: https://repunit-koide.jimdofree.com/app/download/10317119350/Repunit100
 
 pdf 486: http://primenumbers.net/Documents/TestNP.pdf (An Efficient Probable Prime Test for Numbers of the Form (2<sup>*n*</sup>+1)/3)
 
+pdf 487: https://arxiv.org/pdf/1307.7920v1.pdf (Counterexamples for Frobenius primality test)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
