@@ -972,6 +972,14 @@ pdf 486: http://primenumbers.net/Documents/TestNP.pdf (An Efficient Probable Pri
 
 pdf 487: https://arxiv.org/pdf/1307.7920v1.pdf (Counterexamples for Frobenius primality test)
 
+pdf 488: https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1047&context=mathfacpub (A Theorem on Repeating Decimals)
+
+pdf 489: http://www.abdulbaki.org/math/Midys_Theorem.pdf (Extended Midy's Theorem)
+
+pdf 490: http://www.prothsearch.com/GC-Dubner.pdf (Generalized Cullen Numbers)
+
+pdf 491: https://oeis.org/A005849/a005849.pdf (Generalized Cullen Numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
