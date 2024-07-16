@@ -980,6 +980,12 @@ pdf 490: http://www.prothsearch.com/GC-Dubner.pdf (Generalized Cullen Numbers)
 
 pdf 491: https://oeis.org/A005849/a005849.pdf (Generalized Cullen Numbers)
 
+pdf 492: https://arxiv.org/pdf/1004.3366.pdf (Some integer factorization algorithms using elliptic curves)
+
+pdf 493: https://maths-people.anu.edu.au/~brent/pd/rpb102a.pdf (Some integer factorization algorithms using elliptic curves)
+
+pdf 494: https://maths-people.anu.edu.au/~brent/pd/rpb102.pdf (Some integer factorization algorithms using elliptic curves)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
