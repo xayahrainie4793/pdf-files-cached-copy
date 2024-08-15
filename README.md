@@ -986,6 +986,14 @@ pdf 493: https://maths-people.anu.edu.au/~brent/pd/rpb102a.pdf (Some integer fac
 
 pdf 494: https://maths-people.anu.edu.au/~brent/pd/rpb102.pdf (Some integer factorization algorithms using elliptic curves)
 
+pdf 495: https://oeis.org/A002223/a002223.pdf (Tables of Indices and Primitive Roots)
+
+pdf 496: https://arxiv.org/pdf/2206.14193.pdf (Computation of the least primitive root)
+
+pdf 497: https://arxiv.org/pdf/1503.04519.pdf (On Grosswald's conjecture on primitive roots)
+
+pdf 498: https://oeis.org/A005180/a005180.pdf (Correspondence)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
