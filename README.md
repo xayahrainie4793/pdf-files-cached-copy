@@ -994,6 +994,8 @@ pdf 497: https://arxiv.org/pdf/1503.04519.pdf (On Grosswald's conjecture on prim
 
 pdf 498: https://oeis.org/A005180/a005180.pdf (Correspondence)
 
+pdf 499: https://arxiv.org/pdf/1908.11497.pdf (The least primitive root modulo *p*<sup>2</sup>)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
