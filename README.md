@@ -1008,6 +1008,8 @@ pdf 504: https://fs.unm.edu/OPNS.pdf (Only Problems, Not Solutions!)
 
 pdf 505: https://sweet.ua.pt/tos/goldbach/sieve_speed.pdf (Best times (in seconds) required to sieve an interval of 1e9 centered at 10<sup>*x*</sup>)
 
+pdf 506: https://repunit-koide.jimdofree.com/app/download/10317119350/Repunit100-20240726.pdf?t=1725017883 (Factor of Repunit Numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
