@@ -998,6 +998,16 @@ pdf 499: https://arxiv.org/pdf/1908.11497.pdf (The least primitive root modulo *
 
 pdf 500: https://arxiv.org/pdf/math/9807104.pdf (The Least Prime Primitive Root and the Shifted Sieve)
 
+pdf 501: http://dx.doi.org/10.1016/0898-1221(92)90034-F (3*x*+1 search problems)
+
+pdf 502: https://oeis.org/A006877/a006877.pdf (Letter to N. J. A. Sloane with attachments, Jan. 1989)
+
+pdf 503: https://oeis.org/A006884/a006884.pdf (Tables of A6877, A6884, A6885, Jan. 1989)
+
+pdf 504: https://fs.unm.edu/OPNS.pdf (Only Problems, Not Solutions!)
+
+pdf 505: https://sweet.ua.pt/tos/goldbach/sieve_speed.pdf (Best times (in seconds) required to sieve an interval of 1e9 centered at 10<sup>*x*</sup>)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
