@@ -1014,6 +1014,10 @@ pdf 507: https://oeis.org/A076337/a076337.pdf (Some large prime numbers)
 
 pdf 508: https://repunit-koide.jimdofree.com/app/download/10317119350/Repunit100-20240911.pdf?t=1726745830 (Factor of Repunit Numbers)
 
+pdf 509: https://arxiv.org/pdf/2410.21427.pdf (Cryptarithmically unique terms in integer sequences)
+
+pdf 510: https://arxiv.org/pdf/2411.04213.pdf (Cyclotomic primes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
