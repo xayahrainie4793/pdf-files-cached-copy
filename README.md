@@ -1018,6 +1018,12 @@ pdf 509: https://arxiv.org/pdf/2410.21427.pdf (Cryptarithmically unique terms in
 
 pdf 510: https://arxiv.org/pdf/2411.04213.pdf (Cyclotomic primes)
 
+pdf 511: https://t5k.org/lists/Yates/rep-rep.pdf (Known Primes witk 1000 or more digits)
+
+pdf 512: https://t5k.org/lists/Yates/sinktit.pdf (Sinkers of the Titanics)
+
+pdf 513: https://t5k.org/lists/Yates/titpri.pdf (Titanic Primes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
