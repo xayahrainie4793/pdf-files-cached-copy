@@ -1018,7 +1018,7 @@ pdf 509: https://arxiv.org/pdf/2410.21427.pdf (Cryptarithmically unique terms in
 
 pdf 510: https://arxiv.org/pdf/2411.04213.pdf (Cyclotomic primes)
 
-pdf 511: https://t5k.org/lists/Yates/rep-rep.pdf (Known Primes witk 1000 or more digits)
+pdf 511: https://t5k.org/lists/Yates/rep-rep.pdf (Known Primes with 1000 or more digits)
 
 pdf 512: https://t5k.org/lists/Yates/sinktit.pdf (Sinkers of the Titanics)
 
