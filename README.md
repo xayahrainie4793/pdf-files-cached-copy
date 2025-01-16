@@ -1028,6 +1028,8 @@ pdf 514: https://www.ams.org/journals/mcom/2000-69-231/S0025-5718-00-01207-2/S00
 
 pdf 515: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182248-9/S0025-5718-1993-1182248-9.pdf (How was *F*<sub>6</sub> factored?)
 
+pdf 516: https://arxiv.org/pdf/2006.14425.pdf (Strengthening the Baillie-PSW primality test)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
