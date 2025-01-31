@@ -1032,6 +1032,10 @@ pdf 516: https://arxiv.org/pdf/2006.14425.pdf (Strengthening the Baillie-PSW pri
 
 pdf 517: https://oeis.org/A160559/a160559.pdf (Covering systems corresponding to the terms *a*(1)-*a*(87) for A160559)
 
+pdf 518: https://web.archive.org/web/20110815222811/http://evgenii-meerson-pr.tripod.com/Repunits_and_Harmony.pdf (Repunits and Harmony)
+
+pdf 519: https://web.archive.org/web/20110815222805/http://evgeniimeerson.tripod.com/standard-model.pdf (Standard Model particle discrete symmetry)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
