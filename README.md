@@ -1030,6 +1030,8 @@ pdf 515: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182248-9
 
 pdf 516: https://arxiv.org/pdf/2006.14425.pdf (Strengthening the Baillie-PSW primality test)
 
+pdf 517: https://oeis.org/A160559/a160559.pdf (Covering systems corresponding to the terms *a*(1)-*a*(87) for A160559)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
