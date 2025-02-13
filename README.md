@@ -1036,6 +1036,12 @@ pdf 518: https://web.archive.org/web/20110815222811/http://evgenii-meerson-pr.tr
 
 pdf 519: https://web.archive.org/web/20110815222805/http://evgeniimeerson.tripod.com/standard-model.pdf (Standard Model particle discrete symmetry)
 
+pdf 522: https://oeis.org/A376735/a376735.pdf (85 in *OEIS*)
+
+pdf 523: https://arxiv.org/pdf/1811.06070.pdf (Effective Primality Test for *p*×2<sup>*n*</sup>+1, *p* prime, *n* > 1)
+
+pdf 524: https://arxiv.org/pdf/2411.18897.pdf (A database of constructions of Hadamard matrices)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
