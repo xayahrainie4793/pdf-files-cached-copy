@@ -746,7 +746,7 @@ pdf 373: https://www.math.uchicago.edu/~may/VIGRE/VIGRE2007/REUPapers/FINALAPP/C
 
 pdf 374: https://www.iacr.org/archive/eurocrypt2000/1807/18070001-new.pdf (Factorization of a 512–bit *RSA* Modulus)
 
-pdf 375: https://www.rambus.com/wp-content/uploads/2015/08/TimingAttacks.pdf (Timing Attacks on Implementations of Die-Hellman, *RSA*, *DSS*, and Other Systems)
+pdf 375: https://www.rambus.com/wp-content/uploads/2015/08/TimingAttacks.pdf (Timing Attacks on Implementations of Diffie-Hellman, *RSA*, *DSS*, and Other Systems)
 
 pdf 376: https://www.ams.org/journals/mcom/1997-66-219/S0025-5718-97-00843-0/S0025-5718-97-00843-0.pdf (On the *p*-divisibility of Fermat quotients)
 
