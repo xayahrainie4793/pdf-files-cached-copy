@@ -1030,7 +1030,7 @@ pdf 515: https://www.ams.org/journals/mcom/1993-61-203/S0025-5718-1993-1182248-9
 
 pdf 516: https://arxiv.org/pdf/2006.14425.pdf (Strengthening the Baillie-PSW primality test)
 
-pdf 517: https://oeis.org/A160559/a160559.pdf (Covering systems corresponding to the terms *a*(1)-*a*(87) for A160559)
+pdf 517: https://oeis.org/A160559/a160559.pdf (*OEIS* A160559, Covering systems corresponding to the terms *a*(1)-*a*(87))
 
 pdf 518: https://web.archive.org/web/20110815222811/http://evgenii-meerson-pr.tripod.com/Repunits_and_Harmony.pdf (Repunits and Harmony)
 
