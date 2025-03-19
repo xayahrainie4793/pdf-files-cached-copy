@@ -1038,6 +1038,8 @@ pdf 519: https://web.archive.org/web/20110815222805/http://evgeniimeerson.tripod
 
 pdf 520: https://repunit-koide.jimdofree.com/app/download/10317119350/Repunit100-20250222.pdf?t=1740187605 (Factors of Repunit Numbers)
 
+pdf 521: https://oeis.org/A007498/a007498.pdf (Notes, n.d.)
+
 pdf 522: https://oeis.org/A376735/a376735.pdf (85 in *OEIS*)
 
 pdf 523: https://arxiv.org/pdf/1811.06070.pdf (Effective Primality Test for *p*×2<sup>*n*</sup>+1, *p* prime, *n* > 1)
