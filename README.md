@@ -1046,6 +1046,8 @@ pdf 523: https://arxiv.org/pdf/1811.06070.pdf (Effective Primality Test for *p*Ã
 
 pdf 524: https://arxiv.org/pdf/2411.18897.pdf (A database of constructions of Hadamard matrices)
 
+pdf 525: https://personal.math.ubc.ca/~gerg/papers/downloads/RUNM.pdf (Roots of unity and nullity modulo *n*)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
