@@ -1048,6 +1048,8 @@ pdf 524: https://arxiv.org/pdf/2411.18897.pdf (A database of constructions of Ha
 
 pdf 525: https://personal.math.ubc.ca/~gerg/papers/downloads/RUNM.pdf (Roots of unity and nullity modulo *n*)
 
+pdf 526: https://web.archive.org/web/20140810051836/http://www.davidson.edu/math/mossinghoff/WiefPairsBarkerSeqs_MJM.pdf (Wieferich pairs and Barker sequences)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
