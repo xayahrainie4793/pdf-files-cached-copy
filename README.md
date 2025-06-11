@@ -1052,6 +1052,8 @@ pdf 526: https://web.archive.org/web/20140810051836/http://www.davidson.edu/math
 
 pdf 527: https://oeis.org/A323748/a323748.pdf (Notes for A323748)
 
+pdf 528: https://oeis.org/A342255/a342255.pdf (Proof for the first formula)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
