@@ -1054,6 +1054,10 @@ pdf 527: https://oeis.org/A323748/a323748.pdf (Notes for A323748)
 
 pdf 528: https://oeis.org/A342255/a342255.pdf (Proof for the first formula)
 
+pdf 529: https://oeis.org/A054767/a054767.pdf (A summary of several proofs in the Lunnon article)
+
+pdf 530: https://arxiv.org/pdf/1004.5466.pdf (On computing factors of cyclotomic polynomials)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
