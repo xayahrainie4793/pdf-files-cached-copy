@@ -1058,6 +1058,10 @@ pdf 529: https://oeis.org/A054767/a054767.pdf (A summary of several proofs in th
 
 pdf 530: https://arxiv.org/pdf/1004.5466.pdf (On computing factors of cyclotomic polynomials)
 
+pdf 531: https://homes.cerias.purdue.edu/~ssw/mers.pdf (The Editor’s Corner: The New Mersenne Conjecture)
+
+pdf 532: https://scispace.com/pdf/computing-aurifeuillian-factors-4bfasder49.pdf (Computing Aurifeuillian factors)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
