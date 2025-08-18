@@ -968,7 +968,7 @@ pdf 484: https://eprint.iacr.org/2018/749.pdf (Prime and Prejudice: Primality Te
 
 pdf 485: https://repunit-koide.jimdofree.com/app/download/10317119350/Repunit100-20240612.pdf?t=1718186099 (Factor of Repunit Numbers)
 
-pdf 486: http://primenumbers.net/Documents/TestNP.pdf (An Efficient Probable Prime Test for Numbers of the Form (2<sup>*n*</sup>+1)/3)
+pdf 486: http://www.primenumbers.net/Documents/TestNP.pdf (An Efficient Probable Prime Test for Numbers of the Form (2<sup>*n*</sup>+1)/3)
 
 pdf 487: https://arxiv.org/pdf/1307.7920v1.pdf (Counterexamples for Frobenius primality test)
 
