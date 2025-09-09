@@ -1064,6 +1064,8 @@ pdf 532: https://scispace.com/pdf/computing-aurifeuillian-factors-4bfasder49.pdf
 
 pdf 533: https://math.dartmouth.edu/~carlp/brizolisants.pdf (Fixed points for discrete logarithms)
 
+pdf 534: https://cacr.uwaterloo.ca/techreports/1999/corr99-39.pdf (Generalized Mersenne Numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
