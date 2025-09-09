@@ -1066,6 +1066,12 @@ pdf 533: https://math.dartmouth.edu/~carlp/brizolisants.pdf (Fixed points for di
 
 pdf 534: https://cacr.uwaterloo.ca/techreports/1999/corr99-39.pdf (Generalized Mersenne Numbers)
 
+pdf 535: https://csrc.nist.rip/groups/ST/toolkit/documents/dss/NISTReCur.pdf (Recommended Elliptic Curves for Federal Government Use)
+
+pdf 536: https://patentimages.storage.googleapis.com/11/9b/b8/75aa2cab01785d/US5159632.pdf (Method and apparatus for public key exchange in a cryptographic system)
+
+pdf 537: https://eprint.iacr.org/2010/058.pdf (Solinas primes of small weight for fixed sizes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
