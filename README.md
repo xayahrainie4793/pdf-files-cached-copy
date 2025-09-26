@@ -1072,6 +1072,8 @@ pdf 536: https://patentimages.storage.googleapis.com/11/9b/b8/75aa2cab01785d/US5
 
 pdf 537: https://eprint.iacr.org/2010/058.pdf (Solinas primes of small weight for fixed sizes)
 
+pdf 538: https://www-users.cse.umn.edu/~garrett/m/number_theory/aurifeuillian.pdf (Factoring *x*<sup>*n*</sup>−1: cyclotomic and Aurifeuillian polynomials)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
