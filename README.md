@@ -124,7 +124,7 @@ pdf 62: https://arxiv.org/pdf/1110.4671.pdf (Verifying Sierpinski and Riesel Num
 
 pdf 63: http://www.sci.kobe-u.ac.jp/old/seminar/pdf/2008_yamazaki.pdf (フェルマー商に関係する数論)
 
-pdf 64: http://go.helms-net.de/math/expdioph/fermatquotients.pdf (Fermat-/Euler-quotients)
+pdf 64: https://web.archive.org/web/20250803010816/http://go.helms-net.de/math/expdioph/fermatquotients.pdf (Fermat-/Euler-quotients)
 
 pdf 65: https://dozenal.org/drupal/sites_bck/default/files/MultiplicationSynopsis.pdf (Multiplication Tables of Various Bases)
 
