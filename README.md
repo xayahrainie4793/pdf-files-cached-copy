@@ -1076,6 +1076,12 @@ pdf 538: https://www-users.cse.umn.edu/~garrett/m/number_theory/aurifeuillian.pd
 
 pdf 539: https://www.numdam.org/item/10.5802/jtnb.641.pdf (Practical Aurifeuillian factorization)
 
+pdf 540: https://arxiv.org/pdf/1712.08166.pdf (Results for Wieferich Primes)
+
+pdf 541: https://kconrad.math.uconn.edu/blurbs/ugradnumthy/wieferich-primes.pdf (Wieferich primes)
+
+pdf 542: https://web.math.princeton.edu/~nmk/wieferich38.pdf (Wieferich past and future)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
