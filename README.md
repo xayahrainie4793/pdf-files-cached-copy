@@ -1082,14 +1082,6 @@ pdf 541: https://kconrad.math.uconn.edu/blurbs/ugradnumthy/wieferich-primes.pdf 
 
 pdf 542: https://web.math.princeton.edu/~nmk/wieferich38.pdf (Wieferich past and future)
 
-pdf 543: http://tony.reix.free.fr/Mersenne/ConjectureOrder3Mersenne.pdf (Conjectures about the order of 3 modulo a Mersenne prime)
-
-pdf 544: https://trex58.wordpress.com/wp-content/uploads/2009/01/newvasiga.pdf (On the iteration of certain quadratic maps over *GF*(*p*))
-
-pdf 545: http://tony.reix.free.fr/Mersenne/LoopsUnderLLTmodMersennePrime.pdf (On Digraphs under *x*<sup>2</sup> and *x*<sup>2</sup>−2 modulo a Mersenne Prime)
-
-pdf 546: http://tony.reix.free.fr/Mersenne/PRIMALITYTEST2FERMATNUMBERSarXivR1.pdf (A LLT-like test for proving the primality of Fermat numbers)
-
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
