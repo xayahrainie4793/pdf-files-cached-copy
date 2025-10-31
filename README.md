@@ -1102,6 +1102,8 @@ pdf 551: http://tony.reix.free.fr/Mersenne/ConjectureLLTCyclesMersenneDraftForMe
 
 pdf 552: https://trex58.wordpress.com/wp-content/uploads/2010/01/ribenboimbook1.pdf (How to Recognize Whether a Natural Number is a Prime)
 
+pdf 553: https://www.ams.org/journals/mcom/1995-64-212/S0025-5718-1995-1308456-3/S0025-5718-1995-1308456-3.pdf (New Cullen primes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
