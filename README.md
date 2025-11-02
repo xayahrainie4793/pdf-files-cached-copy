@@ -1106,6 +1106,8 @@ pdf 553: https://www.ams.org/journals/mcom/1995-64-212/S0025-5718-1995-1308456-3
 
 pdf 554: https://www.ams.org/journals/mcom/1962-16-080/S0025-5718-1962-0148593-0/S0025-5718-1962-0148593-0.pdf (Concerning the numbers 2<sup>2×*p*</sup>+1, *p* prime)
 
+pdf 555: https://link.springer.com/content/pdf/10.1007/s11139-021-00536-2.pdf (Tight upper and lower bounds for the reciprocal sum of Proth primes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
