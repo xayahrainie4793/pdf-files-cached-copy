@@ -1104,6 +1104,8 @@ pdf 552: https://trex58.wordpress.com/wp-content/uploads/2010/01/ribenboimbook1.
 
 pdf 553: https://www.ams.org/journals/mcom/1995-64-212/S0025-5718-1995-1308456-3/S0025-5718-1995-1308456-3.pdf (New Cullen primes)
 
+pdf 554: https://www.ams.org/journals/mcom/1962-16-080/S0025-5718-1962-0148593-0/S0025-5718-1962-0148593-0.pdf (Concerning the numbers 2<sup>2×*p*</sup>+1, *p* prime)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
