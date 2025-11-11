@@ -1108,6 +1108,16 @@ pdf 554: https://www.ams.org/journals/mcom/1962-16-080/S0025-5718-1962-0148593-0
 
 pdf 555: https://link.springer.com/content/pdf/10.1007/s11139-021-00536-2.pdf (Tight upper and lower bounds for the reciprocal sum of Proth primes)
 
+pdf 556: https://cs.uwaterloo.ca/journals/JIS/VOL4/GARCIA/millionc.pdf (A Million New Amicable Pairs)
+
+pdf 557: https://web.archive.org/web/20091229175109/http://staff.imsa.edu/math/journal/volume3/articles/NumberTrivia.pdf (Number Theory Trivia: Amicable Numbers)
+
+pdf 558: https://www.ams.org/journals/mcom/1986-47-175/S0025-5718-1986-0842142-3/S0025-5718-1986-0842142-3.pdf (Computation of all the amicable pairs below 10<sup>10</sup>)
+
+pdf 559: https://www.ams.org/journals/mcom/1984-42-165/S0025-5718-1984-0725997-0/S0025-5718-1984-0725997-0.pdf (On generating new amicable pairs from given amicable pairs)
+
+pdf 560: https://web.archive.org/web/20160804161431/http://oai.cwi.nl/oai/asset/2246/2246A.pdf (A New Method for Finding Amicable Pairs)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
