@@ -1118,6 +1118,26 @@ pdf 559: https://www.ams.org/journals/mcom/1984-42-165/S0025-5718-1984-0725997-0
 
 pdf 560: https://web.archive.org/web/20160804161431/http://oai.cwi.nl/oai/asset/2246/2246A.pdf (A New Method for Finding Amicable Pairs)
 
+pdf 561: https://www.aliquotes.com/resumesiteen.pdf (Aliquot sequences)
+
+pdf 562: https://www.aliquotes.com/graphinfinisuali.pdf (Le graphe infini des suites aliquotes pour tous les entiers jusqu'à 100)
+
+pdf 563: https://www.aliquotes.com/graphinfinisualidistresp.pdf (Le graphe infini des suites aliquotes pour tous les entiers jusqu'à 100)
+
+pdf 564: https://www.aliquotes.com/existence_graphes.pdf (Théorèmes et conjectures sur l'existence de tout les graphes finis sans mailles dans le graphe infini des suites aliquotes)
+
+pdf 565: https://www.aliquotes.com/Aliquote.pdf (théorème de Barbulescu-Garambois)
+
+pdf 566: https://www.aliquotes.com/aliquote_en.pdf (théorème de Barbulescu-Garambois en anglais)
+
+pdf 567: https://www.aliquotes.com/Lenstra.pdf (On Asymptotic Properties of Aliquot Sequences)
+
+pdf 568: https://www.aliquotes.com/theoreme_chtaibi_garambois.pdf (Autour de la densit´e des entiers *n* divisibles par un certain entier *m* tel que *m* ne divise pas *σ*(*n*)−(*n*))
+
+pdf 569: https://www.aliquotes.com/theoreme_chtaibi_garambois_en.pdf (On the Density of Integers *n* Divisible by a Certain Integer *m* Such That *m* Does Not Divide *σ*(*n*)−(*n*))
+
+pdf 570: 
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
