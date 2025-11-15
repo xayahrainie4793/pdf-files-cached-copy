@@ -1150,6 +1150,12 @@ pdf 575: http://www.ams.org/journals/mcom/1975-29-129/S0025-5718-1975-0384669-X/
 
 pdf 576: http://www.ams.org/journals/mcom/1980-34-149/S0025-5718-1980-0551309-8/S0025-5718-1980-0551309-8.pdf (Corrigendum to "What Drives an Aliquot Sequence?")
 
+pdf 577: https://www.aliquotes.com/vitesse_croissance.pdf (Vitesse de croissance moyenne des suites aliquotes démarrant avec des nombres pairs Définition et évolution des coefficients de croissance en fonction du nombre d'itérations)
+
+pdf 578: https://www.aliquotes.com/infirmer_catalan.pdf (Infirmer la Conjecture de Catalan? Un chemin long et tortueux!)
+
+pdf 579: https://www.aliquotes.com/infirmer_catalan_2.pdf (Infirmer la Conjecture de Catalan Une Nouvelle Piste)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
