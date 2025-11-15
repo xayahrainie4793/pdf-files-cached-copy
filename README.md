@@ -1132,11 +1132,23 @@ pdf 566: https://www.aliquotes.com/aliquote_en.pdf (théorème de Barbulescu-Gar
 
 pdf 567: https://www.aliquotes.com/Lenstra.pdf (On Asymptotic Properties of Aliquot Sequences)
 
-pdf 568: https://www.aliquotes.com/theoreme_chtaibi_garambois.pdf (Autour de la densit´e des entiers *n* divisibles par un certain entier *m* tel que *m* ne divise pas *σ*(*n*)−(*n*))
+pdf 568: https://www.aliquotes.com/theoreme_chtaibi_garambois.pdf (Autour de la densit´e des entiers *n* divisibles par un certain entier *m* tel que *m* ne divise pas *σ*(*n*)−*n*)
 
-pdf 569: https://www.aliquotes.com/theoreme_chtaibi_garambois_en.pdf (On the Density of Integers *n* Divisible by a Certain Integer *m* Such That *m* Does Not Divide *σ*(*n*)−(*n*))
+pdf 569: https://www.aliquotes.com/theoreme_chtaibi_garambois_en.pdf (On the Density of Integers *n* Divisible by a Certain Integer *m* Such That *m* Does Not Divide *σ*(*n*)−*n*)
 
-pdf 570: 
+pdf 570: https://www.aliquotes.com/kparfait.pdf (Démontrons que si l'entier *n*=*q*×*p*, *q* étant un nombre *k*-parfait et *p* un nombre premier quelconque autre que ceux qui composent *q*, alors *σ*'(*n*)=*σ*(*n*)−*n*=(*k*−1)×*n*+*k*×*q*)
+
+pdf 571: https://www.aliquotes.com/changement_parite.pdf (Changement de parité)
+
+pdf 572: https://www.aliquotes.com/annexe4.pdf (Pourquoi *σ*(*n*)/*n* peut-il être aussi grand que l'on veut, en choisissant *n* assez grand?)
+
+pdf 573: https://www.aliquotes.com/moyennesigmansurngeneral.pdf (Une version forte du th´eor`eme Chtaibi-Garambois)
+
+pdf 574: https://www.aliquotes.com/moyennesigmansurn.pdf (Théorème Chtaibi-Garambois)
+
+pdf 575: http://www.ams.org/journals/mcom/1975-29-129/S0025-5718-1975-0384669-X/S0025-5718-1975-0384669-X.pdf (What Drives an Aliquot Sequence?)
+
+pdf 576: http://www.ams.org/journals/mcom/1980-34-149/S0025-5718-1980-0551309-8/S0025-5718-1980-0551309-8.pdf (Corrigendum to "What Drives an Aliquot Sequence?")
 
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
