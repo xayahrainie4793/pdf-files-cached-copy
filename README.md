@@ -1156,6 +1156,8 @@ pdf 578: https://www.aliquotes.com/infirmer_catalan.pdf (Infirmer la Conjecture 
 
 pdf 579: https://www.aliquotes.com/infirmer_catalan_2.pdf (Infirmer la Conjecture de Catalan Une Nouvelle Piste)
 
+pdf 580: https://arxiv.org/pdf/1605.02398v1.pdf (Irregular primes to two billion)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
