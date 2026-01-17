@@ -1164,6 +1164,8 @@ pdf 582: https://oeis.org/A002808/a002808_1.pdf (Illustration for *a*(1)-*a*(12)
 
 pdf 583: https://repunit-koide.jimdofree.com/app/download/10317119350/Repunit100-20250727.pdf?t=1766461455 (Factors of Repunit Numbers)
 
+pdf 584: https://oeis.org/A005596/a005596.pdf (Letter to N. J. A. Sloane, Aug. 1993)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
