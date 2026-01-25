@@ -1166,6 +1166,8 @@ pdf 583: https://repunit-koide.jimdofree.com/app/download/10317119350/Repunit100
 
 pdf 584: https://oeis.org/A005596/a005596.pdf (Letter to N. J. A. Sloane, Aug. 1993)
 
+pdf 585: https://arxiv.org/pdf/1510.01028.pdf (On the Existence and Frequency Distribution of the Shell Primes)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
