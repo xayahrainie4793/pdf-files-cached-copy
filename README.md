@@ -1170,6 +1170,10 @@ pdf 585: https://arxiv.org/pdf/1510.01028.pdf (On the Existence and Frequency Di
 
 pdf 586: https://arxiv.org/pdf/2305.09219.pdf (Generalized Sierpi´nski Numbers)
 
+pdf 587: https://zenodo.org/records/3471358 (The groupoids of Mersenne, Fermat, Cullen, Woodall and other Numbers and their representations by means of integer sequences)
+
+pdf 588: https://arxiv.org/pdf/1201.0282.pdf (Simerka - Quadratic Forms and Factorization)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
