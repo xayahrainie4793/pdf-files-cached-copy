@@ -1168,7 +1168,7 @@ pdf 584: https://oeis.org/A005596/a005596.pdf (Letter to N. J. A. Sloane, Aug. 1
 
 pdf 585: https://arxiv.org/pdf/1510.01028.pdf (On the Existence and Frequency Distribution of the Shell Primes)
 
-pdf 586: https://arxiv.org/pdf/2305.09219.pdf (Generalized Sierpi´nski Numbers)
+pdf 586: https://arxiv.org/pdf/2305.09219.pdf (Generalized Sierpinski Numbers)
 
 pdf 587: https://zenodo.org/records/3471358 (The groupoids of Mersenne, Fermat, Cullen, Woodall and other Numbers and their representations by means of integer sequences)
 
