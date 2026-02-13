@@ -1170,7 +1170,7 @@ pdf 585: https://arxiv.org/pdf/1510.01028.pdf (On the Existence and Frequency Di
 
 pdf 586: https://arxiv.org/pdf/2305.09219.pdf (Generalized Sierpinski Numbers)
 
-pdf 587: https://zenodo.org/records/3471358 (The groupoids of Mersenne, Fermat, Cullen, Woodall and other Numbers and their representations by means of integer sequences)
+pdf 587: https://zenodo.org/records/3471358/files/Mersenne-groupoid.pdf?download=1 (The groupoids of Mersenne, Fermat, Cullen, Woodall and other Numbers and their representations by means of integer sequences)
 
 pdf 588: https://arxiv.org/pdf/1201.0282.pdf (Simerka - Quadratic Forms and Factorization)
 
