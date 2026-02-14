@@ -1174,6 +1174,8 @@ pdf 587: https://zenodo.org/records/3471358/files/Mersenne-groupoid.pdf?download
 
 pdf 588: https://arxiv.org/pdf/1201.0282.pdf (Simerka - Quadratic Forms and Factorization)
 
+pdf 589: https://wydawnictwa.ptm.org.pl/index.php/wiadomosci-matematyczne/article/view/2458/2327 (A remark on composite numbers *m* which are factors of *a*<sup>*m*</sup>−*a*)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
