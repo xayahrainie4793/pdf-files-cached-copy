@@ -1176,6 +1176,8 @@ pdf 588: https://arxiv.org/pdf/1201.0282.pdf (Simerka - Quadratic Forms and Fact
 
 pdf 589: https://wydawnictwa.ptm.org.pl/index.php/wiadomosci-matematyczne/article/view/2458/2327 (A remark on composite numbers *m* which are factors of *a*<sup>*m*</sup>−*a*)
 
+pdf 590: https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/fulltext.pdf (The First 50 Million Prime Numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
