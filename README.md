@@ -1180,6 +1180,8 @@ pdf 590: https://people.mpim-bonn.mpg.de/zagier/files/doi/10.1007/BF03039306/ful
 
 pdf 591: https://doi.org/10.1006%2Fjnth.1993.1014 (On Nontotients)
 
+pdf 592: https://www.math.lmu.de/~schwicht/papers/jaeger14/higman.pdf (Higman's Lemma and its computational content)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
