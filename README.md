@@ -1184,6 +1184,10 @@ pdf 592: https://www.math.lmu.de/~schwicht/papers/jaeger14/higman.pdf (Higman's 
 
 pdf 593: https://sites.math.rutgers.edu/~zeilberg/mamarim/mamarimPDF/chomp.pdf (Three-Rowed CHOMP)
 
+pdf 594: https://www.securitywizardry.com/packets/pdf/Conversion_Table.pdf (Conversion Table – Decimal, Hexidecimal, Octol, Binary)
+
+pdf 595: https://mathcircle.berkeley.edu/sites/default/files/handouts/2020/BMC_Adv_p-adic_numbers_notes.pdf (Berkeley math circle: *p*-adic numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
