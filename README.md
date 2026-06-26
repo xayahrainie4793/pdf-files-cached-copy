@@ -1188,6 +1188,8 @@ pdf 594: https://www.securitywizardry.com/packets/pdf/Conversion_Table.pdf (Conv
 
 pdf 595: https://mathcircle.berkeley.edu/sites/default/files/handouts/2020/BMC_Adv_p-adic_numbers_notes.pdf (Berkeley math circle: *p*-adic numbers)
 
+pdf 596: https://arxiv.org/pdf/2507.01295.pdf (The length of the repeating decimal)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
