@@ -1194,6 +1194,8 @@ pdf 597: https://arxiv.org/pdf/0807.2332.pdf (Process of "Primoverization" of Nu
 
 pdf 598: https://arxiv.org/pdf/0807.1975.pdf (An Upper Estimate for the Overpseudoprime Counting Function)
 
+pdf 599: https://arxiv.org/pdf/1412.5226.pdf (*q*-pseudoprimality: A natural generalization of strong pseudoprimality)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
