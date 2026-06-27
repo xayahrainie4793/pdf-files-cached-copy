@@ -1190,6 +1190,10 @@ pdf 595: https://mathcircle.berkeley.edu/sites/default/files/handouts/2020/BMC_A
 
 pdf 596: https://arxiv.org/pdf/2507.01295.pdf (The length of the repeating decimal)
 
+pdf 597: https://arxiv.org/pdf/0807.2332.pdf (Process of "Primoverization" of Numbers of the Form *a*<sup>*n*</sup>−1)
+
+pdf 598: https://arxiv.org/pdf/0807.1975.pdf (An Upper Estimate for the Overpseudoprime Counting Function)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
