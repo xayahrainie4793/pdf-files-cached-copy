@@ -1196,6 +1196,10 @@ pdf 598: https://arxiv.org/pdf/0807.1975.pdf (An Upper Estimate for the Overpseu
 
 pdf 599: https://arxiv.org/pdf/1412.5226.pdf (*q*-pseudoprimality: A natural generalization of strong pseudoprimality)
 
+pdf 600: https://arxiv.org/pdf/0809.2139.pdf (Constructing the Primitive Roots of Prime Powers)
+
+pdf 601: https://arxiv.org/pdf/1602.02440.pdf (On the least square-free primitive root modulo *p*)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
