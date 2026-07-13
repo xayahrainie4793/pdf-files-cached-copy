@@ -1200,6 +1200,10 @@ pdf 600: https://arxiv.org/pdf/0809.2139.pdf (Constructing the Primitive Roots o
 
 pdf 601: https://arxiv.org/pdf/1602.02440.pdf (On the least square-free primitive root modulo *p*)
 
+pdf 602: https://repozytorium.amu.edu.pl/server/api/core/bitstreams/a01016ab-32a5-4fe9-a155-5bbe96fcb329/content (Functions et Approximatio Commentarii Mathematici)
+
+pdf 603: https://arxiv.org/pdf/1409.2815.pdf (Etude Probabiliste des *p*-quotients de Fermat)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
