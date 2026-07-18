@@ -1206,6 +1206,10 @@ pdf 603: https://arxiv.org/pdf/1409.2815.pdf (Etude Probabiliste des *p*-quotien
 
 pdf 604: https://webspace.ship.edu/msrenault/divisibility/StupidDivisibilityTricks.pdf (Stupid Divisibility Tricks - 101 Ways to Stupefy Your Friends)
 
+pdf 605: https://wc.edu/current-students/files/PDF-LINK_M-D2_Divisibility_Rules.pdf (Divisibility Rules)
+
+pdf 606: https://www.georgebrown.ca/sites/default/files/2020-05/Divisibility%20Rules.pdf (Divisibility Rules)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
