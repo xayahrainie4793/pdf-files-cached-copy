@@ -1218,6 +1218,8 @@ pdf 609: https://arxiv.org/pdf/1401.5486.pdf (General Divisibility Criteria)
 
 pdf 610: https://dse.univr.it/home/workingpapers/wp2015n19.pdf (Some notes on divisibility rules)
 
+pdf 611: https://www.nycmathteam.org/wp-content/uploads/2021/04/Divisibility_and_Bases-day2-1.pdf (Divisibility and Bases Lesson)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
