@@ -1216,6 +1216,8 @@ pdf 608: https://arxiv.org/pdf/math/0001012.pdf (Simple Divisibility Rules for t
 
 pdf 609: https://arxiv.org/pdf/1401.5486.pdf (General Divisibility Criteria)
 
+pdf 610: https://dse.univr.it/home/workingpapers/wp2015n19.pdf (Some notes on divisibility rules)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
