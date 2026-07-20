@@ -1210,6 +1210,12 @@ pdf 605: https://wc.edu/current-students/files/PDF-LINK_M-D2_Divisibility_Rules.
 
 pdf 606: https://www.georgebrown.ca/sites/default/files/2020-05/Divisibility%20Rules.pdf (Divisibility Rules)
 
+pdf 607: https://www.researchgate.net/publication/259844855_General_Divisibility_Criteria (General Divisibility Criteria)
+
+pdf 608: https://arxiv.org/pdf/math/0001012.pdf (Simple Divisibility Rules for the 1st 1000 Prime Number)
+
+pdf 609: https://arxiv.org/pdf/1401.5486.pdf (General Divisibility Criteria)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
