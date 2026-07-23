@@ -1220,6 +1220,8 @@ pdf 610: https://dse.univr.it/home/workingpapers/wp2015n19.pdf (Some notes on di
 
 pdf 611: https://www.nycmathteam.org/wp-content/uploads/2021/04/Divisibility_and_Bases-day2-1.pdf (Divisibility and Bases Lesson)
 
+pdf 612: https://arxiv.org/pdf/math/0207180.pdf (The Primary Pretenders)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
