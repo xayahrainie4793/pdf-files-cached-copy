@@ -1230,6 +1230,10 @@ pdf 615: https://arxiv.org/pdf/math/0412262.pdf (Artin's primitive root conjectu
 
 pdf 616: https://www.antonellaperucca.net/research/perucca_artin.pdf (On the introductory notes on Artin’s Conjecture)
 
+pdf 617: https://web.math.ucsb.edu/~agboola/teaching/2005/winter/old-115A/murty.pdf (Artin's conjecture for primitive roots)
+
+pdf 618: https://arxiv.org/pdf/2306.15973.pdf (Artin's Primitive Root Conjecture in Number Fields and For Matrices)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
