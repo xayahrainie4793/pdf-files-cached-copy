@@ -1228,6 +1228,8 @@ pdf 614: https://oeis.org/A002180/a002180_1.pdf (Values of *phi*(*x*) = *n* for 
 
 pdf 615: https://arxiv.org/pdf/math/0412262.pdf (Artin's primitive root conjecture -a survey -)
 
+pdf 616: https://www.antonellaperucca.net/research/perucca_artin.pdf (On the introductory notes on Artin’s Conjecture)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
