@@ -1234,6 +1234,20 @@ pdf 617: https://web.math.ucsb.edu/~agboola/teaching/2005/winter/old-115A/murty.
 
 pdf 618: https://arxiv.org/pdf/2306.15973.pdf (Artin's Primitive Root Conjecture in Number Fields and For Matrices)
 
+pdf 619: https://arxiv.org/pdf/math/0608208.pdf (The 3×*x*+1 Problem: An Annotated Bibliography, II (2000-2009))
+
+pdf 620: https://arxiv.org/pdf/2111.02635.pdf (The 3×*x*+1 Problem: An Overview)
+
+pdf 621: https://oeis.org/A006577/a006577.pdf (Email to N. J. A. Sloane, Jul 1991)
+
+pdf 622: https://matwbn.icm.edu.pl/ksiazki/aa/aa56/aa5614.pdf (The set of rational cycles for the 3×*x*+1 problem)
+
+pdf 623: https://arxiv.org/pdf/math/0309224.pdf (The 3×*x*+1 problem: An annotated bibliography (1963-1999))
+
+pdf 624: https://cs.uwaterloo.ca/journals/JIS/VOL15/Cox/cox10.pdf (The 3×*n*+1 Problem: A Probabilistic Approach)
+
+pdf 625: https://arxiv.org/pdf/math/0205002.pdf (Bounds for the 3×*x*+1 Problem using Difference Inequalities)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
