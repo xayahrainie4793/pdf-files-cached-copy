@@ -1248,6 +1248,16 @@ pdf 624: https://cs.uwaterloo.ca/journals/JIS/VOL15/Cox/cox10.pdf (The 3×*n*+1 
 
 pdf 625: https://arxiv.org/pdf/math/0205002.pdf (Bounds for the 3×*x*+1 Problem using Difference Inequalities)
 
+pdf 626: https://www.ams.org/journals/bull/1907-13-08/S0002-9904-1907-01483-0/S0002-9904-1907-01483-0.pdf (A table of multiply perfect numbers)
+
+pdf 627: https://cs.uwaterloo.ca/journals/JIS/VOL13/Hasler/hasler2.pdf (Variations on Euclid's formula for Perfect Numbers)
+
+pdf 628: https://arxiv.org/pdf/1705.03488.pdf (Exact Formulas for the Generalized Sum-of-Divisors Functions)
+
+pdf 629: https://math.colgate.edu/~integers/g41/g41.pdf (On a variation of perfect numbers)
+
+pdf 630: https://math.colgate.edu/~integers/j1/j1.pdf (On *k*-imperfect numbers)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
