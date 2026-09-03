@@ -1258,6 +1258,8 @@ pdf 629: https://math.colgate.edu/~integers/g41/g41.pdf (On a variation of perfe
 
 pdf 630: https://math.colgate.edu/~integers/j1/j1.pdf (On *k*-imperfect numbers)
 
+pdf 631: https://arxiv.org/pdf/2501.04851.pdf (Polynomially growing integer sequences all whose terms are composite)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
