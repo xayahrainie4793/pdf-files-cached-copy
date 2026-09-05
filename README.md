@@ -1266,6 +1266,8 @@ pdf 633: https://www.ams.org/journals/bull/2004-41-01/S0273-0979-03-00993-5/S027
 
 pdf 634: https://web.archive.org/web/20070221085421/https://www.dpmms.cam.ac.uk/seminars/Kuwait/abstracts/L30.pdf (On Catalan's Conjecture)
 
+pdf 635: http://www.math.ubc.ca/~bennett/B-CJM-Pillai.pdf (On some exponential equations of S. S. Pillai)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
