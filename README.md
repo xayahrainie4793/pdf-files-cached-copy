@@ -1260,6 +1260,12 @@ pdf 630: https://math.colgate.edu/~integers/j1/j1.pdf (On *k*-imperfect numbers)
 
 pdf 631: https://arxiv.org/pdf/2501.04851.pdf (Polynomially growing integer sequences all whose terms are composite)
 
+pdf 632: https://web.archive.org/web/20060221125555/http://www.math.leidenuniv.nl/~jdaems/scriptie/Catalan.pdf (A Cyclotomic Proof of Catalan's Conjecture)
+
+pdf 633: https://www.ams.org/journals/bull/2004-41-01/S0273-0979-03-00993-5/S0273-0979-03-00993-5.pdf (Catalan's conjecture: another old Diophantine problem solved)
+
+pdf 634: https://web.archive.org/web/20070221085421/https://www.dpmms.cam.ac.uk/seminars/Kuwait/abstracts/L30.pdf (On Catalan's Conjecture)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
