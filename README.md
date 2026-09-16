@@ -1268,6 +1268,8 @@ pdf 634: https://web.archive.org/web/20070221085421/https://www.dpmms.cam.ac.uk/
 
 pdf 635: http://www.math.ubc.ca/~bennett/B-CJM-Pillai.pdf (On some exponential equations of S. S. Pillai)
 
+pdf 636: https://londmathsoc.onlinelibrary.wiley.com/doi/epdf/10.1112/blms.70103 (On Artin's conjecture on average and short character sums)
+
 doc 1: https://www.primepuzzles.net/puzzles/Minimal%20Primes%204k+1,%204k-1,%20pu%20178.doc
 
 doc 2: http://www.primenumbers.net/Documents/genp1eng.doc
